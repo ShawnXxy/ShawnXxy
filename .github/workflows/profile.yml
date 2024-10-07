@@ -27,11 +27,12 @@ jobs:
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
+          # Option
           user: ShawnXxy
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
+          filename: metrics.plugin.skyline.city.svg, metrics.plugin.achievements.svg
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
@@ -93,6 +94,5 @@ jobs:
               "wait": 1,
               "hide": "button, footer, a"
             }
-
           plugin_skyline_year: current-year
           plugin_traffic: yes
