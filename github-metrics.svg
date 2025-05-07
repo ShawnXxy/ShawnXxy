@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2121" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1861" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info,.markdown a{color:#58a6ff}.gauge-base{stroke:currentColor;stroke-width:10;stroke-opacity:.2}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.keyword{color:#b44418}.token.number{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info,.markdown a{color:#58a6ff}.gauge-base{stroke:currentColor;stroke-width:10;stroke-opacity:.2}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.53m added, 167k removed
+                                    5.17k added, 801 removed
                                 </div>
                             </section>
                             <section>
@@ -348,7 +348,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 8 commits)</small>
+                    <small class="h-details">(computed from last 9 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2384,6 +2384,30 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">ShawnXxy/OrcasCopilot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a5dac11</div>
+                                        <div class="message">chore: Update README to reflect virtual environment naming convention and remove obsolete ARM template</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#405143e</div>
+                                        <div class="message">Add ARM template for Azure Function App deployment with storage and app service plan</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 4 commits in
                                         <span class="repo">ShawnXxy/OrcasCopilot</span>
                                     </div>
@@ -2461,704 +2485,6 @@
                                     <div class="commit">
                                         <div class="sha">#cf5df41</div>
                                         <div class="message">Refactor configuration files: remove unused skills and update signal fetching settings in config_orcas_my.json; add new config file config_orcas_supmy.json with agent and promptflow details.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 81 commits in
-                                        <span class="repo">ShawnXxy/OrcasCopilot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">staging</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7cb10f7</div>
-                                        <div class="message">Merged PR 1627575: [Bug] Fix TSG search with feedback learning in V2
-
-## Content
-
-Fix ACS query error
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [X] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-Fix TSG search feedback learning in V2
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-Bug fix
-
-#### PR Summary
-This pull request addresses a bug in the TSG search with feedback learning in V2, specifically fixing issues related to feedback learning failures.
-- Added new configuration file `config_sqldev.json` for SQL development environment.
-- Updated `tsg_retrieval.py` to include new parameters for scoring statistics and improved handling of search configurations.
-- Enhanced `ProbeConfig` class and related methods to support new scoring statistics parameter.
-- Improved TSG retrieval and reranking logic to handle feedback and scoring more effectively.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
-
-Related work items: #4046113</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1493a7a</div>
-                                        <div class="message">Merged PR 1627652: [Documentation] Updating Couple Broken Links; Adding V1 / V2 differentiation
-
-## Content
-
-- This fixes a couple broken links due to the new pages for V2.
-- This also makes sure that `v1` is called `v1` in the file for PromptFlow.
-- It adds a couple disambiguating links, and adds a warning on the main onboarding page.
-- Also adds a important warning for v2 from the FE.
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8400c1f</div>
-                                        <div class="message">Merged PR 1626936: [Bot] Changing behavior when sending a message while the DRI Copilot is still working
-
-## Content
-
-If a new message is sent while the DRI Copilot is still working, there were a couple options:
-1. Queue the incoming message(s) until the DRI Copilot finishes its current work, process it after.
-2. Block the UI from sending any message (doable on the web only).
-3. Cancel any occurring activity, make sure whatever we already sent is in the history.
-
-**(1)** is hard to implement correctly with the Bot Framework.
-**(2)** is only a partial solution.
-**(3)** actually serves us best. Any incoming message is treated as an "interruption", really.
-
-**Side changes**:
-- This also deprecate the _validation_ plugin on the FE. This one was seldom used, and caused a bit more harm than good. Besides, it will not be useful for `copilot_v2`, where looping is built-in.
-- Simplifies how we store session history.
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-Bug fix
-
-#### PR Summary
-This pull request addresses the issue of handling messages sent while the DRI Copilot is still processing previous inputs, ensuring proper serialization or blocking of new messages.
-- `src/core/bot/Dialogs/DRIBotDialog.cs`: Introduced timestamp-based cancellation checks and updated conversation ID handling.
-- `src/core/bot/Plugins/Control/Continuations/Validation/ValidationPlugin.cs`: Marked the ValidationPlugin as deprecated and updated comments.
-- `src/core/bot/Dialogs/Components/OutOfTurnAccessor.cs`: Improved handling of default values in the accessor.
-- `src/core/bot/Configs`: Removed deprecated `Control.Continuations.Validation` plugin from various configuration files.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
-
-Related work items: #4021012</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98b3109</div>
-                                        <div class="message">Merged PR 1619305: [Intelligence Platform] Adding back MS Teams manifest
-
-## Content
-
-Adding intelligence Platform manifest back here.
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-Re-adding intel plat manifest</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21ae8fe</div>
-                                        <div class="message">Merged PR 1603710: Add support for FIC token exchange to enable AME-&gt;ADO access
-
-## Content
-
-This PR adds a `TokenExchangeClient` which is a helper client class to perform token exchange on behalf of AME client to access ADO
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-Add support for FIC token exchange to enable AME-&gt;ADO access
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-New feature
-
-#### PR Summary
-This pull request adds support for FIC token exchange to enable AME-&gt;ADO access.
-- Added `src/core/common/clients/token_exchange_client.py` to handle token exchange for different environments.
-- Updated `src/core/indexers/tsgs/scripts/tsg_processing.py` to utilize the new `TokenExchangeClient` for obtaining tokens.
-- Modified `wiki/Onboarding/Prepare/Common-Configuration.md` to include new configuration parameters for token exchange.
-- Updated `src/common/config/template.json` and `src/core/common/config_v2/src/types/infra_config.py` to include new MSI-related configuration fields.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#672c93c</div>
-                                        <div class="message">Merged PR 1619068: Initial Plugin For CST Team
-
-## Content
-
-This plugin enables the initial given commands for common tasks for CST team.
-Note: The mappings for the question to queries are incomplete. Please provide more mappings to further expand this plugin.
-
-Examples of mapped questions + answers:
-![Screenshot 2025-03-26 102550.png](https://msdata.visualstudio.com/5603b9e3-ece0-4518-b9c8-1a36054d9970/_apis/git/repositories/7a11c04c-aa71-4764-a523-832d087cce37/pullRequests/1619068/attachments/Screenshot%202025-03-26%20102550.png)
-![Screenshot 2025-03-26 102611.png](https://msdata.visualstudio.com/5603b9e3-ece0-4518-b9c8-1a36054d9970/_apis/git/repositories/7a11c04c-aa71-4764-a523-832d087cce37/pullRequests/1619068/attachments/Screenshot%202025-03-26%20102611.png)
-![Screenshot 2025-03-26 103412.png](https://msdata.visualstudio.com/5603b9e3-ece0-4518-b9c8-1a36054d9970/_apis/git/repositories/7a11c04c-aa71-4764-a523-832d087cce37/pullRequests/1619068/attachments/Screenshot%202025-03-26%20103412.png)
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-New feature
-
-#### PR Summary
-This pull request introduces an initial plugin for the CST team, implementing a query bank approach to execute and summarize Kusto queries.
-- Added `cst_analyzer.py` to execute Kusto queries and summarize logs.
-- Updated `config_hldritest.json` to include new Kusto authentication details and integrate the new CST analyzer service.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
-
-Related work items: #3979448</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f990b2</div>
-                                        <div class="message">Merged PR 1622710: [TSG] TSG processing feedback learning index schema small fix
-
-## Content
-
-TSG processing small fix
-- Update warning message
-- Small fix of feedback learning index schema - we were checking if created index has rhyde_keywords field when default we don't generate rhyde_keywords. Reduce the number of wrong warning messages.
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [X] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [X] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-TSG processing feedback index schema small fix
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-Bug fix
-
-#### PR Summary
-This pull request addresses a small fix in the TSG processing feedback index schema.
-- `src/core/common/utils/tsg_additional_signal_schema_util.py`: Added a `create_keywords` parameter to conditionally append keyword fields.
-- `src/core/common/utils/indexer_util.py`: Updated logging to provide more detailed information on document changes.
-- `src/core/indexers/tsgs/aml_dispatcher.py` and `src/core/indexers/tsgs/scripts/tsg_processing.py`: Updated calls to `rhyde_obtain_schema` to include the new `create_keywords` parameter.
-- `src/core/indexers/tsgs/aml_dispatcher.py`: Added a new directory copy operation for `copilot_v2`.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#798594b</div>
-                                        <div class="message">Merged PR 1624706: [Bot] [Hotfix] Fixing NPM imports for code
-
-## Content
-
-It turns out, we need to use `@highlight-cdn-assets` if we want client-side library without running any form of npm build (which we don't as we only download client-side library with npm, given `libman` does not work anymore).
-
-This also does small cosmetic change to align design of the mermaid title with the code title on cards.
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-Updating npm for code import and mermaid
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-Bug fix for NPM imports.
-
-#### PR Summary
-This pull request addresses issues with NPM imports and updates related code and dependencies.
-- `npm-copy-client-side-libs.js`: Corrected paths for `highlight.js` assets.
-- `webchat.cshtml`: Updated script and stylesheet references for `highlight.js` and `lightbox2`.
-- `package.json`: Changed `highlight.js` dependency to `@highlightjs/cdn-assets`.
-- `mermaid-block.css`: Adjusted styles for mermaid block headers.
-- `mermaidblockEnhancements.js`: Modified header text for mermaid diagrams.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd3cfc2</div>
-                                        <div class="message">Merged PR 1619347: Update docs for readability and clarity
-
-## Content
-
-Updating documentation
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [x] You have deployed your latest code changes and validated that everything works fine.
-- [x] You have added appropriate documentation and headers to your files.
-- [x] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [x] The CI pipeline is passing.
-- [x] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [x] If needed, you have updated the `README.md` file(s) associated with your change.
-
-Update docs for readability and clarity
-
-- Update link descriptions in Onboarding to be distinct and searchable.
-- Revise prerequisites section for clarity and brevity
-  - .NET SDK step is redundant when installing VS2022 enterprise
-  - Step ordering revised to avoid interleaving when steps have already been done.
-    For example, it's common to have VS2022, VSCode, and/or Python already installed:
-    grouping them prevents "skipped a step" mistakes.
-  - Removed duplicate step to have the right permissions. It's already in a big WARNING section.
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-Documentation update
-
-#### PR Summary
-This pull request updates the documentation to improve readability and clarity.
-- `/wiki/Onboarding/Index.md`: Refined instructions for prerequisites, installation steps, and deployment guides.
-- `/wiki/Onboarding/Plugins/List.md`: Minor formatting correction.
-- `/README.md`: Updated the getting started link to point to the onboarding documentation.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f63960</div>
-                                        <div class="message">Merged PR 1622113: [DRI Copilot] Onboard Spark to the IcM Auto-Routing skill and implement any necessary improvements
-
-## Content
-
-This pull request onboards Spark to the IcM Auto-Routing skill and unifies the on-call routing skills for Power BI and FabricDW.
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [X] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [X] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-New feature
-
-#### PR Summary
-This pull request onboards Spark to the IcM Auto-Routing skill and unifies the on-call routing skills for Power BI and FabricDW.
-- Added `src/core/copilot/plugins/services/synapse/on_call_routing_troubleshooter.py` to guide users on routing incidents.
-- Deleted `src/core/copilot/plugins/services/dw/troubleshooters/fabricdw_on_call_routing_troubleshooter.py` and `src/core/copilot/plugins/services/powerbi/troubleshooters/powerbi_on_call_routing_troubleshooter.py`.
-- Updated `src/core/copilot/config/intelligence_platform/config_powerbi.json` to replace the old troubleshooter and add necessary configurations.
-- Updated `src/core/copilot/config/intelligence_platform/config_fabric_dw.json` and `src/core/copilot/config/intelligence_platform/config_spark.json` to include the new troubleshooter and relevant documentation links.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
-
-Related work items: #4020027, #4020032</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e370ad</div>
-                                        <div class="message">Merged PR 1622860: fix type append error not supported by python3.9
-
-## Content
-
-str | None syntax is only supported in 3.10 or later. But we are currently in 3.9 due to promptflow dependency.
-![image.png](https://msdata.visualstudio.com/5603b9e3-ece0-4518-b9c8-1a36054d9970/_apis/git/repositories/7a11c04c-aa71-4764-a523-832d087cce37/pullRequests/1622860/attachments/image.png)
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-fix type append error not supported by python3.9
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-Bug fix to address type append error not supported by Python 3.9.
-
-#### PR Summary
-This pull request fixes type append errors in `kusto_client.py` to ensure compatibility with Python 3.9.
-- `src/core/common/clients/kusto_client.py`: Added `Union` import and updated type annotations to use `Union` for compatibility with Python 3.9.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8a3b1e8</div>
-                                        <div class="message">Merged PR 1622542: [Infra] Adding copilot v2 to ARM
-
-## Content
-
-This updates the deployment script to support v2. V2 will be deployed in parallel to V1, and is its own stage.
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-- [ ] Test with deploying to dri copilot copilot.
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-New feature
-
-#### PR Summary
-This pull request adds support for Copilot V2 to ARM infrastructure.
-- Added `CopilotV2.Parameters.json` for configuring Copilot V2 deployment.
-- Updated `ServiceModel.json` in `DriCopilot` and `IntelligencePlatform` to include Copilot V2 configurations.
-- Modified `Deploy-CopilotEndpoint.Ev2.ps1` to handle Copilot V2 specific paths and configurations.
-- Updated `RolloutSpec.json` in `DriCopilot` and `IntelligencePlatform` to include deployment steps for Copilot V2.
-- Added Copilot V2 specific entries in `ScopeBindings.json` for `DriCopilot` and `IntelligencePlatform`.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
-
-Related work items: #4033305</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc28a55</div>
-                                        <div class="message">Merged PR 1621539: [Doc] Mermaid graph change
-
-## Content
-
-Following instruction here, updating mermaid syntax.
-
-https://eng.ms/docs/cloud-ai-platform/azure-core/azure-storage/azure-file-storage/azure-netapp-files/azure-netapp-files/runbooks/mermaid-diagrams
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [X] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [X] The CI pipeline is passing.
-- [X] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-Documentation
-
-#### PR Summary
-This pull request updates the Mermaid graph syntax in the documentation to use HTML div tags for better rendering.
-- Changes in `/wiki/Onboarding/Plugins/OverviewV2.md` to replace Mermaid code blocks with HTML div tags.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#497fd81</div>
-                                        <div class="message">Merged PR 1613670: Small fix for manager and SQL agentic copilot update
-
-## Content
-- Small bug found when @&lt;Divya Vermareddy&gt; adding the icm suite skill.
-- Re-run the deploy_arm will need to disable the role assignment as it already granted
-- SQL test bot with agentic endpoint included. 
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-Bug fix and update for SQL agentic copilot.
-
-#### PR Summary
-This pull request includes a small fix for the manager and updates the SQL agentic copilot configuration.
-- Added new configuration file `src/core/bot/Configs/Test/appsettings.sqlagentic.json` for SQL agentic copilot settings.
-- Updated `src/deployment/deployment_util.py` to include an option to skip role assignment during ARM template deployment.
-- Fixed argument type in `src/core/copilot_v2/utils/agent_selector_helper.py`.
-- Minor formatting change in `src/tests/unit/copilot_v2/test_icm_insight.py`.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16871fa</div>
-                                        <div class="message">Merged PR 1611613: Add Kepler Plugin to SQL DB Copilot Test
-
-## Content
-
-Add Kepler Plugin to SQL DB Copilot Test
-
-Updated sql/config_sqlall_test.json to be based on sql/config_sqlall.json, use the dri-sqlall-test-v1 endpoint name and added the Kepler plugin.
-Added the Kepler plugin to the SQL DB bot in sqltest frontend. The bot uses the https://dri-sqlall-test-v1.eastus.inference.ml.azure.com/score PromptFlow endpoint.
-
-The bot is available here: https://sql-dri-copilot-tst.azurewebsites.net/
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-New feature
-
-#### PR Summary
-This pull request adds the Kepler Plugin to the SQL DB Copilot Test configuration.
-- Updated `src/core/copilot/config/sql/config_sqlall_test.json` to include Kepler search configurations and adjusted various parameters.
-- Modified `src/core/bot/Configs/appsettings.sqltest.json` to add Kepler NotebookHandler and its related settings.
-- Adjusted `WebChatTrustedOrigins` in `src/core/bot/Configs/appsettings.sqltest.json` to include localhost URLs for testing.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
-
-Related work items: #3994007</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae299c9</div>
-                                        <div class="message">Merged PR 1620723: [Documentation] Small Updates from Recent Asks
-
-## Content
-
-This updates a bit of our documentation from recent asks:
-
-- Details of use cases.
-- Update to S360 and vulnerabilities, warning on network isolation.
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-Few updates
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-Documentation
-
-#### PR Summary
-This pull request updates the documentation based on recent requests, enhancing clarity and adding new sections.
-- `wiki/Index.md`: Added detailed use cases for DRI Copilot, including troubleshooting, writing help, proactive notifications, and code indexing.
-- `wiki/Onboarding/Operationalization/S360.md`: Updated security review dates, added privacy notice, and detailed network isolation challenges.
-- `wiki/FAQs.md`: Added a new FAQ entry addressing network isolation flags in S360.
-- `wiki/Onboarding/Modules/Bot.md`: Corrected a typo in the error message section.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3922d39</div>
-                                        <div class="message">Merged PR 1620993: [Doc] Create doc for both V2 and V1
-
-## Content
-
-Adding doc for both V1 and V2.
-
-![image.png](https://msdata.visualstudio.com/5603b9e3-ece0-4518-b9c8-1a36054d9970/_apis/git/repositories/7a11c04c-aa71-4764-a523-832d087cce37/pullRequests/1620993/attachments/image.png)
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-create doc for both V2 and V1
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-Documentation
-
-#### PR Summary
-This pull request updates the documentation to include information for both V1 and V2 flows.
-- Updated `toc.yml` files to include separate sections for Flow V1 and Flow V2.
-- Added warnings and notes in `PromptFlow.md` and `Overview.md` about the deprecation of V1 and the benefits of upgrading to V2.
-- Created new documentation files `PromptFlowV2.md` and `OverviewV2.md` for V2 flow setup and overview.
-- Updated links and references in `List.md` and `OverviewV2.md` to point to the new V2 documentation.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#501d190</div>
-                                        <div class="message">Merged PR 1597959: [TSG] Switch to V2 IcM Skill in TSG Processing
-
-## Content
-
-- In TSG processing, switch to use icm_extractor in copilot_v2 and made related changes for feedback learning
-- Make related changes to use config_v2 for TSG processing and icm_extractor
-- Added is_filtering_enrichment field in icm_extractor skill config
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [X] You have deployed your latest code changes and validated that everything works fine.
-- [X] You have added appropriate documentation and headers to your files.
-- [X] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [X] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [X] If needed, you have updated the `README.md` file(s) associated with your change.
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-Code cleanup
-
-#### PR Summary
-This pull request focuses on cleaning up the `tsg_processing.py` script by removing unused imports and adding logging functionality.
-- `src/core/indexers/tsgs/scripts/tsg_processing.py`: Removed unused imports and added logger initialization to improve logging capabilities.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
-
-Related work items: #3926823</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#78880b4</div>
-                                        <div class="message">Merged PR 1617937: [SQL] update doc bot link
-
-## Content
-
-SQL bot doc update.
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [X] You have deployed your latest code changes and validated that everything works fine.
-- [X] You have added appropriate documentation and headers to your files.
-- [X] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [X] The CI pipeline is passing.
-- [X] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [X] If needed, you have updated the `README.md` file(s) associated with your change.
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-Documentation update
-
-#### PR Summary
-Updated the documentation to provide a new link for accessing the SQL DRI Copilot on Microsoft Teams.
-- `wiki/DRI-Copilots/SQL-DRI-Copilot.md`: Updated the Microsoft Teams link and removed detailed installation instructions.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc2126f</div>
-                                        <div class="message">Merged PR 1618966: [Intelligence Platform] Adding Dqp RE Polaris branch
-
-## Content
-
-DQP RE is a special use case requested by @&lt;Purvesh Thakkar&gt;. We will have to debate or not supporting it in multi-codebase search, but if it is not in production yet, maybe we won't look at it for now (@&lt;Swati Bararia&gt;  as FYI if you wonder what this is).
-
-Indexing is in progress, endpoint deployed. FE not yet till indexing is done but this can be checked in.
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-Saving DQP RE
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-New feature
-
-#### PR Summary
-This pull request introduces new configuration files for the DQP RE feature in the Polaris project.
-- Added `config_polaris_dqp_re.json` in `src/core/copilot/config/intelligence_platform/` to configure various components like ACS, PromptFlow, Kusto, and plugins.
-- Added `config_polaris_dqp_re.json` in `src/core/indexers/codes/config/intelligence_platform/` to configure code search sources, pipeline, compute, and indexing settings.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -3270,7 +2596,7 @@ This pull request introduces new configuration files for the DQP RE feature in t
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 6 May 2025, 10:20:18
+                            On 6 May 2025, 10:17:37
                         </div>
                     </section>
                 </div>
@@ -3295,9 +2621,9 @@ This pull request introduces new configuration files for the DQP RE feature in t
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">68d5b709</span>
-                            <span class="code">src/core/copilot_v2/.amlignore</span>
+                            <span class="code">src/core/copilot_v2/agents/ResetContext.yaml</span>
                             <span class="code">
-                                <span class="snippet additions">++9</span>
+                                <span class="snippet additions">++10</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -3306,14 +2632,14 @@ This pull request introduces new configuration files for the DQP RE feature in t
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,9 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"># Files containing secrets<br /></span><span class="token prefix inserted">+</span><span class="token line">config_local.json<br /></span><span class="token prefix inserted">+</span><span class="token line">.env<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line"># Files that are used to check if we run locally should not be published<br /></span><span class="token prefix inserted">+</span><span class="token line">.is_local_env<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line"># Testing files<br /></span><span class="token prefix inserted">+</span><span class="token line">*Kai_test*<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,10 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">agent_name: ResetContext<br /></span><span class="token prefix inserted">+</span><span class="token line">description: |<br /></span><span class="token prefix inserted">+</span><span class="token line">This agent is executed when the user wants a blank session and clear the conversation history.<br /></span><span class="token prefix inserted">+</span><span class="token line">The current discussion round's user input should ONLY ask for a new conversation without any other question.<br /></span><span class="token prefix inserted">+</span><span class="token line">The current discussion round's user input should be a single sentence asking us to clear up the history of what we discussed with the user.<br /></span><span class="token prefix inserted">+</span><span class="token line">EXAMPLE user inputs: 'reset session', 'start new session', 'stop', 'Start a new discussion', etc.<br /></span><span class="token prefix inserted">+</span><span class="token line">skills:<br /></span><span class="token prefix inserted">+</span><span class="token line">- skill_name: control.chat_context_reset<br /></span><span class="token prefix inserted">+</span><span class="token line">execute_main_chat: false<br /></span><span class="token prefix inserted">+</span><span class="token line">is_terminal_agent: true</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 May 2025, 01:20:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 May 2025, 02:30:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
