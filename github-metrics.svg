@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    410k added, 73.4k removed
+                                    17.4k added, 5.82k removed
                                 </div>
                             </section>
                             <section>
@@ -348,14 +348,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 4 commits)</small>
+                    <small class="h-details">(computed from last 5 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 63.9 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
-                        <li>Mostly active on Tuesday</li>
+                        <li>Mostly active on Thursday</li>
                     </ul>
                 </div>
             </section>
@@ -2383,6 +2383,736 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 140 commits in
+                                        <span class="repo">ShawnXxy/OrcasCopilot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">stagingv2</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9799594</div>
+                                        <div class="message">Merged PR 1661026: [Intelligence Platform] Added Power BI Engineering Systems
+
+## Content
+
+This adds the required configuration to onboard **Power BI Engineering Systems** per chat with @&lt;Samanth Reddy Gunreddy&gt; and @&lt;Parthiv Shah&gt;.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+Added Power BI Engineering Systems
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+New feature: Added configuration and documentation for Power BI Engineering Systems.
+
+#### PR Summary
+This pull request introduces configurations and documentation for integrating Power BI Engineering Systems into the Intelligence Platform. It includes new JSON configuration files and updates to existing settings to support this integration.
+- Added `config_powerbi_engineering_systems.json` in `/src/core/copilot_v2/config/intelligence_platform/` for Power BI Engineering Systems configuration.
+- Added `config_powerbi_engineering_systems.json` in `/src/core/indexers/tsgs/config/intelligence_platform/` and `/src/core/indexers/icms/config/intelligence_platform/` for TSG and ICM indexing configurations.
+- Added documentation file `powerbi_engineering_systems.md` in `/src/common/descriptions/intelligence_platform/` detailing Power BI Engineering Systems.
+- Updated `/src/core/bot/Configs/appsettings.IntelligencePlatform.json` to include a new chat configuration for Power BI Engineering Systems.
+- Modified `/EV2Files/Deployments/IntelligencePlatform/ScopeBindings.json` to include new configuration files for Power BI Engineering Systems.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #4159853</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#979c54f</div>
+                                        <div class="message">Merged PR 1660345: Adding skip agent for meta plan updates
+
+## Content
+
+This PR add skip the agent in the list to mitigate the issue that if the first agent fully answers the question, we don't use another agent to answer the question.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Bug fix to address meta plan updates by skipping unnecessary agent execution.
+
+#### PR Summary
+This pull request introduces a temporary fix to skip the execution of the Code Agent when it is not needed, ensuring efficient agent selection and execution. It also includes updates to the documentation and configuration settings.
+- `src/core/copilot_v2/utils/manager_prompts.py`: Added logic to create prompts for skipping the current agent based on chat history.
+- `src/tests/unit/copilot_v2/test_manager.py`: Added unit tests to verify the functionality of skipping agents.
+- `src/core/copilot_v2/modules/agent_selector.py`: Implemented logic to skip the current agent if conditions are met.
+- `src/core/copilot_v2/skills/control/code_question_recommender.py` and `question_recommender.py`: Updated conditions to skip question recommendation if Code Agent has skill data results.
+- `wiki/DRI-Copilots/SQL-DRI-Copilot.md`: Added instructions for reporting outages and issues.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #4149123</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2f4aca</div>
+                                        <div class="message">Merged PR 1658972: [IcM Insight] Add icm insight fix using timeout
+
+## Content
+
+Was not able to reproduce the issue from customer.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [X] You have deployed your latest code changes and validated that everything works fine.
+- [X] You have added appropriate documentation and headers to your files.
+- [X] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [X] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [X] If needed, you have updated the `README.md` file(s) associated with your change.
+
+add icm insight fix using timeout
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Bug fix
+
+#### PR Summary
+This pull request addresses a bug in the IcM Insight feature by implementing a timeout mechanism for Kusto query execution and enhancing error handling.
+- `src/core/copilot_v2/skills/kql/specialized/icm_insight.py`: Added timeout parameter to Kusto query execution and improved error handling with additional instructions for unsuccessful query execution.
+- `src/core/copilot_v2/utils/kusto_util.py`: Introduced a timeout parameter in the `execute_kusto` function to prevent long-running queries.
+- `src/core/copilot_v2/llm/icm_insight_prompt_v1.py`: Removed a specific Kusto query example related to incident counts by tag from the prompt class.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c75503</div>
+                                        <div class="message">Merged PR 1654020: [PF] Add dricopilot basic info to prompt and user id to icm insight and improve kql generator
+
+## Content
+
+Based on the feedback pulse, we identified two improvements:
+
+(1) When user asking about how to file bug / requests, we can use this additional prompt as context
+(2) For questions about tickets assigned to "me", we will take the user id directly.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [X] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [X] The CI pipeline is passing.
+- [X] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+add dricopilot basic info and user id to icm insight
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Enhancement
+
+#### PR Summary
+This pull request enhances the DRI Copilot by adding basic information about the bot to the prompt and incorporating the user ID into the ICM insight skill. These changes aim to improve user interaction and context handling.
+- Updated `QA.yaml` to include detailed information about the DRI Copilot for user inquiries, including contact details and feedback options.
+- Modified `icm_insight.py` to append the user's alias to the question for better context in Kusto query generation.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Enhancement
+
+#### PR Summary
+This pull request enhances the DRI Copilot by adding basic information about the bot to the prompt and incorporating the user ID into the ICM insight skill. These changes aim to improve user interaction and context handling.
+- Updated `src/core/copilot_v2/agents/QA.yaml` to include detailed information about the DRI Copilot for user inquiries.
+- Modified `src/core/copilot_v2/skills/kql/specialized/icm_insight.py` to append the user's alias to the question for better context in ICM insights.
+
+Related work items: #4138694, #4138705</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32a6e4c</div>
+                                        <div class="message">Merged PR 1649888: Enable o series models for V2
+
+## Content
+
+This PR is adding support for O series model. o-series models can be used:
+
+1. At an agent level for final_chat answer generation by using the flag is_using_reasoning_models = true in the agent.yaml file and defining a reasoning_model in the OpenAI config for the service.
+ This is demonstrated in the Vanilla and Code agents.
+
+2. At a skill level by passing the value of is_using_reasoning_models = true when calling aoai_client fucntions.
+This is demonstrated for the icm_insight skill and will only be enabled if a reasoning_model is defined in the OpenAI config for a particular service or in the common config.
+
+reasoning_effort can be low, medium or high.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+New feature: Enable support for "o series" models in V2.
+
+#### PR Summary
+This pull request introduces support for "o series" models in the V2 architecture, enhancing the system's capabilities with reasoning models. Key changes include:
+- Updated `aoai_client.py` to handle reasoning models with new parameters `reasoning_effort` and `is_using_reasoning_model`.
+- Modified configuration files such as `config_vanilla.json` and `config_intelligence_platform.json` to include new deployment IDs and reasoning settings.
+- Enhanced `final_chat.py` and `agent_selector.py` to select and utilize reasoning models based on context.
+- Updated agent YAML files (e.g., `Code.yaml`, `KustoExecutor.yaml`) to include the `is_using_reasoning_model` flag.
+- Added new methods and attributes in `current_context.py` to manage reasoning model usage.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #4099178</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b8a372</div>
+                                        <div class="message">Merged PR 1653961: [Proactive Plugin] Fix Handoff Message + Onboard Spark
+
+## Content
+
+Handoff Message was hallucinating the status of the incident since that is not provided by Icm_extractor skill. Fixing the final hand-off message to be short and concise.
+
+Made changes to support EIM scenario for different teams.
+Onboarded EIM feature for PBI on demand from Parthiv Shah.
+Onboarded Spark to DailySummary Plugin.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Bug fix for configuration issues in Proactive Plugins.
+
+#### PR Summary
+This pull request addresses configuration issues in the Proactive Plugins by updating plugin identifiers and settings. It ensures the correct configuration of the OnCall plugins, which are crucial for push notifications related to on-call summaries.
+- Updated plugin identifiers in `appsettings.barariaswatiTest.json` and `appsettings.IntelligencePlatform.json` to use the full path format for `OnCall.DailySummary.DailySummary` and `OnCall.HandOffSummary.HandOffSummary`.
+- Modified `DailySummary.cs` and `HandOffSummary.cs` to reflect the updated plugin identifiers.
+- Updated documentation in `ListV1.md` and `ListV2.md` to align with the new plugin configuration format.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #3186093</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c8e3795</div>
+                                        <div class="message">Merged PR 1629225: Re-index SQLES Chatbot with updated TSG links
+
+This PR updates the TSG links in the SQL ES Chatbot to align with their respective backing repositories. Once this PR is merged, the SQLES Chatbot will be re-indexed to reflect the updated TSG links.
+
+Logs:
+```
+PS D:\DRICopilot\src\core\indexers\tsgs&gt; python .\aml_dispatcher.py --config_file=test\config_sqles_test.json
+Log File Name:  D:\DRICopilot\src\core\indexers\tsgs\logs\tsgs.log
+Log File Name:  D:\DRICopilot\src\core\indexers\tsgs\logs\tsgs.log
+2025-04-25 13:29:01 - INFO - Parsing input arguments.
+2025-04-25 13:29:01 - INFO - Converting JSON encoded infra configurations into Python dictionary
+2025-04-25 13:29:01 - INFO - Converting JSON encoded infra configurations into Python dictionary
+2025-04-25 13:29:01 - INFO - AML subscription: 6c331ce5-4e22-48eb-894d-5e8ba6a2f834.
+2025-04-25 13:29:01 - INFO - Workspace name: sql-dricopilot-aml.
+2025-04-25 13:29:01 - INFO - Creating or getting AML workspace.
+Readonly attribute principal_id will be ignored in class &lt;class 'azure.ai.ml._restclient.v2022_05_01.models._models_py3.UserAssignedIdentity'&gt;
+Readonly attribute client_id will be ignored in class &lt;class 'azure.ai.ml._restclient.v2022_05_01.models._models_py3.UserAssignedIdentity'&gt;
+Readonly attribute principal_id will be ignored in class &lt;class 'azure.ai.ml._restclient.v2022_05_01.models._models_py3.UserAssignedIdentity'&gt;
+Readonly attribute client_id will be ignored in class &lt;class 'azure.ai.ml._restclient.v2022_05_01.models._models_py3.UserAssignedIdentity'&gt;
+2025-04-25 13:29:38 - INFO - Creation of workspace of: sql-dricopilot-aml.
+2025-04-25 13:29:38 - INFO - Uploading local secrets to Azure Key Vault.
+2025-04-25 13:29:38 - INFO - Setting secrets from local configuration. Uploading to https://sqldricoamlkeyvault.vault.azure.net/.
+2025-04-25 13:29:38 - INFO - Gathering pipeline arguments.
+2025-04-25 13:29:38 - INFO - Creating or getting AML compute.
+2025-04-25 13:29:38 - INFO - Creating compute...
+2025-04-25 13:30:13 - INFO - Creation of compute of: cpu-cluster-tsg.
+Readonly attribute principal_id will be ignored in class &lt;class 'azure.ai.ml._restclient.v2022_05_01.models._models_py3.UserAssignedIdentity'&gt;
+Readonly attribute client_id will be ignored in class &lt;class 'azure.ai.ml._restclient.v2022_05_01.models._models_py3.UserAssignedIdentity'&gt;
+Readonly attribute principal_id will be ignored in class &lt;class 'azure.ai.ml._restclient.v2022_05_01.models._models_py3.UserAssignedIdentity'&gt;
+Readonly attribute client_id will be ignored in class &lt;class 'azure.ai.ml._restclient.v2022_05_01.models._models_py3.UserAssignedIdentity'&gt;
+2025-04-25 13:30:48 - INFO - Changed image build compute: cpu-cluster-tsg
+Uploading Environment (0.0 MBs): 100%|############################################| 3188/3188 [00:00&lt;00:00, 9215.71it/s]
+
+2025-04-25 13:31:03 - INFO - Creation of environment of: index-processing-env.
+2025-04-25 13:31:03 - INFO - Starting pipeline... The output will be stored at the default data store for the workspace.
+2025-04-25 13:31:03 - INFO - Cre...</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e77a1f6</div>
+                                        <div class="message">Merged PR 1657967: [INFRA] Hotfixing NPM and Deployment Issues
+
+## Content
+
+### Root Cause
+
+Locally, we run `.\vsts-npm-auth -config .npmrc`. This authenticates us against the feed using a PAT. However, this does not put that authentication scheme in the local .npmrc file (which is checked-in). Instead, it puts it into another source file, typically in the developer's root folder (`~/.npmrc`).
+
+Due to this, we cannot use `npm install --userconfig=.npmrc` locally. It would use a source file that does not have the appropriate configs.
+
+Online, things are different. The source is set into that `.npmrc` by the `NpmAuthenticate@0` step in the Azure DevOps pipeline. Due to this, we _must_ used that source. We were doing so implicitly (per verbose logs we tried long time ago). But recently, this has started failing, claiming we were not authenticated against our own feed. My best guess is that, somehow, this is now conflicting with basic build machine set up. I am not digging into the bottom of this for lack of time.
+
+To fix this, we need to pass the appropriate source using `--userconfig` when running on ADO.
+
+Related doc (superficial...): https://msazure.visualstudio.com/One/_git/Azure-Documents-Common?path=/Network-Isolation/oss/npm.md&amp;version=GBEngHubdocs/Network-Isolation&amp;line=1&amp;_a=preview
+
+### Side Issue
+
+We lacked appropriate catches around `dotnet` action in our build scripts. This caused builds to silently fail for EV2 pipelines.
+
+This PR fixes that, too.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b0d8c3</div>
+                                        <div class="message">Merged PR 1652478: Add Bug Report Button for Feedback Card
+
+## Content
+
+Adds information linking to eng hub
+
+![image.png](https://msdata.visualstudio.com/5603b9e3-ece0-4518-b9c8-1a36054d9970/_apis/git/repositories/7a11c04c-aa71-4764-a523-832d087cce37/pullRequests/1652478/attachments/image.png)
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+init commit
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+New feature
+
+#### PR Summary
+This pull request introduces a new feature to the feedback card by adding a "Report Bug" button, allowing users to easily report issues.
+- `src/core/bot/Dialogs/Interface/CardFactory.cs`: Added an `AdaptiveOpenUrlAction` for the "Report Bug" button with a URL to the bug reporting page.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #4124296</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64d6a65</div>
+                                        <div class="message">Merged PR 1656144: [Hotfix] Fixing PySocks (and other annoying dependencies we are wrongly flagged for)
+
+## Content
+
+This fixes a build break due to dependency on PySocks `1.7.0`.
+
+It also changes the target project for the CI code processing pipeline. if we rely on Promptflow, we clone it, and it has a bunch of its own issue that our CI gets flagged for.
+
+In addition, it takes care of [CVE-2024-49768](https://msdata.visualstudio.com/Database%20Systems/_componentGovernance/DRICopilot/alert/12136737?typeId=20867572&amp;pipelinesTrackingFilter=0).
+
+EV2 test deployment: https://ev2portal.azure.net/#/Rollout/Azure%20Data%20DRI%20Copilot/a5df4934-33da-477d-834a-9a8050235aff?RolloutInfra=Test
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+Updating configs
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Bug fix for dependency issues and configuration update.
+
+#### PR Summary
+This pull request addresses dependency issues by updating the `requirements.txt` file and modifies a configuration file to point to a new repository. These changes aim to resolve flagged vulnerabilities and update repository references.
+- Updated `requirements.txt` to fix PySocks dependency and adjust for Python 3.10.13 compatibility.
+- Modified `config_drici.json` to change the code source from `promptflow` to `golden-scenario`.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab7e14a</div>
+                                        <div class="message">Merged PR 1654342: [Doc] Adding Branching Strategy and Design Pointers
+
+## Content
+
+This PR adds a couple things that were discussed in the onboarding chat.
+- Compliance of the web key
+- Branching strategy
+- A few more document pointers
+- Missing code bubble documentation
+
+**Note**: please add more pointers to design docs; it is **good** to keep a clean paper trail. I didn't add any from the data science side.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#925bdd4</div>
+                                        <div class="message">Merged PR 1654257: [SQL] update T-Train skill Kusto authentication
+
+## Content
+
+This PR updates T-Train skill Kusto authentication to use service principle to access SQL cluster
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [x] You have deployed your latest code changes and validated that everything works fine.
+- [x] You have added appropriate documentation and headers to your files.
+- [x] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [x] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [x] If needed, you have updated the `README.md` file(s) associated with your change.
+
+update TTrain status Kusto authentication
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Update to Kusto authentication method for T-Train skill in SQL service.
+
+#### PR Summary
+This pull request updates the authentication method for executing Kusto queries in the T-Train skill, switching to service principal authentication. It also updates configuration files with necessary authentication details.
+- `ttrain_executor.py`: Changed Kusto authentication to use service principal and removed user token.
+- Updated configuration files (`config_sqlall.json`, `config_sqlarc.json`, `config_sqles.json`, `config_sqlmi.json`, `config_sqlvm.json`) to include tenant ID, AAD app client ID, and authorized certificate name for Kusto authentication.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff4e6b5</div>
+                                        <div class="message">Merged PR 1652681: [Skill] Add linked tsg contents to the current icm as additional fields
+
+## Content
+
+For icm extractor, if the incident has linked tsg, we will append two chunks from this tsg to the ticket.
+
+Tested with 3 cases:
+(1) incidents do not have linked tsg
+(2) incidents have tsg, but this tsg  is not found in the tsg index
+(3) incidents have tsg, (overwritten to one tsg id that is included in the drici index), and the tsg content is added to the icm_extractor's output, specifically in the icm_summary field.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [X] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [X] The CI pipeline is passing.
+- [X] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [X] If needed, you have updated the `README.md` file(s) associated with your change.
+
+add linked tsg contents to the current icm as additional fields
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+New feature: This pull request adds functionality to extract and include TSG content linked in ICM tickets.
+
+#### PR Summary
+This pull request enhances the ICM extractor by incorporating TSG content linked in ICM tickets as additional fields. This feature allows for more comprehensive ticket summaries.
+- In `icm_extractor.py`, added logic to retrieve and include TSG documents linked in ICM tickets.
+- Updated `CustomSkill` class to initialize and pass a `GetTSGs` instance for TSG retrieval.
+- Imported `GetTSGs` and `GetTsgsSkillConfig` to support the new functionality.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #4106896</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89b08d4</div>
+                                        <div class="message">Merged PR 1653797: [Intelligence Platform] Indexing Polaris tests
+
+## Content
+
+This is an ask from Miro Flasza, who is willing to try this out more :)
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+Adding test to polaris index</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8cbde4e</div>
+                                        <div class="message">Merged PR 1650948: [Security] Temp fix for llama-index
+
+## Content
+
+Update llama-index version by installing separately.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [X] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [X] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+temp fix for llama-index
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Security fix.
+
+#### PR Summary
+This pull request addresses a security vulnerability by updating dependencies and temporarily fixing the llama-index package. It includes updates to Go and Python dependencies to mitigate known advisories.
+- `aml_util.py`: Updated `golang.org/x/net` to version 0.38.0 and added `llama-index` to the Python installation.
+- `setup.py`: Updated `golang.org/x/net` to version 0.38.0 and added `llama-index` to the Python installation.
+- `requirements.txt`: Removed the pinned version of `llama-index` to allow for updates.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1da6d64</div>
+                                        <div class="message">Merged PR 1650530: [Post ICM Suite Plugin] Add documentation
+
+## Content
+
+This PR adds post icm suite documentation to the main site
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Documentation
+
+#### PR Summary
+This pull request adds documentation for the Post ICM Suite Plugin, detailing its usage and setup. It also includes updates to configuration files to reflect changes in plugin and skill names.
+- Added documentation for the Post ICM Suite in `/wiki/Onboarding/Plugins/Frontend-Plugins.md`.
+- Updated `/wiki/Onboarding/Plugins/ListV1.md` and `/wiki/Onboarding/Plugins/ListV2.md` with new plugin descriptions and enabling instructions.
+- Changed skill name from `services.synapse.5_whys_method` to `diagnostic.5_whys_method` across multiple configuration files, including `/src/core/copilot/config/intelligence_platform/` and `/src/core/copilot_v2/config/intelligence_platform/`.
+- Updated `/src/core/copilot_v2/agents/services/dw/DiagnosticDocs.yaml` to reflect the skill name change.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #4107695</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0bbbf0e</div>
+                                        <div class="message">Merged PR 1649532: Suggestion Card UI Update
+
+## Content
+
+Updates the suggestion carousel cards to allow for question categorization/easier ux
+
+![image.png](https://msdata.visualstudio.com/5603b9e3-ece0-4518-b9c8-1a36054d9970/_apis/git/repositories/7a11c04c-aa71-4764-a523-832d087cce37/pullRequests/1649532/attachments/image.png)
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+init commit
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+UI/UX enhancement
+
+#### PR Summary
+This pull request updates the suggestion card UI to improve user experience by categorizing suggestions and generating adaptive cards.
+- `SuggestionsPlugin.cs`: Added methods to generate new adaptive suggestion cards and updated session handling to use the new card format.
+- `appsettings.DRICopilot.json` and `appsettings.hldritest.json`: Updated configuration to include categorized suggestions.
+- `SuggestionsSettings.cs`: Introduced a new property for categorized suggestions.
+- Documentation updates in `ListV2.md` and `Frontend-Plugins.md` to reflect the new configuration format.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #3748499</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77e17ba</div>
+                                        <div class="message">Merged PR 1647647: [SQL Copilot] update to v2
+
+## Content
+
+Update SQL copilot to v2 agentic flow
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+update to v2
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+New feature: Update SQL Copilot to version 2.
+
+#### PR Summary
+This pull request introduces version 2 of the SQL Copilot, enhancing its configuration and capabilities across multiple SQL environments.
+- Addition of new configuration files `config_sqlarc.json`, `config_sqles.json`, `config_sqlmi.json`, and `config_sqlvm.json` to support different SQL environments with updated agentic copilot settings.
+- Updates in `appsettings.sql.json` to integrate version 2 of the PromptFlow API endpoints for various SQL services, including SQL DB, SQL MI, SQL ARC, SQL ES, and SQL VM, along with new chat configurations and plugins.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #3978416</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9c28d8</div>
+                                        <div class="message">Merged PR 1649559: [Skill] For get_icm's reranker use both code and kusto_queries
+
+## Content
+
+Small change to combine "code" and "kusto_queries" from the icm summary for reranking jointly.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [X] You have deployed your latest code changes and validated that everything works fine.
+- [X] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [X] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+Related work items: #4111927</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92471b2</div>
+                                        <div class="message">Merged PR 1649487: [Intelligence Platform] Adding Secondary Main Config For Indexing
+
+## Content
+
+Thanks @&lt;Swati Bararia&gt; !
+
+This change is introducing a secondary common configuration file for `Intelligence Platform`, pointing to a different Open AI endpoint in East US2 (for now, deployed manually) where we have `gpt4.1-mini` available (it is **not** available in East US at this point).
+
+That Open AI endpoint has been deployed and configured manually (gave our MI the right accesses).
+
+## Benefits
+- `gpt-4.1-mini` is as good if not better as `gtp-4o` per some benchmarks.
+- `gpt-4.1-mini` comes as a fraction of the cost of `gpt-4o`.
+- This creates an isolated deployment for indexing, so the main chat is not impacted.
+
+## Why now?
+
+We do have plans to support a different model for indexing, so we can have things running in isolation. This requires ARM changes that are not needed for 90% of people currently working on deploying their DRI Copilot.
+
+In addition, `gpt-4.1-mini` will likely be available world-wide soon.
+
+However, with the change done in !1640075, the chunks for TSGs and codes aren't exactly the same. This means we are doing a whole lot of reprocessing under-the-hood, which increases our COGs and increases the copilot's latency as the model is now being slammed with new indexing.
+
+Moving here will enable us to lower our COGS while also isolating the main chat.
+
+**Later, when available, we will redeploy into our main East US endpoint, managed by ARM**
+
+## Next Step
+
+Add a mechanism to deploy an isolated model for index processing through ARM (same region OK - things will get to East US eventually, this is only temporary).
+
+@&lt;Swati Bararia&gt; I presume you would look at that after `o3` support? :)
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+New feature: Addition of a secondary main configuration for indexing in the Intelligence Platform.
+
+#### PR Summary
+This pull request introduces a new configuration file for indexing within the Intelligence Platform and updates existing configurations to utilize this new file.
+- Added a new configuration file `config_intelligence_platform_indexing.json` with settings for OpenAI, AML, ACS, KeyVault, MSI, and evaluation.
+- Updated `common.config_file` references in multiple configuration files across different indexers to point to `config_intelligence_platform_indexing.json` instead of `config_intelligence_platform.json`.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot -...</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 6 commits in
                                         <span class="repo">ShawnXxy/azure-powershell</span>
                                     </div>
@@ -3181,132 +3911,6 @@ format the text to make it reading friendly in public doc</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 45 commits in
-                                        <span class="repo">ShawnXxy/azure-powershell</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f5d8429</div>
-                                        <div class="message">Spelling Fixes (#27914)
-
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#513dcae</div>
-                                        <div class="message">Spelling Fixes (#27915)
-
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b8de50</div>
-                                        <div class="message">Spelling Fixes (#27917)
-
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ecd85b</div>
-                                        <div class="message">Spelling Fixes (#27920)
-
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ffd90f</div>
-                                        <div class="message">Spelling Fixes (#27921)
-
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f0a471a</div>
-                                        <div class="message">Spelling Fixes (#27922)
-
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eac82ec</div>
-                                        <div class="message">Spelling Fixes (#27923)
-
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f34583</div>
-                                        <div class="message">Add a github action to remove old branches (#27906)
-
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e5557ad</div>
-                                        <div class="message">Sync resourceManagement.yml according To ADO Wiki Page - Service Contact List (#27913)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8776153</div>
-                                        <div class="message">[skip ci] Archive ba46053fba6a6630ec2e98d854774cb5c161d23a (#27924)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba46053</div>
-                                        <div class="message">Initial release of Dependencymap based on tsp (#27910)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ad9152</div>
-                                        <div class="message">fix spelling (#27893)
-
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3aa769d</div>
-                                        <div class="message">Batch generation (#27534)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#881baa3</div>
-                                        <div class="message">Az.Accounts v5.1.0 OOB Release (#27884)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9799a37</div>
-                                        <div class="message">Remove incorrect upcoming release (#27901)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8eb01bb</div>
-                                        <div class="message">upgrade mariner-2.0 to azurelinux-3.0 (#27898)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c9e636</div>
-                                        <div class="message">Add support to AppGw Exception feature (#27863)
-
-Co-authored-by: Yaniv Haddad &lt;yanivhaddad@microsoft.com&gt;
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef6e552</div>
-                                        <div class="message">[skip ci] Archive 31a3ca30ea9bdf53e65dbafbe2d2d7cb59246db7 (#27885)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#31a3ca3</div>
-                                        <div class="message">[PS] Migrate ProviderHub module to autorest v4 (#27864)
-
-Co-authored-by: Mike F. Robbins &lt;6719572+mikefrobbins@users.noreply.github.com&gt;
-Co-authored-by: Azure PowerShell &lt;65331932+azure-powershell-bot@users.noreply.github.com&gt;
-Co-authored-by: Theodore Chang &lt;thchan@microsoft.com&gt;
-Co-authored-by: Yeming Liu &lt;11371776+isra-fel@users.noreply.github.com&gt;
-Co-authored-by: Jin Lei &lt;54836179+msJinLei@users.noreply.github.com&gt;
-Co-authored-by: Vincent Dai &lt;23257217+vidai-msft@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c690c21</div>
-                                        <div class="message">Enabled setting ssh auth scope in environment (#27878)
-
-Co-authored-by: Yeming Liu &lt;yeliu@microsoft.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3412,7 +4016,7 @@ Co-authored-by: Yeming Liu &lt;yeliu@microsoft.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2025, 06:22:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jun 2025, 07:22:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
