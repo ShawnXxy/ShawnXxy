@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2059" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2875" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-base{stroke:currentColor;stroke-width:10;stroke-opacity:.2}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}svg.large .screenshot{width:904px;height:630px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown i,code{display:inline-block}.markdown i{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.constant{color:#b44418}.token.number,.token.string{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-base{stroke:currentColor;stroke-width:10;stroke-opacity:.2}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}svg.large .screenshot{width:904px;height:630px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown i,code{display:inline-block}.markdown i{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.constant{color:#b44418}.token.number,.token.string{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.15m added, 6.77k removed
+                                    114k added, 73.9k removed
                                 </div>
                             </section>
                             <section>
@@ -348,13 +348,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 13 commits)</small>
+                    <small class="h-details">(computed from last 16 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 39.5 characters per line of code written</li>
-                        <li>Mostly pushes code around 11:00</li>
+                        <li>Has approximately 37.4 characters per line of code written</li>
+                        <li>Mostly pushes code around 09:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
                 </div>
@@ -2373,6 +2373,289 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 3580 commits in
+                                        <span class="repo">ShawnXxy/azure-databases-docs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#345ee5e</div>
+                                        <div class="message">Merge pull request #2503 from seesharprun/cosmos-retire-cassandra-arcion
+
+Retiring `articles/cosmos-db/cassandra/migrate-data-arcion`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa67a56</div>
+                                        <div class="message">edit pass: managed-instance-apache-cassandra-tutorials</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#190cf59</div>
+                                        <div class="message">edit pass: managed-instance-apache-cassandra-tutorials</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#29a3dae</div>
+                                        <div class="message">Learn Editor: Update concepts-version-policy.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8d8183</div>
+                                        <div class="message">Fix redirect</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7348334</div>
+                                        <div class="message">Fix redirects</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eda45f6</div>
+                                        <div class="message">Learn Editor: Update concepts-version-policy.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0da38e0</div>
+                                        <div class="message">Merge pull request #2502 from MicrosoftDocs/main
+
+Merged by Learn.Build PR Management system</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22d697f</div>
+                                        <div class="message">Removing `articles/cosmos-db/cassandra/migrate-data-arcion`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b46e32b</div>
+                                        <div class="message">Merge pull request #2501 from seesharprun/patch-2
+
+Update how-to-always-encrypted.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02e5e1c</div>
+                                        <div class="message">Update how-to-always-encrypted.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48e86d2</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/MicrosoftDocs/azure-databases-docs-pr into managed-instance-apache-cassandra-tutorials</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22a0fd1</div>
+                                        <div class="message">Merge pull request #2500 from seesharprun/patch-2
+
+Update partial-document-update-getting-started.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91a5625</div>
+                                        <div class="message">Update partial-document-update-getting-started.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95234c2</div>
+                                        <div class="message">Merge pull request #2497 from seesharprun/remove-ongoing-deployment-include
+
+Remove ongoing deployment include</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01c1040</div>
+                                        <div class="message">Merge pull request #2499 from seesharprun/video-updates
+
+Video updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ef01f7</div>
+                                        <div class="message">Update articles/cosmos-db/nosql/serverless-computing-database.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b278d40</div>
+                                        <div class="message">Merge branch 'video-updates' of https://github.com/jaydestro/azure-databases-docs into video-updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4fece04</div>
+                                        <div class="message">Merge branch 'MicrosoftDocs:main' into remove-ongoing-deployment-include</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#84ef4a4</div>
+                                        <div class="message">Merge pull request #2496 from seesharprun/remove-ongoing-deployment-mention
+
+Remove mentions of ongoing deployment</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 54 commits in
+                                        <span class="repo">ShawnXxy/azure-powershell</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#35817de</div>
+                                        <div class="message">[skip ci] Archive 4de7165a04cd9511226e15c00ecbef4ac7bf4c0d (#28249)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e595c1</div>
+                                        <div class="message">[skip ci] Archive 508b94b961e85aecaae3db062e41793b1ccc3b9a (#28246)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3883509</div>
+                                        <div class="message">[Az.ServiceFabric] `Add-AzServiceFabricNodeType`: Add `-Location` parameter (#28238)
+
+Co-authored-by: Yan Xu &lt;yanxu1@microsoft.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#633dded</div>
+                                        <div class="message">[PS][Monitor] Add breaking change for ScheduledQueryRule (#28227)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7bb89a</div>
+                                        <div class="message">[PS][Monitor] Add breaking change message for MonitorWorkspace (#28224)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4de7165</div>
+                                        <div class="message">EventHub NSP Support Added (#28235)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8604f07</div>
+                                        <div class="message">[skip ci] Archive 0f0da823e23758631bb600bf373462e9395de6d5 (#28245)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d1be61</div>
+                                        <div class="message">[skip ci] Archive 1cd22398f29c3c132c77171d3131a2c885d1b850 (#28243)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a46a08</div>
+                                        <div class="message">[Az.ServiceFabric] `Set-AzServiceFabricManagedNodeType`: Add parameter `-VmSize` (#28230)
+
+Co-authored-by: Yan Xu &lt;yanxu1@microsoft.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#508b94b</div>
+                                        <div class="message">[PS][Monitor] Add Breaking Change Message for DiagnosticSetting (#28215)
+
+Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f0da82</div>
+                                        <div class="message">tsp - upgrade to tsp 1.2.1 (#28244)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1cd2239</div>
+                                        <div class="message">[PS] Add breaking change message for Autoscale submodule under Monitor module (#28101)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b364b8</div>
+                                        <div class="message">Fix folder name case in generated folder (#28216)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1a8306</div>
+                                        <div class="message">upgrade ubuntu 20.04 to 24.04 (#28234)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6d22ca</div>
+                                        <div class="message">update Set-AzStorageSyncServer.md (#28233)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca07e18</div>
+                                        <div class="message">Improve test coverage and add condition for getting GitHub PAT (#28226)
+
+Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92febbd</div>
+                                        <div class="message">[Resources] Added ExpandProperties functionality to `GetAzureResourceGroup` (#28161)
+
+Co-authored-by: Vincent Dai &lt;23257217+vidai-msft@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1397315</div>
+                                        <div class="message">[Eng] Fix parameter breaking change in custom ps1 not been processed (#28232)
+
+Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#96c8bd7</div>
+                                        <div class="message">[skip ci] Archive 447451b0b41de30e948f5d4146cda2027860080a (#28225)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce529b4</div>
+                                        <div class="message">[skip ci] Archive f27c4e6154e75e965f5bde3d8ec99fb3490c1976 (#28223)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">ShawnXxy/readmeX</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b83df61</div>
+                                        <div class="message">feat: 增加对Jupyter notebook (.ipynb) 文件的支持</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2913a48</div>
+                                        <div class="message">feat: 添加可配置的max_workers并发参数和logo生成可选项
+
+- 添加MAX_WORKERS配置选项控制线程池大小
+- 在config_template.json中添加MAX_WORKERS默认值(10)
+- 添加get_max_workers()函数用于集中访问配置
+- 修改core.py和website_core.py使用可配置的max_workers
+- 在README中添加MAX_WORKERS配置文档
+- 支持环境变量和配置文件两种配置方式
+
+- 添加logo生成交互式选择功能
+- 在非静默模式下提示用户是否生成项目logo (y/n)
+- 支持多种输入格式：'y', 'yes', '是'
+- 在静默模式下默认生成logo
+- 无论logo生成是否成功都会继续生成README文件
+
+允许用户根据系统性能调整并发线程数，同时提供logo生成的可选控制</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a13d339</div>
+                                        <div class="message">feat: prompt for LLM base URL after entering LLM API key in config validation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c968adf</div>
+                                        <div class="message">Merge pull request #36 from ShawnXxy/xixia/dev/aoai
+
+Adding support to use Azure OPENAI model</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f93a44a</div>
+                                        <div class="message">feat: add .flake8 configuration and update requirements for flake8 support</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad250df</div>
+                                        <div class="message">feat: add Azure OpenAI integration tests with detailed logging and result summary</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19202bc</div>
+                                        <div class="message">feat: enhance ModelClient for Azure OpenAI support and improve logging</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#445db9a</div>
+                                        <div class="message">update: add local configuration to .gitignore and remove fnmatch from requirements</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 26 commits in
                                         <span class="repo">ShawnXxy/OrcasCopilot</span>
                                     </div>
@@ -3073,115 +3356,6 @@ Thanks for contributing to the DRI Copilot. Before merging this PR, please make 
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">ShawnXxy/PDFCraft</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a4fcff6</div>
-                                        <div class="message">Implement new CLI structure with operations and post-processing support</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad92707</div>
-                                        <div class="message">Major improvements: Fix PDF processing for complex documents
-
-✅ Enhanced bookmark page number extraction:
-- Properly handle PyPDF2 IndirectObject references
-- Resolve actual page numbers instead of sequential fallback
-- Improved bookmark hierarchy detection
-
-✅ Robust error handling:
-- Add RecursionError handling for complex PDF structures
-- Skip problematic pages instead of crashing
-- Continue processing when individual pages fail
-
-✅ Improved split point generation:
-- Remove duplicate page numbers in bookmarks
-- Validate page sequences to prevent invalid ranges
-- Better logging for split point analysis
-
-✅ Successfully tested on MySQL 5.7 Reference Manual:
-- 5400 pages, 2155 bookmarks processed
-- 35 out of 36 chapters successfully split
-- Handles both simple and complex PDF structures
-
-🔧 Fixes issues:
-- Invalid page ranges (e.g., '2-1', '3-2')
-- Maximum recursion depth exceeded errors
-- Unicode characters in bookmark titles
-- Large PDF performance and stability</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c207aa0</div>
-                                        <div class="message">Fix code style issues: clean up flake8 warnings and errors
-
-- Fix line length violations (E501)
-- Remove trailing whitespace (W293)
-- Fix continuation line indentation (E128)
-- Remove unused imports (F401)
-- Improve code formatting consistency
-- Update type annotations for better type safety</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">ShawnXxy/KBMiner</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e546f0a</div>
-                                        <div class="message">reorg folder</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#55006af</div>
-                                        <div class="message">Remove .processed_months.txt from git tracking
-
-- File is now ignored via .gitignore
-- Keeps crawl state locally but not in version control
-- Supports incremental crawling without polluting git history</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa16e68</div>
-                                        <div class="message">reorg folder</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">master</span>
-                                        in
-                                        <span class="repo">ShawnXxy/PDFCraft</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3281,7 +3455,7 @@ Thanks for contributing to the DRI Copilot. Before merging this PR, please make 
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">ShawnXxy/KBMiner</span>
+                            <span class="blue space">ShawnXxy/PDFCraft</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -3289,7 +3463,7 @@ Thanks for contributing to the DRI Copilot. Before merging this PR, please make 
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 3 Aug 2025, 18:21:06
+                            On 3 Aug 2025, 16:18:45
                         </div>
                     </section>
                 </div>
@@ -3299,17 +3473,43 @@ Thanks for contributing to the DRI Copilot. Before merging this PR, please make 
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Add docs_pdf directory to .gitignore
+                            Major improvements: Fix PDF processing for complex documents
+
+✅ Enhanced bookmark page number extraction:
+- Properly handle PyPDF2 IndirectObject references
+- Resolve actual page numbers instead of sequential fallback
+- Improved bookmark hierarchy detection
+
+✅ Robust error handling:
+- Add RecursionError handling for complex PDF structures
+- Skip problematic pages instead of crashing
+- Continue processing when individual pages fail
+
+✅ Improved split point generation:
+- Remove duplicate page numbers in bookmarks
+- Validate page sequences to prevent invalid ranges
+- Better logging for split point analysis
+
+✅ Successfully tested on MySQL 5.7 Reference Manual:
+- 5400 pages, 2155 bookmarks processed
+- 35 out of 36 chapters successfully split
+- Handles both simple and complex PDF structures
+
+🔧 Fixes issues:
+- Invalid page ranges (e.g., '2-1', '3-2')
+- Maximum recursion depth exceeded errors
+- Unicode characters in bookmark titles
+- Large PDF performance and stability
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">fe321bc0</span>
-                            <span class="code">.gitignore</span>
+                            <span class="code">ad92707a</span>
+                            <span class="code">src/markdown_converter.py</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--0</span>
+                                <span class="snippet additions">++3</span>
+                                <span class="snippet deletions">--1</span>
                             </span>
                         </div>
                     </section>
@@ -3317,14 +3517,14 @@ Thanks for contributing to the DRI Copilot. Before merging this PR, please make 
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -152,3 +152,4 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">FILTERING_SUMMARY.md<br /></span><span class="token prefix unchanged">·</span><span class="token line">test/<br /></span><span class="token prefix unchanged">·</span><span class="token line">.venv<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">kb\my\my_manual\docs_pdf</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -111,8 +111,10 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"""<br /></span><span class="token prefix unchanged">·</span><span class="token line">try:<br /></span><span class="token prefix unchanged">·</span><span class="token line">    # Test markitdown with a simple text<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    import io<br /></span><span class="token prefix inserted">+</span><span class="token line">    test_stream = io.StringIO("test")<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    test_result = self.markitdown.convert_stream(<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">        stream_content="test",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">        stream=test_stream,<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">        file_extension=".txt"<br /></span><span class="token prefix unchanged">·</span><span class="token line">    )<br /></span><span class="token prefix unchanged">·</span><span class="token line">    return test_result is not None</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Aug 2025, 22:29:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Aug 2025, 23:29:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
