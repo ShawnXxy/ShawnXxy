@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1224" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2820" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-base{stroke:currentColor;stroke-width:10;stroke-opacity:.2}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.introduction{white-space:normal;margin:0 13px 2px}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-base{stroke:currentColor;stroke-width:10;stroke-opacity:.2}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}svg.large .screenshot{width:904px;height:630px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown i,code{display:inline-block}.markdown i{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.constant{color:#b44418}.token.string{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    87.3k added, 56k removed
+                                    17.8k added, 10k removed
                                 </div>
                             </section>
                             <section>
@@ -348,16 +348,15 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
+                    <small class="h-details">(computed from last 16 commits)</small>
                 </h2>
                 <div class="row">
-                    <section>
-                        <div class="field error">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
-                            </svg>
-                            Unexpected error
-                        </div>
-                    </section>
+                    <ul class="facts">
+                        <li>Uses spaces for indentation</li>
+                        <li>Has approximately 39.6 characters per line of code written</li>
+                        <li>Mostly pushes code around 09:00</li>
+                        <li>Mostly active on Sunday</li>
+                    </ul>
                 </div>
             </section>
             <section>
@@ -2377,11 +2376,995 @@
                 </h2>
                 <div class="row">
                     <section>
-                        <div class="field error">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
-                            </svg>
-                            Unexpected error
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3580 commits in
+                                        <span class="repo">ShawnXxy/azure-databases-docs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#345ee5e</div>
+                                        <div class="message">Merge pull request #2503 from seesharprun/cosmos-retire-cassandra-arcion
+
+Retiring `articles/cosmos-db/cassandra/migrate-data-arcion`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa67a56</div>
+                                        <div class="message">edit pass: managed-instance-apache-cassandra-tutorials</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#190cf59</div>
+                                        <div class="message">edit pass: managed-instance-apache-cassandra-tutorials</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#29a3dae</div>
+                                        <div class="message">Learn Editor: Update concepts-version-policy.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8d8183</div>
+                                        <div class="message">Fix redirect</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7348334</div>
+                                        <div class="message">Fix redirects</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eda45f6</div>
+                                        <div class="message">Learn Editor: Update concepts-version-policy.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0da38e0</div>
+                                        <div class="message">Merge pull request #2502 from MicrosoftDocs/main
+
+Merged by Learn.Build PR Management system</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22d697f</div>
+                                        <div class="message">Removing `articles/cosmos-db/cassandra/migrate-data-arcion`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b46e32b</div>
+                                        <div class="message">Merge pull request #2501 from seesharprun/patch-2
+
+Update how-to-always-encrypted.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02e5e1c</div>
+                                        <div class="message">Update how-to-always-encrypted.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48e86d2</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/MicrosoftDocs/azure-databases-docs-pr into managed-instance-apache-cassandra-tutorials</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22a0fd1</div>
+                                        <div class="message">Merge pull request #2500 from seesharprun/patch-2
+
+Update partial-document-update-getting-started.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91a5625</div>
+                                        <div class="message">Update partial-document-update-getting-started.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95234c2</div>
+                                        <div class="message">Merge pull request #2497 from seesharprun/remove-ongoing-deployment-include
+
+Remove ongoing deployment include</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01c1040</div>
+                                        <div class="message">Merge pull request #2499 from seesharprun/video-updates
+
+Video updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ef01f7</div>
+                                        <div class="message">Update articles/cosmos-db/nosql/serverless-computing-database.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b278d40</div>
+                                        <div class="message">Merge branch 'video-updates' of https://github.com/jaydestro/azure-databases-docs into video-updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4fece04</div>
+                                        <div class="message">Merge branch 'MicrosoftDocs:main' into remove-ongoing-deployment-include</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#84ef4a4</div>
+                                        <div class="message">Merge pull request #2496 from seesharprun/remove-ongoing-deployment-mention
+
+Remove mentions of ongoing deployment</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 54 commits in
+                                        <span class="repo">ShawnXxy/azure-powershell</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#35817de</div>
+                                        <div class="message">[skip ci] Archive 4de7165a04cd9511226e15c00ecbef4ac7bf4c0d (#28249)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e595c1</div>
+                                        <div class="message">[skip ci] Archive 508b94b961e85aecaae3db062e41793b1ccc3b9a (#28246)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3883509</div>
+                                        <div class="message">[Az.ServiceFabric] `Add-AzServiceFabricNodeType`: Add `-Location` parameter (#28238)
+
+Co-authored-by: Yan Xu &lt;yanxu1@microsoft.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#633dded</div>
+                                        <div class="message">[PS][Monitor] Add breaking change for ScheduledQueryRule (#28227)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7bb89a</div>
+                                        <div class="message">[PS][Monitor] Add breaking change message for MonitorWorkspace (#28224)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4de7165</div>
+                                        <div class="message">EventHub NSP Support Added (#28235)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8604f07</div>
+                                        <div class="message">[skip ci] Archive 0f0da823e23758631bb600bf373462e9395de6d5 (#28245)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d1be61</div>
+                                        <div class="message">[skip ci] Archive 1cd22398f29c3c132c77171d3131a2c885d1b850 (#28243)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a46a08</div>
+                                        <div class="message">[Az.ServiceFabric] `Set-AzServiceFabricManagedNodeType`: Add parameter `-VmSize` (#28230)
+
+Co-authored-by: Yan Xu &lt;yanxu1@microsoft.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#508b94b</div>
+                                        <div class="message">[PS][Monitor] Add Breaking Change Message for DiagnosticSetting (#28215)
+
+Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f0da82</div>
+                                        <div class="message">tsp - upgrade to tsp 1.2.1 (#28244)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1cd2239</div>
+                                        <div class="message">[PS] Add breaking change message for Autoscale submodule under Monitor module (#28101)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b364b8</div>
+                                        <div class="message">Fix folder name case in generated folder (#28216)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1a8306</div>
+                                        <div class="message">upgrade ubuntu 20.04 to 24.04 (#28234)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6d22ca</div>
+                                        <div class="message">update Set-AzStorageSyncServer.md (#28233)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca07e18</div>
+                                        <div class="message">Improve test coverage and add condition for getting GitHub PAT (#28226)
+
+Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92febbd</div>
+                                        <div class="message">[Resources] Added ExpandProperties functionality to `GetAzureResourceGroup` (#28161)
+
+Co-authored-by: Vincent Dai &lt;23257217+vidai-msft@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1397315</div>
+                                        <div class="message">[Eng] Fix parameter breaking change in custom ps1 not been processed (#28232)
+
+Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#96c8bd7</div>
+                                        <div class="message">[skip ci] Archive 447451b0b41de30e948f5d4146cda2027860080a (#28225)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce529b4</div>
+                                        <div class="message">[skip ci] Archive f27c4e6154e75e965f5bde3d8ec99fb3490c1976 (#28223)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">ShawnXxy/readmeX</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b83df61</div>
+                                        <div class="message">feat: 增加对Jupyter notebook (.ipynb) 文件的支持</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2913a48</div>
+                                        <div class="message">feat: 添加可配置的max_workers并发参数和logo生成可选项
+
+- 添加MAX_WORKERS配置选项控制线程池大小
+- 在config_template.json中添加MAX_WORKERS默认值(10)
+- 添加get_max_workers()函数用于集中访问配置
+- 修改core.py和website_core.py使用可配置的max_workers
+- 在README中添加MAX_WORKERS配置文档
+- 支持环境变量和配置文件两种配置方式
+
+- 添加logo生成交互式选择功能
+- 在非静默模式下提示用户是否生成项目logo (y/n)
+- 支持多种输入格式：'y', 'yes', '是'
+- 在静默模式下默认生成logo
+- 无论logo生成是否成功都会继续生成README文件
+
+允许用户根据系统性能调整并发线程数，同时提供logo生成的可选控制</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a13d339</div>
+                                        <div class="message">feat: prompt for LLM base URL after entering LLM API key in config validation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c968adf</div>
+                                        <div class="message">Merge pull request #36 from ShawnXxy/xixia/dev/aoai
+
+Adding support to use Azure OPENAI model</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f93a44a</div>
+                                        <div class="message">feat: add .flake8 configuration and update requirements for flake8 support</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad250df</div>
+                                        <div class="message">feat: add Azure OpenAI integration tests with detailed logging and result summary</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19202bc</div>
+                                        <div class="message">feat: enhance ModelClient for Azure OpenAI support and improve logging</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#445db9a</div>
+                                        <div class="message">update: add local configuration to .gitignore and remove fnmatch from requirements</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 26 commits in
+                                        <span class="repo">ShawnXxy/OrcasCopilot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">stagingv2</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9c87e09</div>
+                                        <div class="message">Merged PR 1700591: Ads Team Onboarding
+
+## Content
+
+This PR includes the configurations used for the onboarding of DRI Copilot for the Ads Team.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This PR implements new features and configuration changes to onboard the Ads team.
+
+#### PR Summary
+The pull request introduces Ads-specific onboarding by adding new configuration files, a dedicated debug skill, and code adjustments to support local source processing and enhanced logging. Key changes include:
+- **`src/core/indexers/tsgs/scripts/tsg_processing.py`**: Refactored the TSG processing pipeline to add a new `local_source` flag and update command-line arguments.
+- **Ads configuration files**: Added multiple Ads-specific config files (e.g., `config_ads.py`, `config_ads.json` in copilot, indexers, and common folders) along with a new Teams manifest and bot settings.
+- **`src/core/copilot_v2/skills/agora/demand_softness_debug.py`**: Introduced a new Agora skill for retrieving demand softness debug information.
+- **ICM improvements**: Enhanced logging and reranking in ICM-related files and updated skill examples for better incident handling.
+- **Miscellaneous fixes**: Updated memory traits plugin keys and added dependency installation for `llama-index` in setup scripts.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d03005</div>
+                                        <div class="message">Merged PR 1706837: PerfCopilot integration
+
+## Content
+
+&lt;TODO: describe your PR here&gt;
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [X] You have deployed your latest code changes and validated that everything works fine.
+- [X] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+update
+
+Related work items: #4400274</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7df2342</div>
+                                        <div class="message">Merged PR 1748096: Add 'index ignore' feature
+
+## Content
+
+While working on adding code indexing to my team's DRI copilot, I found that the index process chokes up on processing large code files. I wanted a way to skip them without having to exclude large chunks of the codebase or having to specify each and every folder as a git source to work around processing this troublesome file. In this PR I have added support for a '.indexignore' file that works similarly to a .gitignore file. Simply create the .indexignore file in the folder that is configured for your git source and add the paths you want to ignore.
+
+I have tested this with my local onboarding branch and it solved my issue. Please let me know if this is something you'd like to see up streamed and if there's any changes you would like to see before doing so.
+
+# .indexignore Feature Documentation
+
+## Overview
+The `.indexignore` feature allows you to specify files and directories that should be excluded during the directory copying process in the indexing pipeline. This works similarly to how `.gitignore` works for Git repositories.
+
+## How it works
+1. When `copy_directory()` is called, it automatically looks for a `.indexignore` file in the source root directory
+2. The ignore patterns are loaded once and cached for the entire copy operation
+3. Each file and directory is checked against the ignore patterns before copying
+4. If a path matches any pattern, it is skipped and logged
+
+## File Location
+Place the `.indexignore` file in the root of the source directory that you want to copy from.
+
+## Pattern Syntax
+The `.indexignore` file supports the following pattern syntax:
+
+### Basic Patterns
+- `filename.txt` - Ignores exact filename
+- `*.log` - Ignores all files with .log extension
+- `temp_*` - Ignores all files starting with "temp_"
+- `*_backup` - Ignores all files ending with "_backup"
+
+### Directory Patterns
+- `node_modules/` - Ignores the node_modules directory and all its contents
+- `*/test/` - Ignores any test directory at any level
+- `build/` - Ignores the build directory
+
+### Comments and Empty Lines
+- Lines starting with `#` are treated as comments
+- Empty lines are ignored
+
+### Cross-Platform Compatibility
+- Both forward slashes (`/`) and backslashes (`\`) are supported
+- Patterns are normalized internally for consistent matching across platforms
+
+## Example .indexignore File
+```
+# Ignore build outputs
+bin/
+obj/
+dist/
+build/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+```
+
+## API Changes
+
+### Modified Function
+```python
+def copy_directory(src, dst, extensions_to_include, src_root=None):
+```
+
+The `copy_directory` function now accepts an optional `src_root` parameter:
+- When called without `src_root`, it behaves as before but with `.indexignore` support
+- The `src_root` parameter is used internally for recursive calls to maintain the correct relative paths
+
+### New Functions
+```python
+def load_indexignore_patterns(src_dir):
+    """Load ignore patterns from .indexignore file in the source directory."""
+
+def should_ignore_path(relative_pa...</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5691e94</div>
+                                        <div class="message">Merged PR 1745127: [Infra] MCP Migration to Streamable HTTP
+
+## Content
+
+The SSE Specs (Server-Side-Events) came out in November 2024 and are already deprecated. For good reasons: they require to keep alive an HTTP channel that can easily die with the MCP server, causing frequent disconnects.
+
+Instead, the new implementation of Streamable HTTP (the new standard) is more robust.
+
+This PR is implementing additional OAuth 2.1 support to migrate the DRI Copilot "as a server" to use Streamable HTTP, so we have a more seamless integration in VSO without the frequent disconnects.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This PR is an infrastructure migration update that transitions MCP transport from SSE to HTTP while updating related documentation and dependencies.
+
+#### PR Summary
+Migrates MCP to streamable HTTP transport with aligned code and dependency updates.
+- **`src/core/bot/Controllers/McpController.cs`**: Updated XML comments to indicate MCP now uses HTTP instead of SSE and supports both HTTP and SSE transports for token extraction.
+- **`src/core/bot/Startup.cs`**: Modified the MCP endpoint URL from "/mcp/sse" to "/mcp" and added documentation clarifying the switch to HTTP transport.
+- **`Directory.Packages.props` &amp; `src/core/bot/DRICopilotBot.csproj`**: Upgraded various package versions and replaced the `itext7` reference with `itext`.
+- **`src/core/bot/Plugins/Kepler/NotebookHandler/NotebookHanderPlugin.cs`**: Improved parameter validation by using `string.IsNullOrEmpty` instead of a simple empty string check.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #4479473</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25c2c1c</div>
+                                        <div class="message">Merged PR 1735049: Onboarding PPTEvergreen incidents to DRI Copilot
+
+## Content
+
+&lt;TODO: describe your PR here&gt;
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+Related work items: #4188317, #4204138, #4204375, #4219445, #4317048, #4334148, #4376356, #4376357, #4376358, #4400038, #4400041, #4411576, #4416745</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba84802</div>
+                                        <div class="message">Merged PR 1747858: [Hotfix] Fixing local store usage for intermediate steps if URI is not set
+
+## Content
+
+This fix was only blocking local development using in-memory storage (for which we cannot have intermediate steps), i.e. when `BlobStorageContainerUri` is set to `null` or invalid.
+
+This was introduced when adding intermediate step support.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+Fixing local store usage for intermediate steps if URI is not set
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Bug fix addressing incorrect local store usage when the BlobStorageContainerUri is not set.
+
+#### PR Summary
+This hotfix ensures that the back channel entry location is only set when the BlobStorageContainerUri is a well-formed absolute URI, preventing errors during local store operations for intermediate steps.
+- `src/core/bot/Connectors/PromptFlow/PFApiV2.cs`: Adds a conditional check for the URI's validity before assigning the back channel entry location.
+- `src/core/bot/Configs/appsettings.DRICopilot.json`: Updates the BlobStorageContainerUri value from a preset URL to null.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf8094f</div>
+                                        <div class="message">Merged PR 1741904: Fix SQL Feedback on 2025-07-17
+
+## Content
+
+Fix SQL feedback including
+- Separate Fabric SQL TSGs and endpoint, so it can be targeted more for Fabric SQL.
+- Fix some TSG not existing in the SQLES knowledge base.
+- Add subject description into the skill selection prompt.
+- Fix icm_queue_summary where the teamid is not found through kusto query and double timespan in the skill arguments.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This pull request delivers a bug fix and configuration improvement to resolve SQL feedback issues.
+
+#### PR Summary
+The update addresses SQL feedback by adding new configuration files for Fabric SQL, propagating a new product context parameter through planning functions, and refining query handling and error messages in incident processing. Key changes include:
+- Updates in `src/core/copilot_v2/config/sql/config_sqlfabric.json` and `src/core/indexers/tsgs/config/sql/config_sqlfabric.json` to add new Fabric SQL and TSG processing configurations.
+- Modifications in `src/core/copilot_v2/utils/skill_semantic_kernel.py` and `src/core/copilot_v2/modules/agent_executor/skill_selector.py` (and related prompt templates) to include a new `subject_description` parameter for enhanced product context in plan generation.
+- Changes in `src/common/config/config_sql.json` to increase the model token limit and update deployment IDs.
+- Improvements in `src/core/copilot_v2/skills/icm/get_icm_queue_summary.py` to refine filtering logic and provide clearer incident feedback.
+- New and updated product descriptions in `src/common/descriptions/sql/sql_fabric.md` and `src/common/descriptions/sql/sql_db.md` to support the updated SQL product context.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5a3490</div>
+                                        <div class="message">Merged PR 1741756: [PF] Add image skill telemetry raw results
+
+## Content
+
+Adding raw data to image telemetry for logging purposes.
+Small doc updates
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+add image skill telemetry raw results
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This pull request introduces a new feature by enhancing telemetry tracking for image analysis skills.
+
+#### PR Summary
+The PR improves the image analysis telemetry by including raw results in the output, aiding in better debugging and performance visibility.
+- `src/core/copilot_v2/skills/image/image_analyzer.py`: Added the `raw_result` key to the `skill_telemetry` dictionary alongside the existing telemetry data.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aac87df</div>
+                                        <div class="message">Merged PR 1744520: [Infra] Bringing rel/latest up-to-date with main
+
+## Content
+
+Couple more bug fixes. Attempting to prevent deltas.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Integration update merging main branch changes into rel/latest, featuring agent executor enhancements and improved attachment/document processing.
+
+#### PR Summary
+This PR integrates core infrastructure updates including a new Cosmos DB client for graph loading, refactored image and document attachment handling, and configuration enhancements for the DMS workload prototype.
+- **`src/core/common/clients/cosmosdb_client.py`**: Introduces a new Cosmos DB client using managed identity that loads graphs into a NetworkX structure.
+- **`src/core/bot/Dialogs/Interface/Output/AbstractOutputInterface.cs`**: Refactors attachment and image generation logic to support multiple channels (Webchat, Directline, MS Teams).
+- **Document handling improvements**: Adds the new file `src/core/bot/Model/AttachedDocument.cs` and updates models in `ChatInputs.cs` and `Store.cs` for robust attachment processing.
+- **`src/core/copilot_v2/skills/services/dw/troubleshooters/fabricdw_iterative_troubleshooter.py`**: Updates graph loading from a local file to fetching from Cosmos DB via the new client.
+- **Configuration enhancements**: Adds `src/core/copilot_v2/config/intelligence_platform/config_dms_workload.json` and updates related config files to support a new DMS workload prototype.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #4219445, #4440645</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#137578c</div>
+                                        <div class="message">Merged PR 1744472: Updated CosmosDb.Template.json to use config parameters
+
+## Content
+
+updated the ARM template to use the parameter values for all three container IDs:
+
+"ServiceConfigs" → "[parameters('serviceConfigsContainerName')]"
+"ServiceCopilotParameters" → "[parameters('serviceCopilotParametersContainerName')]"
+"InfraConfig" → "[parameters('infraConfigsContainerName')]"
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+Updated CosmosDb.Template.json to use config parameters
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This pull request implements a configuration update by replacing hard-coded container IDs with dynamic configuration parameters in the CosmosDb template.
+
+#### PR Summary
+The pull request updates the CosmosDb template to use configuration parameters, enhancing flexibility and customization of container names.
+- `/EV2Files/Templates/CosmosDb.Template.json`: Replaced static IDs for ServiceConfigs, ServiceCopilotParameters, and InfraConfig with parameterized values.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6dd09d9</div>
+                                        <div class="message">Merged PR 1743551: [Infra] Various Nits and fixes (wave 5)
+
+## Content
+
+### Documentation
+- Ensure we point out to FIC on MI setup for TSG page.
+- Ensure we point out to hot-swap deployments in `promptflow` configuration
+- Ensure we select right tokens for hybrid flows in app configuration for OBO
+
+### ARM changes
+- Ensue we can support newer models
+- Remove over-privileged access for the app managed identity
+
+### Intelligence Platform Changes
+- Ensuring we onboard `config_dms_workload.json` to EV2.
+- Passing SQL Telemetry documentation to our indexer for Serverless, Dedicated, and Fabric DW (using PAT, will transition later).
+
+### Frontend
+- Reducing carousel card size for code question recommendation as this one is too large and causes `BadRequest` errors on MS Teams (web is fine).
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Infra cleanup and enhancement fixing nits and updating configuration, code limits, and documentation.
+
+#### PR Summary
+This pull request applies multiple minor fixes and enhancements across configurations, code, and documentation for improved deployment and operational clarity.
+- **`EV2Files/Templates/AML.Template.json`**: Removed a redundant role assignment block.
+- **Telemetry Configurations**: Updated files (`config_fabric_dw.json`, `config_synapse_dw_dedicated.json`, `config_synapse_dw_serverless.json`) with an added telemetry source block for Sterling (SQL) telemetry.
+- **`src/core/bot/Plugins/Control/CodeQuestionRecommendations/CodeQuestionRecommendationsPlugin.cs`**: Introduced a new constant to limit MS Teams adaptive card size and adjusted recommendation data accordingly.
+- **Endpoint and Binding Configs**: Updated `AOAI.Template.json` to add new allowed endpoint/model values and modified `ScopeBindings.json` to include `config_dms_workload.json` in configuration lists.
+- **Documentation Enhancements**: Augmented onboarding docs (`Common-Configuration.md`, `TSG-Processing.md`, and `On-Behalf-Of-Resource-Authentication.md`) with tips for online upgrades, tenant-based Federated Identity Credentials, and proper token settings.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2bac6b6</div>
+                                        <div class="message">Merged PR 1743590: Updated instructions to register domain with SAW
+
+## Content
+
+I updated the instruction to register domain with details about group owner, subscriptionId and "All other Entra Tenants"
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ n/a] You have deployed your latest code changes and validated that everything works fine.
+- [ x] You have added appropriate documentation and headers to your files.
+- [ n/a] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ x] The CI pipeline is passing.
+- [?] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ n/a ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+Updated instructions to register domain with SAW
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Documentation update.
+
+#### PR Summary
+This pull request revises the onboarding instructions for registering a domain with SAW in the wiki.
+- `/wiki/Onboarding/Prepare/Resources.md`: Revised the Subscription ID section to specify that the KeyVault’s subscription must be used (with a warning about immutability), updated the Owners section to require an AME group (with notes and error context), and clarified the tenant selection by changing the recommended option from `NonProd` to `All Other Entra Tenants`.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea74c40</div>
+                                        <div class="message">Merged PR 1737690: update skill selector evaluator
+
+## Content
+
+Update Skill selector evaluator for dynamic skill selection.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+update skill selector evaluator
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Enhancement: This PR refactors and extends the evaluator components, updating test cases, configuration logic, and prompt workflows for improved skill selection.
+
+#### PR Summary
+The pull request refines the input data and configuration used by the skill selector evaluator and enhances planning prompts and skill documentation for more robust execution.
+- `src/core/evaluation/offline/evaluators/agent_evaluator_v2.py` and its JSON counterpart now use updated test cases with revised question-target pairs, replacing "skill_data" with "plugin_data".
+- `src/core/evaluation/offline/evaluators/base_evaluator.py` adjusts configuration loading by dynamically determining the folder and validating the QA agent’s skills to set environment variables.
+- `src/core/copilot_v2/utils/skill_semantic_kernel.py` and `src/core/copilot_v2/llm/sk/sk_prompt_stepwise_planner.py` update the planning prompt invocation and formatting.
+- `src/core/copilot_v2/skills/icm/get_icm_simple_summary.py` and `src/core/copilot/plugins/tsg/get_tsgs.py` enhance skill descriptions and update import paths.
+- `src/core/evaluation/offline/main.py` changes the default config file to match the new agentic flow.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #4219445</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc3afe8</div>
+                                        <div class="message">Merged PR 1740692: [Bot] Supporting Attachment Download on Session Replay
+
+## Content
+
+Allowing for content download on session replay.
+
+This also fixes an issue were we would print out image payloads as attached documents as if they were text in the call.
+
+Original session:
+
+![image.png](https://msdata.visualstudio.com/5603b9e3-ece0-4518-b9c8-1a36054d9970/_apis/git/repositories/7a11c04c-aa71-4764-a523-832d087cce37/pullRequests/1740692/attachments/image.png)
+
+![image (2).png](https://msdata.visualstudio.com/5603b9e3-ece0-4518-b9c8-1a36054d9970/_apis/git/repositories/7a11c04c-aa71-4764-a523-832d087cce37/pullRequests/1740692/attachments/image%20%282%29.png)
+
+Clone:
+
+![image (3).png](https://msdata.visualstudio.com/5603b9e3-ece0-4518-b9c8-1a36054d9970/_apis/git/repositories/7a11c04c-aa71-4764-a523-832d087cce37/pullRequests/1740692/attachments/image%20%283%29.png)
+
+![image (4).png](https://msdata.visualstudio.com/5603b9e3-ece0-4518-b9c8-1a36054d9970/_apis/git/repositories/7a11c04c-aa71-4764-a523-832d087cce37/pullRequests/1740692/attachments/image%20%284%29.png)
+
+Things are now _downloadable_.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+Allowing to display images back to the user
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+New feature to support displaying images during session replays.
+
+#### PR Summary
+This pull request introduces functionality to generate and display image attachments during session replays by refactoring existing methods into asynchronous operations and adding new helper methods.
+- In `src/core/bot/Dialogs/Interface/Output/AbstractOutputInterface.cs`, a new static method `GenerateImageAttachmentAsync` is implemented to create image attachments based on channel type, and `SendImageAsync` now uses this method.
+- In `src/core/bot/Dialogs/DRIBotDialog.cs`, replay methods are updated to asynchronously generate and include image attachments in session replays by adding `GenerateReplayForImageFromUserAsync` and refactoring the replay question logic.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#935a3a1</div>
+                                        <div class="message">Fix folder path in MyKB configuration to ensure correct file retrieval</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#662ebf9</div>
+                                        <div class="message">Add MySQL manual source and update run frequency in MyKB configuration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7efe705</div>
+                                        <div class="message">Merged PR 1740090: [Backend] Hotfixing direct termination case
+
+## Content
+
+When we decide to terminate and have no agent selected, we fail on a log entry trying to get `agent_loop_round_count` from `None`.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+Hotfixing agent termination</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d152add</div>
+                                        <div class="message">Merged PR 1739147: [Intelligence Platform] Onboarding DMS Workload Codebase
+
+## Content
+
+All in title. A the initiative of @&lt;Catalin Doroftei&gt;.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+Saving DMS workload diffs
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This pull request introduces a new feature by onboarding the DMS Workload codebase with dedicated configuration, documentation, and indexing support.
+
+#### PR Summary
+The PR integrates the DMS Workload into the Intelligence Platform by adding essential configuration and documentation files, along with updates to bot and indexing setups to support the new workload.
+- `src/core/copilot_v2/config/intelligence_platform/config_dms_workload.json`: New file that configures promptflow, kusto, history, and agent settings for the DMS workload.
+- `src/common/descriptions/intelligence_platform/dms_workload.md`: Added documentation detailing the DMS workload overview, core processes, and components.
+- `src/core/bot/Configs/appsettings.IntelligencePlatform.json`: Updated to include a new prototype chat configuration for the DMS Workload codebase.
+- `src/core/indexers/codes/config/intelligence_platform/config_dms_workload.json`: New file that sets up code search indexing, pipeline scheduling, and compute settings for the DMS workload repository.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7fd3c44</div>
+                                        <div class="message">Merged PR 1739328: [PF] Fix image agent prompt
+
+## Content
+
+1. update image agent description to avoid invoke when unneeded
+2. adding more metadata to icm extractor's output
+
+For 1, tested with:
+
+Q1-1: In a given workspace, do all SQL container instances (FEs and BEs) reside on the same tenant ring (aka on the same Service Fabric cluster) or can they appear to be on different tenant rings?
+
+Q1-2: Your reference link is broken. Can you show a diagram demonstrating workspace's FEs and/or BEs landing on different tenant rings?
+
+Q2: what are the ids [input image]
+
+Q3-1 Get-LogicalServerFirewallRules -ServerName &lt;server_name&gt;
+ in this the server name should be the daatwarehouse ?
+Q3-2 share and example for fabric datawarehouse
+
+Q4 I'm using Source Control with DevOps Repo for Microsoft Fabric. Every time I connect my workspace to a new branch I get this error in the image.       This has happened for ... that it is treating these warehouses as though they are different ojbects even though they were created by source control in the first place.      Any ideas are welcome. [user image]
+
+Q5-1. join 2 views using union all and create 1 views taking longer time
+Q5-2. Why a view taking longer time to run when we join 2 views using union all and create 1 view.
+
+Q6. Give me the content of this screenshot [input image]
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+fix image prompt
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+A bug fix that refines the image agent prompt and improves image context tracking.
+
+#### PR Summary
+This pull request updates the Image agent prompt to clarify when it should be invoked, while also enhancing how image context is captured and passed along in the system.
+- Updated `src/core/copilot_v2/agents/Image.yaml` to refine the agent description and invocation criteria for image analysis.
+- Modified `src/core/copilot_v2/modules/get_current_context.py` to introduce a new `base64_images_source` field distinguishing between user input and chat history images.
+- Enhanced `src/core/copilot_v2/utils/manager_prompts.py` by including the new image source information in the prompt and removing redundant image logging.
+- Revised `src/core/copilot_v2/utils/current_context.py` to add the `base64_images_source` attribute with corresponding update and serialization methods.
+- Extended `src/core/copilot_v2/skills/icm/icm_extractor.py` to include additional metadata (create_date, resolve_date, incident_type, owning_team) ...</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1568aae</div>
+                                        <div class="message">Merged PR 1734504: [SuperDRI] Loading `investi-graph` from CosmosDB in fabricdw_iterative_troubleshouter skill
+
+## Content
+
+[1] Introducing `CopilotCosmosDBClient` under `common/clients`;
+[2] Adding `CosmosDB` type in `config\types\copilot\copilot_types.py`;
+[3] Adding `cosmosdb` configurations in `config_troubleshooting_local.json`;
+[4] Changing `fabricdw_iterative_troubleshooter.py` skill to load the `investi-graph` from CosmosDB instead of from a local `graphml` file.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [x] You have deployed your latest code changes and validated that everything works fine.
+- [x] You have added appropriate documentation and headers to your files.
+- [x] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [x] The CI pipeline is passing.
+- [x] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [x] If needed, you have updated the `README.md` file(s) associated with your change.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">ShawnXxy/KBMiner</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8af2624</div>
+                                        <div class="message">Refactor code structure for improved readability and maintainability</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe321bc</div>
+                                        <div class="message">Add docs_pdf directory to .gitignore</div>
+                                    </div>
+                                </div>
+                            </section>
                         </div>
                     </section>
                 </div>
@@ -2479,16 +3462,53 @@
                     <section class="largeable-column-fields">
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                            </svg>
+                            From
+                            <span class="blue space">ShawnXxy/readmeX</span>
+                        </div>
+                    </section>
+                    <section class="largeable-column-fields">
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
+                            </svg>
+                            On 5 Aug 2025, 09:26:35
+                        </div>
+                    </section>
+                </div>
+                <div class="row">
+                    <section class="largeable-column-fields">
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                            </svg>
+                            update: add local configuration to .gitignore and remove fnmatch from requirements
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            No recent code snippet found
+                            <span class="code">445db9ae</span>
+                            <span class="code">.gitignore</span>
+                            <span class="code">
+                                <span class="snippet additions">++3</span>
+                                <span class="snippet deletions">--0</span>
+                            </span>
+                        </div>
+                    </section>
+                </div>
+                <div class="row">
+                    <section class="snippet">
+                        <div class="body markdown">
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -130,3 +130,6 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"># PyCharm/IntelliJ IDEA<br /></span><span class="token prefix unchanged">·</span><span class="token line">.idea/<br /></span><span class="token prefix unchanged">·</span><span class="token line">.vscode/launch.json<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line"># Local configurations<br /></span><span class="token prefix inserted">+</span><span class="token line">.readmex<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Aug 2025, 03:22:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Aug 2025, 04:28:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
