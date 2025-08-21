@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1894" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1561" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .chart.largeable{width:458px}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.average{color:#fb8c00}.gauge.low{color:#e53935}.gauge.info{color:#58a6ff}.gauge-base{stroke:currentColor;stroke-width:10;stroke-opacity:.2}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}svg.large .screenshot{width:904px;height:630px}.chart{padding:0 8px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.large .project .items .text{width:916px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.markdown i,code{display:inline-block}.markdown i{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.token.keyword{color:#b44418}.token.number,.token.regex,.token.string{color:#2777aa}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-base{stroke:currentColor;stroke-width:10;stroke-opacity:.2}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    130k added, 107k removed
+                                    9.61m added, 3.42m removed
                                 </div>
                             </section>
                             <section>
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    25 views in last two weeks
+                                    26 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -348,12 +348,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 7 commits)</small>
+                    <small class="h-details">(computed from last 9 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 55.5 characters per line of code written</li>
+                        <li>Has approximately 48.4 characters per line of code written</li>
                         <li>Mostly pushes code around 22:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -2380,6 +2380,46 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 12 commits in
+                                        <span class="repo">ShawnXxy/OrcasCopilot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1bb2e2a</div>
+                                        <div class="message">Merge branch 'rel/latest'</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ShawnXxy/OrcasCopilot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">stagingv2</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#538e785</div>
+                                        <div class="message">Update PostgreSQL knowledge-base source from GitLab to GitHub</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -2432,762 +2472,6 @@ Co-authored-by: Yukun Li (Beyondsoft) &lt;v-yukunli@microsoft.com&gt;</div>
                                     <div class="commit">
                                         <div class="sha">#390e298</div>
                                         <div class="message">[Eng] Fix syntax in version controller (#28371)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">ShawnXxy/OrcasCopilot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">stagingv2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#78a0c43</div>
-                                        <div class="message">Add configuration files for Azure SQL Database and related components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b1a7a5</div>
-                                        <div class="message">Add new source entry for PostgreSQL knowledge-base in config_dap_pg.json</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 30 commits in
-                                        <span class="repo">ShawnXxy/OrcasCopilot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1a5e891</div>
-                                        <div class="message">Merged PR 1759874: Added Geneva-Metrics-DRI-Copilot.md
-
-## Content
-
-&lt;TODO: describe your PR here&gt;
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-Added Geneva-Metrics-DRI-Copilot.md
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-Documentation update.
-
-#### PR Summary
-This pull request adds a new documentation file for the Geneva Metrics DRI Copilot.
-- `/wiki/DRI-Copilots/Geneva-Metrics-DRI-Copilot.md`: New file added with initial header content.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7907664</div>
-                                        <div class="message">Merged PR 1761257: [Hotfix] [Infra] Moving to 4.1 and 4o-mini for DRI Copilot + Intel Plat.
-
-## Content
-
-### Long Story Short
-
-Yesterday, I noticed multiple throttling using the DRI Copilot for Intelligence Platform with multi-round conversations on our planner step (even if final chat was code-related). Looking at our telemetry, we see a high usage of the `gpt-4o` model on the `DRI-Copilot-OAI` workspace. That does not appear to fully correlate with the front-door usage (question/answers).
-
-This is unexpected, as **all** indexing is using `gpt-4.1-mini` on `DRI-COpilot-OAI2` now (East US 2).
-
-This could be cause by multiple factors:
-1. Older "ghost" processing pipelines using our models. I have noticed at some pipelines are not always deleted properly form AML. It is also possible that legacy pipeline on the SQL side is using some quotas, as we shared it with them historically. This causes a large increase in cost that we need to get rid of.
-2. Online Evaluation. This may use more tokens than we think. However, I have (wrongfully) deleted that endpoint yesterday as I was cleaning up old endpoints, and it was still surfacing afterwards.
-
-**Example of usage**:
-
-![image (2).png](https://msdata.visualstudio.com/5603b9e3-ece0-4518-b9c8-1a36054d9970/_apis/git/repositories/7a11c04c-aa71-4764-a523-832d087cce37/pullRequests/1761257/attachments/image%20%282%29.png)
-
-On average, we see 2,000 queries per 30-minutes bucket, which is **66/minutes**. This is exagerated.
-
-## This Change
-
-This change changes all inference endpoints to use `gpt4.1`, `gpt4.1-mini` (DRI Copilot still uses a different planning agent), and `o4-mini` (tested, works great) since it is available now. I will delete the older models afterwards to save costs - especially if traffic does not down down to 0.
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-This PR is an infrastructure hotfix that updates deployment configurations for DRI Copilot and Intel Plat.
-
-#### PR Summary
-The pull request upgrades model identifiers, token quotas, version settings, and SKU names across multiple deployment configuration files to align with the new "gpt-4.1" and "o4-mini" standards.
-- `src/deployment/config/config_dricopilot.py`: Updated model deployment and model names (e.g., from "gpt-4o" to "gpt-4.1", "o3-mini" to "o4-mini"), increased token-per-minute values, and revised model versions and SKU names.
-- `src/deployment/config/config_intelligence_platform.py`: Revised model identifiers, im...</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e3f7557</div>
-                                        <div class="message">Merged PR 1760567: [PF] Improve dynamic planner
-
-## Content
-
-1. instruct to use get tsg multiple times potentially with better rephrasing
-2. Find a bug that repetitively executed the skills from the previous planner
-3. Update prompt for some skills to improve skill seleciton accuracy
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [X] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [X] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-improve dynamic planner
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-This pull request implements a design improvement to the dynamic planner functionality.
-
-#### PR Summary
-The changes update the agent executor and planner logic to better manage skill selection and execution context.
-- In `src/core/copilot_v2/modules/agent_executor/skill_executor.py`, the code now retrieves the latest skills with arguments from `agent_context` and reuses the executed skills from the context instead of initializing an empty list.
-- In `src/core/copilot_v2/llm/sk/sk_prompt_stepwise_planner.py`, the instructions were refined to discourage repetitive execution of the same skill with identical arguments, suggesting varied arguments such as rephrasing for search skills.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#93d3db5</div>
-                                        <div class="message">Merged PR 1762633: [Infra] Bringing re/latest up-to-date with main
-
-## Content
-
-1. Nit fixes around handing Kusto queries, image analyzers, and more.
-2. Support for single backend using multiple configurations
-3. MCP client Support
-4. Online eval
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-Related work items: #4188275, #4440645, #4509553, #4509793, #4525332, #4525377</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0041c85</div>
-                                        <div class="message">Merged PR 1750223: [Metric] Question Categorization
-
-## Content
-
-LLM-generated categories, condensed similar categories using string sequence comparisons.
-
-**The categorization found 458 collisions after testing on 632 real user questions.**
-Note: during this test most questions produced more than one category.
-
-Few examples from testing:
-
-question: what is Kusto MCP server?
-generated categories: ['Service Overview', 'Kusto Data Explorer']
-
-question: What steps can I take to troubleshoot DevBox disconnection issues from Hybrid Connection based on the TSG documentation?
-generated categories: ['Troubleshooting Hybrid Connection Issues', 'DevBox Connectivity']
-
-question: any solution for: https://github.com/azure-data-intelligence-platform/Fabric-Engineering-Support/issues/1098
-generated categories: ['GitHub Repository Issues', 'Issue Resolution Support']
-
-question: error code: UserErrorStoredProcedureExecuteFailure and error message: Execution fail against sql server. Please contact SQL Server team if you need further support. Sql error number: 110813. Error Message: Object reference not set to an instance of an object.
-generated categories: ['SQL Server Error Handling', 'Stored Procedure Execution Issues']
-
-question: Does Event Grid MQTT Broker use CheckAccess v1 API?
-generated categories: ['REST API Usage', 'Event Grid MQTT Broker']
-
-question: please help raid for this release: [O][Dv2][Master][CST] - 13904 - Pipelines
-generated categories: ['Release Information', 'Pipeline Management']
-
-question: how to collect the metadata size for a lake database?
-generated categories: ['Database Search and Retrieval', 'Data Lakehouse Management']
-
-question: Can you point me to any documents for DQP that talk about this?
-generated categories: ['Historical Documentation Requests']
-
-question: how to delete dsms secrets. Could you please provide instructions
-generated categories: ['Cluster Management', 'DSMS Documentation']
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-New feature: adding a question categorization metric to the evaluation framework.
-
-#### PR Summary
-This pull request introduces a custom metric that categorizes technical questions via an LLM prompt, enhances tests, and integrates the new metric into the evaluation and bot dialog pipelines.
-- `src/tests/unit/copilot_v2/test_online_evaluation.py`: Added tests (test12, test13, test14) for the question categorization metric.
-- `src/core/ev...</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#202d409</div>
-                                        <div class="message">Merged PR 1758707: [Infra] Various Nits and fixes (wave 7)
-
-## Content
-
-This PR is fixing two super-small nits from day-0 problems that translated into production failures for people:
-
-1. We may have more queries extracted than the original number of code blocks. A code block in documentation can contain multiple queries, but the `kql.general.generator` produces one per query. That was causing an out-of-bound exception.
-2. We had issues for some icm insights failing to get the right time columns. This does not fix the problem, but it will surface the right error.
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-This pull request implements bug fixes and code cleanup in the KQL query generator and chart utility modules.
-
-#### PR Summary
-The changes resolve potential runtime errors by ensuring proper boundary checking and variable initialization.
-- `src/core/copilot_v2/skills/kql/general/generator.py`: Adds a boundary check before accessing the `blocks` list and assigns an empty string when the index is out of bounds.
-- `src/core/copilot_v2/utils/kustochart_util.py`: Initializes the `time_col` variable to prevent an UnboundLocalError during time chart rendering.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6c253c</div>
-                                        <div class="message">Merged PR 1758616: [Bot] Placing Conversation Starter in Editor when clicked "Ask" (Web only)
-
-## Content
-
-### Web
-
-This changes the behavior of the "Ask" button on suggestion cards (aka conversation starters). On the web, they will now appear in the chat editor as intercepted by the middleware. This is per @&lt;Henry Weng&gt;'s feedback.
-
-This means we can display those as "template" that people can then edit.
-
-### MS Teams
-
-On MS Teams, these will still cause direct sending. We could use _suggested actions_ as in !1723505, but that **only** can support the first _3_ suggestions and is thus very limited. There is no `Action.Compose` for Adaptive cards.
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-Adding interceptor
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-This pull request introduces a new feature by adding an interceptor to handle suggestion card clicks on the web UI.
-
-#### PR Summary
-The changes intercept suggestion card actions and redirect the suggestion text into the main editor instead of sending it to the backend.
-- In `src/core/bot/wwwroot/js/main.js`, add a conditional block to detect events of type `WEB_CHAT/SEND_POST_BACK` with a suggestion card response.
-- In `src/core/bot/wwwroot/js/main.js`, populate the custom input field with the suggestion text, focus it, and dispatch an input event to trigger any related listeners, then return false to block further processing.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
-
-Related work items: #4525377</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18b1a42</div>
-                                        <div class="message">Merged PR 1758481: [TSG] Add error handling for clone step for tsg preprocessing
-
-## Content
-
-Minor change to add exception handling for TSG preprocessing pipeline when clone failed.
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [X] You have deployed your latest code changes and validated that everything works fine.
-- [X] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [X] The CI pipeline is passing.
-- [X] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-Add error handling for clone step for tsg preprocessing
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-Enhancement: Implements robust error handling for tsg preprocessing steps.
-
-#### PR Summary
-This pull request adds try-except blocks to improve error management during repository cloning and modification time extraction, ensuring the process skips failing repositories without interruption.
-- `src/core/indexers/tsgs/scripts/tsg_processing.py`: Wrapped the repo cloning/pulling function with error handling to log issues and continue processing.
-- `src/core/indexers/tsgs/scripts/tsg_processing.py`: Added error handling for constructing repository modification times with appropriate logging and flow control.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a498ca7</div>
-                                        <div class="message">Merged PR 1758575: [Infra] Moving to AME V2
-
-## Content
-
-This addresses this ICM: Incident [664353956](https://portal.microsofticm.com/imp/v5/incidents/details/664353956/summary) : AzRel Red Flag SRE - Ocean View - SR01 - AME Pinned Certificate Removal - 96fc8f09-b30a-4e7c-9875-2160cc38dd26
-
-It also migrates from `AME` (expiring May 2026) to AME V2. CF changelog markdown doc for details.
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-This PR implements an infrastructure migration by updating certificate settings and related documentation to transition to AME V2.
-
-#### PR Summary
-The pull request updates code and documentation to support the switch to AME V2 certificates as part of fixing AME certs.
-- `wiki/Changelog/Special-Instructions/20250801-Migrating-to-AMEV2.md` adds a new migration guide with detailed steps.
-- `EV2Files/Deployments/DriCopilot/ScopeBindings.json` and `src/deployment/config/config_dricopilot.py` update the subject name from "intelligenceplatformdricopilot" to "DRICopilotCopilot".
-- `wiki/Onboarding/Prepare/Resources.md` revises the Private Issuer value from "AME" to "AMEV2".
-- `wiki/Changelog/Special-Instructions/toc.yml` is updated to include the new migration documentation entry.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
-
-Related work items: #4525332</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e8a222</div>
-                                        <div class="message">Merged PR 1758739: [SuperDRI] Superdri online update
-
-## Content
-
-1. Update skills, cleaning code
-2. Try updating not to invoke icm extractor every time
-3. fix skill selection for force_executed skills. If that is the only skill that is needed, sometimes the "terminate" flat skips its execution. Adding a check to ensure such skill is executed at list once.
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [X] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [X] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-superdri online update
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-This PR implements an update to the SuperDRI troubleshooting process by enhancing skill selection logic, messaging, and configuration settings.
-
-#### PR Summary
-The changes refine the iterative troubleshooting workflow by improving how skills are selected and executed, updating response instructions, and adjusting configuration and debug settings.
-- **`src/core/copilot_v2/modules/agent_executor/skill_selector.py`**: Added logic to map executed skills and conditionally reset the termination flag if pending force-execute skills are detected.
-- **`src/core/copilot_v2/skills/superdri/get_actions.py`**: Enhanced response messaging by introducing a dynamic `icm_extractor_prompt`, updating instruction text, and invoking an informative log function.
-- **`src/core/copilot_v2/agents/TSPlan.yaml`**: Revised the agent description to reorder troubleshooting steps and include incident ticket extraction conditions.
-- **`src/core/copilot_v2/config/test/config_troubleshooting_local.json`**: Enabled dynamic agent skill selection by introducing a new configuration flag.
-- **`src/core/copilot_v2/dev_scripts/test_app.py`**: Updated the Streamlit executable path in debug settings and added an installation note for the `networkx_mermaid` package.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#86c992b</div>
-                                        <div class="message">[SECURITY] Set minimum .NET SDK version via global.json to address security vulnerabilities</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63250b0</div>
-                                        <div class="message">Merged PR 1755834: [Infra] Various Nits and fixes (wave 6)
-
-## Content
-
-- Making sure we default to using the local emulator when running locally, so we can run without a configuration without having to give blob store access to anyone or influence prod set up.
-- Fixing `token_cache.py` to explicitly use UTC format and refresh token 5 minutes prior to expiration, so we never run into an expiration issue.
-- Fixing forced references in `final_chat.py` so we do not print an empty reference list (title with nothing).
-- Making sure `image_analyzer` does not blindly analyze all image in context if not specified in by semantic kernel (if you ask it to analyze a screenshot but do not upload it, it will go that path).
-- Fixing "forever loop" on frontend login if user do not have access.
-- Fixing configuration to take into account that `extensions` is now optional.
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-Bug fixes and code cleanup focused on improving token caching, timezone handling, and configuration settings.
-
-#### PR Summary
-This pull request introduces enhanced token caching with robust timezone and expiry buffer logic, comprehensive unit tests, and minor configuration and reference string generation improvements.
-- `src/tests/unit/common/test_token_cache.py`: Adds extensive unit tests for token caching, including timezone consistency, atomic file operations, and multiple scopes handling.
-- `src/core/common/utils/token_cache.py`: Refines token caching by ensuring timezone-aware expiration checks and adding a buffer before token expiry.
-- `src/core/bot/Program.cs`: Updates configuration settings with improved comments and support for blob storage container URI.
-- `src/core/copilot_v2/modules/final_chat.py`: Adjusts final chat reference string generation to conditionally return references based on context.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a66f43d</div>
-                                        <div class="message">Merged PR 1754291: Add SparkTriager skill that leverages SparkBot MCP
-
-## Content
-
-Add SparkTriager skill that leverages SparkBot MCP
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-This PR introduces a new feature by adding a SparkTriager skill that leverages SparkBot MCP for advanced incident triaging and analysis.
-
-#### PR Summary
-The pull request adds a SparkTriager agent and its corresponding configurations to enable MCP-based investigation for Spark incidents, enhancing latency analysis and troubleshooting capabilities. Key changes include:
-- **`src/core/copilot_v2/config/intelligence_platform/config_spark_triager_test.json`**: Added a new test configuration file defining the Spark triager setup with various agents and skills.
-- **`src/core/copilot_v2/agents/SparkTriagerAgent.yaml`**: Introduced a new agent definition for Spark triaging with integrated MCP server settings and detailed prompt templates.
-- **`src/core/bot/Configs/appsettings.IntelligencePlatform.json`**: Updated chat configurations to include both production and test environments for the Spark Triager.
-- **`EV2Files/Deployments/IntelligencePlatform/ScopeBindings.json`**: Modified deployment bindings to incorporate the new Spark triager configuration file.
-- **`src/core/copilot_v2/skills/mcp/mcp_client.py`**: Adjusted the logging message to reference the MCP server URL correctly.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df9bea5</div>
-                                        <div class="message">Merged PR 1752445: deploy sql perf copilot
-
-## Content
-
-Update perf copilot related resources.
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-deploy sql perf copilot
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-This pull request deploys a new feature by integrating SQL performance troubleshooting capabilities into the copilot.
-
-#### PR Summary
-The changes add a new SQL troubleshooting chat configuration and enhance the associated Python code with improved logging and updated API parameters. Key modifications include:
-- `src/core/bot/Configs/appsettings.sql.json`: Added a new "SQL DB Troubleshooter[Preview]" chat configuration with promptflow endpoint and plugin settings.
-- `src/core/copilot_v2/skills/services/sql/perf_copilot/perf_copilot.py`: Introduced logging statements to capture and trace perf copilot responses.
-- `src/core/copilot_v2/config/sql/config_sqlperf.json`: Updated configuration settings by increasing `chat_output_max_tokens` and switching the common config file reference.
-- `src/core/copilot_v2/modules/agent_executor/agent_executor.py`: Removed an unnecessary variable assignment in the terminal agent handling logic.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#499563d</div>
-                                        <div class="message">Merged PR 1731866: [SuperDRI] Loading CosmosDB graph for TSAction/TSPlan Agent
-
-## Content
-
-1. Tested with debug ticket 578641908
-2. Adding image rendering for full chain of graph after problem is selected
-3. For TS Action, only taking graph as input (not icm/tsg for now).
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-small test
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-New feature: Introduces a custom SuperDRI node details skill that bypasses index usage.
-
-#### PR Summary
-This pull request adds a new skill implementation to extract node details without relying on an index and updates the troubleshooting configuration to use the new skill.
-- `src/core/copilot_v2/skills/superdri/get_node_details.py`: New file defining the "GET_NODE_DETAILS" skill with logic for node extraction and context mapping.
-- `src/core/copilot_v2/config/test/config_troubleshooting_local.json`: Updated configuration replacing previous skill setups with the new "superdri.get_node_details" entry.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#967c78a</div>
-                                        <div class="message">Merged PR 1747999: [PF] Feedback Pulse 20250724
-
-## Content
-
-1. Adding keyword filter for icm/tsg
-2. Fix telemetry data
-3. Add a prompt for image agent not to invoke if the document content has been extracted. (running into infinite loop)
-
-Tested with:
-- get me similar incident of 411477892
-- Get all similar incidents where customer reported LogNearFull and caused by ACTIVE_BACKUP_OR_RESTORE==&gt;**["LogNearFull","ACTIVE_BACKUP_OR_RESTORE"]**
-- tell me about incident 437418276 and show me relevant TSGs and similar incidents
-- What could be causing low login success rate?==&gt;**["login"]**
-- Can you share a postgresql query to determine bloat for a server==&gt;**["bloat"]**
-- Login failures due to error  - DueToProxyConnextThrottle==&gt;**["DueToProxyConnextThrottle"]**
-- Tell me what you see &lt;UPLOADEDDOCUMENT&gt;........
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-This pull request is a feature enhancement that improves search filtering and telemetry consistency across multiple skills.
-
-#### PR Summary
-The changes extend the incident and troubleshooting search capabilities by adding a new "keywords" parameter to filter search results, while standardizing telemetry tagging for clearer context and easier troubleshooting. Key updates include:
-- Updates to `default_sk_examples.json` and `default_sk_stepwise_planner_examples.json` that add new examples with a `keywords` field for improved filtering.
-- Enhancements in `get_icms.py` to incorporate provided keywords into search filters and adjust search text construction.
-- Telemetry standardization across several skills (e.g., `icm_extractor.py`, `image_analyzer.py`, `code_search.py`, `get_active_by_region.py`, `learn/search.py`, `cst_analyzer.py`, `troubleshooter_url_generator.py`, `get_tsgs.py`), using namespaced keys.
-- Minor refactoring to ensure consistent handling of telemetry data and search parameters across skill modules.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#77511bd</div>
-                                        <div class="message">Merged PR 1751067: [Infra] Allowing a single Backend Deployment to Serve Multiple Backend Configurations
-
-## Content
-
-Low-hanging fruit, long-pending.
-
-We can easily serve multiple backend PromptFlow configuration on the same model and deployment, provided this one contains all the latest bits and the right configuration files checked in. We can just pass it from the frontend.
-
-This means that, for some production environment, we can reduce the VM consumption and deployment time by a margin by doing a single deployment instead of multiple.
-
-## Example of savings
-
-### Dollars
-- Right now, we have 19 backend for Intelligence Platform, of which 14 use a `DS2_v2` and 5 use a `DS3_v2`.
-- That's `14 * cost([DS2_v2]) + 5 * cost([DS3_v3]) = 14 * 109 + 5 * 208 = 2566`, i.e. 2,566 USD.
-- With the new model (one `main` and one `proto`, we get `cost([DS4_v2]) + cost([DS3_v2]) = 208 + 436 = 644`
-
-**Effectively, we are saving 1,922 USD / Month, which is a 74% reduction. ([Source](https://azure.microsoft.com/en-us/pricing/details/machine-learning/))**
-
-### Time
-
-Deployment time for backends scales linearly with their numbers. This is quite slow, as we create the new VM, swap traffic, drop the old one. As a result, for the 19 backend, we spent 5h20 _just_ deploying backends ([source](https://ev2portal.azure.net/#/Rollout/Azure%20Data%20DRI%20Copilot/ae3aca99-298f-42cb-8fc6-53d7b9f405b5?RolloutInfra=Prod)). This is a 17 minutes per backend.
-
-**With this new model, we do only two deployments. We can expect an end-to-end deployment in 40 minutes (there is some set up overhead and image buildup). That's an 87% reduction.**
-
-## Side Changes
-
-This is deleting the old "wiki only" trident chat. It's now under Power BI.
-
-## TODO (after)
-- [ ] Delete all per-config endpoints (minus super-DRI)
-- [ ] Delete fabric processing pipeline
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [X] You have deployed your latest code changes and validated that everything works fine.
-- [X] You have added appropriate documentation and headers to your files.
-- [X] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [X] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-Passing config down from API
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-This is a new feature implementation that enables a single backend deployment to serve multiple backend configurations.
-
-#### PR Summary
-The pull request introduces an optional PromptFlow configuration file parameter to support different backend configurations within one deployment. It ensures proper JSON serialization of the configuration only when provided, updates relevant settings, and adds unit tests to validate the new behavior.
-- `src/tests/unit/bot/PFApiTests.cs`: Added tests to verify that the payload omits the "config_file" key when null and includes it when...</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b160ef</div>
-                                        <div class="message">Merged PR 1750052: [PromptflowTestRunner] Fix mermaid regex to include flowchart
-
-## Content
-
-#### PR Summary
-This pull request adjusts the mermaid regex in multiple PromptFlowTestRunner scenario files to accept both "graph" and "flowchart" syntax, ensuring accurate diagram validation. It also updates the onboarding documentation with a tip to help troubleshoot missing `pf` command errors.
-- `src/core/bot/Plugins/PromptFlowTestRunner/PromptFlowTestRunnerScenarios/IntelligencePlatform/*/mermaid-graph-scenarios.json`: Modified the `AnswerValidationRegex` to support both "graph" and "flowchart".
-- `wiki/Onboarding/Modules/Bot.md`: Added a tip to guide users on resolving the `pf` command not recognized issue.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [X] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42c3ab7</div>
-                                        <div class="message">Merged PR 1752208: [IntelligencePlatform]  Add support for selective file copying and onboard on call routing troubleshooter skill for Dedicated and Serverless
-
-## Content
-
-#### PR Summary
-The changes add support for selective file copying via a new helper and update configuration, tests, and documentation to enable the onboarding of the on call routing troubleshooter skill. Key changes include:
-- `src/core/indexers/tsgs/scripts/tsg_processing.py`: Updated file copying logic to use `copy_specific_files` when the `file_names` attribute is provided.
-- `src/copilot_v2/config/intelligence_platform/config_synapse_dw_dedicated.json` and `config_synapse_dw_serverless.json`: Added new OnCallRoutingTroubleshooter agent configurations with associated skills and updated TSG indexes.
-- `src/core/common/utils/indexer_util.py`: Introduced the `copy_specific_files` function to support copying specific files.
-- `src/tests/unit/common/test_indexer_util.py`: Added new unit tests to verify the selective file copying functionality.
-- `wiki/Onboarding/Modules/TSG-Processing.md` and `tsg_types.py`: Updated documentation and type definitions to include the new optional `file_names` parameter.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-Related work items: #4509553</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9dc6f57</div>
-                                        <div class="message">Merged PR 1747698: [Copilot v2] Adding MCP Client Support
-
-## Content
-
-This builds on the work of @&lt;Nina Qiu&gt; in !1712067
-
-This PR:
-
-- Enables an agent to use MCP Servers
-- Enables to use MI, On-behalf-Of, or no authentication for MCP Servers
-- Adds documentation for MCP Servers
-- Shows an example using Microsoft public documentation MCP.
-
-More was discussed here: [DRI Copilot MCP Integration Specs](https://microsoft.sharepoint.com/:w:/t/CopilotNinjas/EXXRABK8F-tPh7EHyjN_mXcB5P1f8xxyAxiuF6AM1GuHcg?e=XkB8ab)
-
-## Checklist
-
-Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
-
-- [ ] You have deployed your latest code changes and validated that everything works fine.
-- [ ] You have added appropriate documentation and headers to your files.
-- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
-- [ ] The CI pipeline is passing.
-- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
-- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
-
-Adding MCP Client support
-
-----
-#### AI description  (iteration 1)
-#### PR Classification
-New feature – integrating MCP Client support into the project.
-
-#### PR Summary
-This pull request adds comprehensive MCP Client support by introducing new skill and utility modules for orchestrating MCP server calls and updating existing agent planning and configuration logic.
-- **`src/core/copilot_v2/skills/mcp/mcp_client.py`**: Added a new skill implementing MCP client functionality with both OBOToken and managed identity authentication, orchestrating calls to multiple MCP servers.
-- **`src/core/copilot_v2/utils/mcp_utils.py`**: Introduced asynchronous and synchronous functions to connect with MCP servers using plugins and an Azure OpenAI service.
-- **`src/core/copilot_v2/utils/skill_semantic_kernel.py` &amp; `src/core/copilot_v2/modules/agent_executor/skill_selector.py`**: Modified planning logic to support a pass-through plan when MCP server is enabled.
-- **`src/core/copilot_v2/utils/agent_context.py`**: Updated the agent context model to include an `enable_mcp_server` flag.
-- **Requirements files**: Updated `requirements.txt` and `requirements.in` by adding necessary dependencies for MCP and related SSE support.
-&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
-
-Related work items: #4489200</div>
                                     </div>
                                 </div>
                             </section>
@@ -3297,7 +2581,7 @@ Related work items: #4489200</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Aug 2025, 18:24:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Aug 2025, 19:19:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
