@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1584" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2216" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-base{stroke:currentColor;stroke-width:10;stroke-opacity:.2}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-base{stroke:currentColor;stroke-width:10;stroke-opacity:.2}.gauge text,.gauge text.secondary{fill:currentColor;font-family:monospace;text-anchor:middle}.gauge text{font-size:40px;font-weight:600}.gauge text.secondary{font-size:25px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.large .project .items .text{width:916px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    65.5k added, 21.9k removed
+                                    13.1k added, 1.68k removed
                                 </div>
                             </section>
                             <section>
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    62 views in last two weeks
+                                    60 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -348,7 +348,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 14 commits)</small>
+                    <small class="h-details">(computed from last 16 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2391,6 +2391,1342 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 26 commits in
+                                        <span class="repo">ShawnXxy/OrcasCopilot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">stagingv2</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2d08905</div>
+                                        <div class="message">Merged PR 1809126: [Infra] Bringing rel/latest up-to-date with main (20250919)
+
+## Content
+
+Mainly to fix some issues with Open AI ARM + AML ARM.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+Related work items: #3924697, #4440645, #4534587, #4534792, #4566042, #4566043, #4566044, #4639340, #4663150, #4692692, #4695075</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#177c53a</div>
+                                        <div class="message">Merged PR 1805209: [ARM] Testing, hotfixing various aspects [Part 1]
+
+## Content
+
+1. We did not have the right dependencies for models, as ARM does not work well with condition and dependencies.
+2. AML through ARM now does not create file shares. Ok - I do not think we need them.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+Saving temp
+
+----
+#### AI description  (iteration 2)
+#### PR Classification
+This PR implements hotfixes and testing improvements by updating configuration and deployment logic.
+
+#### PR Summary
+The pull request adds a new test configuration file, improves error handling in the deployment utility, and revises dependency references in the ARM template for OpenAI resource deployments.
+- **`src/deployment/config/test/config_mdemarne.py`**: Added a comprehensive configuration file for deployment settings including copilot, OpenAI, Azure ML, Cosmos DB, and bot parameters.
+- **`src/deployment/deployment_util.py`**: Enhanced the datastore update routine by wrapping it in a try/except block to gracefully skip missing or unsupported datastores.
+- **`EV2Files/Templates/AOAI.Template.json`**: Updated dependency assignments to correctly link various OpenAI model deployments (embedding, agent, reasoning, and indexing).
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7bef742</div>
+                                        <div class="message">Merged PR 1806597: separate MCP usage
+
+## Content
+
+separate MCP usage
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+seperate MCP introduction
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Documentation reorganization and enhancement.
+
+#### PR Summary
+This pull request reorganizes the MCP usage documentation by moving the MCP VSCode guide to a dedicated folder and introducing a new usage guide. It also updates internal links and navigation across multiple changelog and help files.
+- `wiki/Onboarding/Optional-Modules/MCP-VSCode.md` moved to `wiki/Onboarding/Optional-Modules/MCP/MCP-VSCode.md`
+- `wiki/Onboarding/Optional-Modules/MCP/MCP-VSCode-How-To-Use.md` added with usage instructions
+- Links in `wiki/Changelog` and `wiki/Internals/MCP-VSCode-IO.md` updated to reference the new MCP documentation path
+- Navigation updated in `wiki/Onboarding/Optional-Modules/toc.yml` to include the new MCP structure
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e597f6</div>
+                                        <div class="message">Merged PR 1806724: get_active_icms.py OwningTenantName kusto column name fix
+
+## Content
+
+&lt;TODO: describe your PR here&gt;
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+get_active_icms.py OwningTenantName kusto column name fix
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Bug fix addressing an incorrect column reference in the Kusto query.
+
+#### PR Summary
+This pull request corrects the use of the column name by replacing `TenantName` with `OwningTenantName` in the Kusto query and ticket mapping within the script.
+- `src/core/copilot_v2/skills/icm/get_active_icms.py`: Updated the query's summarize clause and the ticket dictionary assignment to consistently use `OwningTenantName` instead of `TenantName`.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd34bc9</div>
+                                        <div class="message">Merged PR 1769181: [Infra] Adding Restricted CRI Support - Part 1/2
+
+## Content
+
+This PR implements support for restricted CRI. This implements the first part only - the backend work to gather restricted data access form a specific ICM Tenant for restricted CRI and check user-based access per team ownership. There will be a second part that obfuscate DRI Copilot telemetry based on data accessed.
+
+This is building upon !1687843.
+
+## Implementation Details
+
+For Restricted CRI, we will get access to the redacted data using ICM OData API. The ICM OData API can give access to such data to certificates or MI that have been added to the appropriate role on an ICM-tenant level (it thus does not require the ICM team input, only ICM Tenant owners to whitelist access). At inference time, every ICM will go through a filter that checks if the current user has access to the restricted ICM. If so, the incident data will be able to flow through. If not, the ICM Data will be filtered out of the answer. If a restricted ICM is used to craft an answer, every conversation entry in that conversation will be redacted in telemetry to avoid exposing redacted data to other parties.
+
+There are two places where OData can be used: live incident summaries and offline indexing. Both can leverage it.
+
+To check if a user has access, since the ICM team has not provided any way to check ACL rules (i.e. access lists), but as every ICM Team member gets access to their incidents by default, we will leverage team ownership. Team ownership will be retrieved on-the-fly to ensure appropriate alignment. This means that we will enable access for a subset of the full ACL list (team members only) until an API or a telemetry sync point is available for ACL access - which remains to be seen.
+
+## Side Changes
+
+- This removes the dead code for live summary using the index. We solely rely on the live calls anyways.
+
+## Next Steps
+
+- [ ] Check incident type re-mapping logic with Kai
+- [ ] Implement telemetry obfuscation in the frontend
+- [ ] Add document to docfx.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+Related work items: #4534792, #4566042, #4566043, #4566044</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#15274e7</div>
+                                        <div class="message">Merged PR 1802008: [SECURITY] Bump axios from 1.9.0 to 1.12.0 in /src/core/copilot_v2/dev_scripts/dricopilot-mcp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef3ef7f</div>
+                                        <div class="message">Merged PR 1804723: Add PostgreSQL skills to Product-Specific Skill List
+
+## Content
+
+&lt;TODO: describe your PR here&gt;
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+add pg skills
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This pull request is a documentation update that adds new PostgreSQL skills to the Product-Specific Skill List.
+
+#### PR Summary
+The changes update the onboarding documentation by introducing a new PostgreSQL section with detailed skill descriptions:
+- `wiki/Onboarding/Plugins/ListV2.md`: Added three PostgreSQL skills – CPU anomaly detector, general anomaly detector, and query bank.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #4695075</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ddad9a4</div>
+                                        <div class="message">Merged PR 1804961: Rename Sql DB Perf Troubleshooting Agent(Preview)
+
+## Content
+
+&lt;TODO: describe your PR here&gt;
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+rename Sql DB Perf Troubleshooting Agent(Preview)
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This pull request implements a renaming update in the configuration to align the agent's display name with the new naming convention.
+
+#### PR Summary
+The PR updates the ChatName in the configuration file to reflect the new name.
+- `src/core/bot/Configs/appsettings.sql.json`: Changed the ChatName from "SQL DRI Copilot Perf Troubleshooting Agent(Preview)" to "Sql DB Perf Troubleshooting Agent(Preview)".
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #4692692</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b10bbb8</div>
+                                        <div class="message">Merged PR 1804993: [Hackathon] Edit config
+
+## Content
+
+&lt;TODO: describe your PR here&gt;
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This PR makes configuration updates to support the hackathon environment.
+
+#### PR Summary
+The PR updates configuration files to point to new service endpoints and credentials for hackathon testing, ensuring that resources and API endpoints align with the intended environment.
+- `src/common/config/test/config_hackathon25.json`: Modified keyvault URI, MSI settings, evaluation endpoint name, and AML configuration (subscription_id, resource_group, workspace_region, and workspace_name).
+- `src/core/copilot_v2/config/test/config_hackathon25.json`: Updated the agentic_copilot promptflow endpoint name to the hackathon-specific value.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2b29c8</div>
+                                        <div class="message">Merged PR 1790856: update forwarder replica
+
+## Content
+
+&lt;TODO: describe your PR here&gt;
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+update forwarder replica
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This PR introduces a new feature by adding support for the "forwarder" replica type in SQL performance troubleshooting.
+
+#### PR Summary
+The changes extend the SQL performance copilot functionality to handle "forwarder" replicas by adding new troubleshooting examples and updating parameter validation.
+- `src/core/copilot_v2/skills/services/sql/perf_copilot/perf_copilot.py`: Added multiple troubleshooting message templates for the "forwarder" replica, updated the input description to include "forwarder" as a valid option, and modified the base URL configuration.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #4663150</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4012425</div>
+                                        <div class="message">Merged PR 1801510: deployment scripts for hldritest
+
+## Content
+
+Create deployment for hldritest
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 13)
+#### PR Classification
+This pull request adds new deployment scripts and related configuration changes for the hldritest environment.
+
+#### PR Summary
+The PR sets up EV2-managed deployment for DRICopilot in the hldritest environment by introducing new configuration and pipeline files to support the rollout process.
+- **`EV2Files/Deployments/Test/hldritest/ScopeBindings.json` &amp; `ServiceModel.json`**: New files defining token replacements and service resource models.
+- **`/.pipelines/deployments/hldritest-copilot-release.yml`**: New pipeline YAML to manage the build and deployment process.
+- **`EV2Files/Deployments/Test/hldritest/RolloutSpec.json`**: Added rollout specification outlining deployment steps.
+- **`src/core/indexers/icms/config/test/config_hldritest.json` &amp; `src/core/indexers/tsgs/config/test/config_hldritest.json`**: Updated configuration references to use the correct file paths.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #4534587</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1011d3d</div>
+                                        <div class="message">Merged PR 1768886: TSS Sign DRi copilot integration | New PR
+
+## Content
+
+This PR is an attempt to integrate DRI Copilot for our sign team space.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This pull request delivers a new feature by adding integration support for TSS Sign into the DRICopilot platform.
+
+#### PR Summary
+The PR introduces a full suite of new configuration and deployment assets that enable TSS Sign DRICopilot integration, including runtime settings, deployment orchestration, and updated documentation.
+- New deployment configuration files (`ScopeBindings.json`, `ServiceModel.json`, `RolloutSpec.json`) have been added under `EV2Files/Deployments/Tsssign`.
+- A new release pipeline file (`.pipelines/deployments/tsssign-release.yml`) has been introduced to automate deployment.
+- New integration settings are provided in configuration files (`src/core/copilot_v2/config/config_tsssign.json` and `src/common/config/config_tsssign.json`) to support Azure OpenAI, AML, ACS, PromptFlow, and related services.
+- A documentation file (`src/common/descriptions/tsssigndescription.md`) outlines ESRP registration changes and onboarding details.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fcdbdc0</div>
+                                        <div class="message">Merged PR 1786338: adding dri copilot beginner tips and tricks video to the wiki.
+
+## Content
+
+adding a video to the wiki page describing beginner tips and tricks for DRI Copilot.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+adding dri copilot beginner tips and tricks video to the wiki.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This pull request is a documentation update that adds a new video feature to the wiki.
+
+#### PR Summary
+The changes enhance the wiki by embedding two videos—one for the DRI Copilot Highlight Reel and a new DRI Copilot Beginner Tips and Tricks video—thus aligning with the work item "Create 'Welcome to DRI Copilot' video".
+- `wiki/Index.md`: Added a flex container with headers for "DRI Copilot Highlight Reel" and "DRI Copilot Beginner Tips and Tricks".
+- `wiki/Index.md`: Replaced a single large video iframe with two side-by-side iframes to display both videos.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #4639340</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8247b75</div>
+                                        <div class="message">Merged PR 1801890: [Hackathon] Add config for hackathon
+
+## Content
+
+Adding configuration for Hackathon members.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+add config for hackathon
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This pull request introduces new configuration files for hackathon testing.
+
+#### PR Summary
+The changes add two new hackathon configuration files that define endpoints, agent settings, and service credentials required for testing.
+- `src/core/copilot_v2/config/test/config_hackathon25.json`: Adds detailed agentic copilot configuration with settings for promptflow, kusto authentication, agent definitions, and dynamic agent skill selection.
+- `src/common/config/test/config_hackathon25.json`: Introduces global hackathon settings for openai, AML, ACS, keyvault, MSI, and evaluation endpoints.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b91103</div>
+                                        <div class="message">Merged PR 1773211: Initial draft for preprocessing IcMs into taxonomies
+
+## Content
+
+Ongoing work to get our preprocessing of IcMs embedded into DRICopilot
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This pull request introduces a new feature that implements an initial draft for preprocessing Incident Communications (IcMs) into hierarchical taxonomies.
+
+#### PR Summary
+The changes add extensive functionality to extract, clean, visualize, and index taxonomies derived from IcMs, while integrating these modules into the existing indexing and configuration pipelines.
+- `src/core/common/utils/taxonomy_extractor_util.py`: New module implementing taxonomy extraction, cleaning routines, visualization, and alignment.
+- `src/core/indexers/acs/config/taxonomy_index_schema.json` and `src/core/indexers/acs/taxonomy_acs_index.py`: New ACS index schema and index manager for taxonomy data.
+- `src/core/common/config/types/indexers/taxonomy_types.py` and related V2 types: New configuration classes and data structures for taxonomy processing.
+- Additional new files and configuration updates (e.g., AML dispatcher, KQL templates, service config updates, and .env samples) to integrate the taxonomy preprocessing pipeline into the broader system.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #3924697</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fc4997b</div>
+                                        <div class="message">Merged PR 1801812: Improving test_app.py to provide a chat-bot-like UI experience
+
+## Content
+
+![new_test_app.gif](https://msdata.visualstudio.com/5603b9e3-ece0-4518-b9c8-1a36054d9970/_apis/git/repositories/7a11c04c-aa71-4764-a523-832d087cce37/pullRequests/1801812/attachments/new_test_app.gif)
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [x] You have deployed your latest code changes and validated that everything works fine.
+- [x] You have added appropriate documentation and headers to your files.
+- [x] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [x] The CI pipeline is passing.
+- [x] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [x] If needed, you have updated the `README.md` file(s) associated with your change.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#628659c</div>
+                                        <div class="message">Merged PR 1801277: [Intel. Plat.] Fixing References for Cosmos
+
+## Content
+
+Turns out, the Cosmos documentation is not one Engineering Hub site, but 4.
+
+This also makes dynamic skills the default for Intel. Plat. everywhere.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+Updated config_cosmos.json
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This PR updates configuration references for Cosmos documentation to improve the categorization and accuracy of document sources.
+
+#### PR Summary
+The pull request revises the Cosmos configuration file to correct folder paths and enrich the documentation references across different Cosmos document types.
+- Modified `src/core/indexers/tsgs/config/intelligence_platform/config_cosmos.json` to change the onboarding guide folder from "Docfx" to "Docfx/onboard" and update its URL and description.
+- Added new entries in the same file for public documentation (`Docfx/PublicDocs`), internal team docs (`Docfx/teams`), and troubleshooting guides (`Docfx/TSG`) with appropriate descriptions and secret credentials.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+----
+#### AI description  (iteration 4)
+#### PR Classification
+This pull request is a configuration update that fixes and refines references for Cosmos.
+
+#### PR Summary
+The changes update Cosmos configuration settings to improve displayed names, descriptions, documentation links, and behavior, while also enabling dynamic agent skill selection in multiple copilot configuration files.
+- `src/core/bot/Configs/appsettings.IntelligencePlatform.json`: Revised the Cosmos chat block by updating display names, descriptions, and control suggestions, and removed an outdated configuration entry.
+- `src/core/indexers/tsgs/config/intelligence_platform/config_cosmos.json`: Modified folder paths and documentation links, and added separate entries for public docs, onboarding, team documentation, and troubleshooting guides.
+- `src/core/copilot_v2/config/intelligence_platform/`: Enabled dynamic agent skill selection consistently across various configuration files.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f43b1f</div>
+                                        <div class="message">Merged PR 1800183: [SuperDRI] Fix the flow to let kusto agent to jump out
+
+## Content
+
+Fix the flow to make sure it does not stuck with Kusto agent and execute it again and again.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [X] You have added appropriate documentation and headers to your files.
+- [X] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [X] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [X] If needed, you have updated the `README.md` file(s) associated with your change.
+
+fix the flow to let kusto agent to jump out
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Bug fix that corrects the agent flow logic for properly terminating the Kusto agent and handling transitions between agents.
+
+#### PR Summary
+This PR revises the termination and flow handling logic across multiple agents to ensure that once a Kusto query is executed, the proper transition occurs without additional unnecessary steps. The changes update prompt conditions and messaging for a more deterministic agent flow.
+
+- `src/core/copilot_v2/utils/manager_prompts.py`: Added conditions to return `terminate` when specific termination cues or iterative troubleshooting commands are detected.
+- `src/core/copilot_v2/agents/TSPlan.yaml`: Revised the directive to always follow an execution agent (e.g., Kusto Agent) with the TSPlan agent for planning subsequent steps.
+- `src/core/copilot_v2/skills/kql/general/executor.py`: Modified the non-streaming output message to notify that the Kusto agent will terminate after query execution.
+- `src/core/copilot_v2/skills/superdri/get_actions_raw.py`: Inserted an instruction to invoke the TSPlan agent immediately after a successful query step.
+- `src/core/copilot_v2/llm/sk/sk_prompt_stepwise_planner.py`: Introduced a termination condition when previous skill outputs suggest switching to a different agent workflow.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f90f057</div>
+                                        <div class="message">Merged PR 1792480: [v1.1] Fast Monitor
+
+## Content
+
+Adds support for creating TSGs
+- [X] Modifies the AutoPR BE skill to parse both TSGs and Auto-TSGs
+- [X] Adds `FileType` attribute to `auto_pr` skill output (used for differentiating Auto-TSGs (`yml`) and TSGs (`md`))
+- [X] Introduces a new framework for defining ADO repos via appsettings
+- [X] Update: If the agent detects an Auto-TSG/TSG PostQA will suggest creating a pull request dynamically if AutoPR is enabled
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+New feature implementation for automated pull request creation via the bot framework.
+
+#### PR Summary
+This pull request introduces an AutoPR functionality that integrates Azure DevOps operations into the bot, enabling fast and automated pull request creation for Auto-TSGs based on user interactions. The changes include new backend classes for Azure DevOps interaction, a skill for extracting PR metadata from conversation history, and corresponding updates to configuration, UI, and documentation.
+
+- **`src/core/bot/Plugins/Control/AutoPR/`**: Added AutoPR plugin classes (handler, settings, card response, and data model) to process adaptive card responses and initiate pull requests.
+- **`src/core/bot/Helpers/AzureDevopsClient.cs`**: Introduced a client to interact with Azure DevOps, including branch creation and pull request submission.
+- **`src/core/copilot_v2/skills/control/auto_pr.py`**: Implemented a new skill to extract Auto-TSG code blocks from chat history and generate PR metadata.
+- **Configuration and Documentation**: Updated various config files, YAML agent definitions, and onboarding docs to integrate and enable the AutoPR agent.
+- **UI Enhancements**: Modified JavaScript and CSS for modal handling and code block editing to support the AutoPR workflow on the frontend.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#077982b</div>
+                                        <div class="message">Merged PR 1792842: [Bot] Proposal for Topic Auto-Selection
+
+## Content
+
+I got inspired, looking at the code. And I decided to take a stab at something that has been bothering us for a while: **that a user _always_ has to select a topic first.**
+
+With this PR, this is not the case anymore. This is a proposal that essentially works as follows:
+1. If the user asks a question without selecting a topic first, we do a fanout across all the topics.
+2. The prompt is enhanced to return empty results in case of ambiguity or lack of information.
+2. If we find a single matching bot, we auto-select it.
+3. If we find more than one, we let the user click on the right topic.
+4. If we find none, we ask for topic selection again.
+
+Of course, topic selection is based on RBAC.
+
+## Drawback
+This comes with a fanout cost to be swallowed, of course, as we run multiple models in parallel.
+
+However, there is hardly a workaround (beyond jamming everything up together into one index, which would remove precision). Typically, we would not know to what "topic" or "product" a question belongs without doing a search in the first place.
+
+## Example
+
+There are three examples below. Since this is using the emulator, intermediate steps are showing like normal messages, and the display is pretty slow.
+
+Global questions are:
+1. _What is GRG?_. This can be answered only in the context of Fabric DW, which is auto-selected.
+2. _What is DMS?_. This is ambiguous, as it means different thing based on the product. We thus let the user pick.
+3. _Per Event Grid, what is a typical deployment process?_ This forces an auto-select of Event Grid.
+
+![AutoSelection.gif](https://msdata.visualstudio.com/5603b9e3-ece0-4518-b9c8-1a36054d9970/_apis/git/repositories/7a11c04c-aa71-4764-a523-832d087cce37/pullRequests/1792842/attachments/AutoSelection.gif)
+
+## Open items
+
+- [ ] Document
+- [X] Check ICM Usage
+- [X] Do we want to automatically filter our secondary chat to reduce volume?
+- [X] ~~Or do we want to select from primary first, end there if we get some answers, _then_ try secondary? ~~ **TOO COSTLY**
+- [X] ~~Or do we want to explicit the flag everywhere?~~ **TOO MUCH BOILERPLATE ON EXISTING CHATS**
+- [X] Do we want a max concurrency control on the frontend, or do we bet on AML doing it's job?
+- [X] Decide what to include for Intelligence platform
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 25 commits in
+                                        <span class="repo">ShawnXxy/OrcasCopilot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2d08905</div>
+                                        <div class="message">Merged PR 1809126: [Infra] Bringing rel/latest up-to-date with main (20250919)
+
+## Content
+
+Mainly to fix some issues with Open AI ARM + AML ARM.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+Related work items: #3924697, #4440645, #4534587, #4534792, #4566042, #4566043, #4566044, #4639340, #4663150, #4692692, #4695075</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#177c53a</div>
+                                        <div class="message">Merged PR 1805209: [ARM] Testing, hotfixing various aspects [Part 1]
+
+## Content
+
+1. We did not have the right dependencies for models, as ARM does not work well with condition and dependencies.
+2. AML through ARM now does not create file shares. Ok - I do not think we need them.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+Saving temp
+
+----
+#### AI description  (iteration 2)
+#### PR Classification
+This PR implements hotfixes and testing improvements by updating configuration and deployment logic.
+
+#### PR Summary
+The pull request adds a new test configuration file, improves error handling in the deployment utility, and revises dependency references in the ARM template for OpenAI resource deployments.
+- **`src/deployment/config/test/config_mdemarne.py`**: Added a comprehensive configuration file for deployment settings including copilot, OpenAI, Azure ML, Cosmos DB, and bot parameters.
+- **`src/deployment/deployment_util.py`**: Enhanced the datastore update routine by wrapping it in a try/except block to gracefully skip missing or unsupported datastores.
+- **`EV2Files/Templates/AOAI.Template.json`**: Updated dependency assignments to correctly link various OpenAI model deployments (embedding, agent, reasoning, and indexing).
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7bef742</div>
+                                        <div class="message">Merged PR 1806597: separate MCP usage
+
+## Content
+
+separate MCP usage
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+seperate MCP introduction
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Documentation reorganization and enhancement.
+
+#### PR Summary
+This pull request reorganizes the MCP usage documentation by moving the MCP VSCode guide to a dedicated folder and introducing a new usage guide. It also updates internal links and navigation across multiple changelog and help files.
+- `wiki/Onboarding/Optional-Modules/MCP-VSCode.md` moved to `wiki/Onboarding/Optional-Modules/MCP/MCP-VSCode.md`
+- `wiki/Onboarding/Optional-Modules/MCP/MCP-VSCode-How-To-Use.md` added with usage instructions
+- Links in `wiki/Changelog` and `wiki/Internals/MCP-VSCode-IO.md` updated to reference the new MCP documentation path
+- Navigation updated in `wiki/Onboarding/Optional-Modules/toc.yml` to include the new MCP structure
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e597f6</div>
+                                        <div class="message">Merged PR 1806724: get_active_icms.py OwningTenantName kusto column name fix
+
+## Content
+
+&lt;TODO: describe your PR here&gt;
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+get_active_icms.py OwningTenantName kusto column name fix
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Bug fix addressing an incorrect column reference in the Kusto query.
+
+#### PR Summary
+This pull request corrects the use of the column name by replacing `TenantName` with `OwningTenantName` in the Kusto query and ticket mapping within the script.
+- `src/core/copilot_v2/skills/icm/get_active_icms.py`: Updated the query's summarize clause and the ticket dictionary assignment to consistently use `OwningTenantName` instead of `TenantName`.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd34bc9</div>
+                                        <div class="message">Merged PR 1769181: [Infra] Adding Restricted CRI Support - Part 1/2
+
+## Content
+
+This PR implements support for restricted CRI. This implements the first part only - the backend work to gather restricted data access form a specific ICM Tenant for restricted CRI and check user-based access per team ownership. There will be a second part that obfuscate DRI Copilot telemetry based on data accessed.
+
+This is building upon !1687843.
+
+## Implementation Details
+
+For Restricted CRI, we will get access to the redacted data using ICM OData API. The ICM OData API can give access to such data to certificates or MI that have been added to the appropriate role on an ICM-tenant level (it thus does not require the ICM team input, only ICM Tenant owners to whitelist access). At inference time, every ICM will go through a filter that checks if the current user has access to the restricted ICM. If so, the incident data will be able to flow through. If not, the ICM Data will be filtered out of the answer. If a restricted ICM is used to craft an answer, every conversation entry in that conversation will be redacted in telemetry to avoid exposing redacted data to other parties.
+
+There are two places where OData can be used: live incident summaries and offline indexing. Both can leverage it.
+
+To check if a user has access, since the ICM team has not provided any way to check ACL rules (i.e. access lists), but as every ICM Team member gets access to their incidents by default, we will leverage team ownership. Team ownership will be retrieved on-the-fly to ensure appropriate alignment. This means that we will enable access for a subset of the full ACL list (team members only) until an API or a telemetry sync point is available for ACL access - which remains to be seen.
+
+## Side Changes
+
+- This removes the dead code for live summary using the index. We solely rely on the live calls anyways.
+
+## Next Steps
+
+- [ ] Check incident type re-mapping logic with Kai
+- [ ] Implement telemetry obfuscation in the frontend
+- [ ] Add document to docfx.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+Related work items: #4534792, #4566042, #4566043, #4566044</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#15274e7</div>
+                                        <div class="message">Merged PR 1802008: [SECURITY] Bump axios from 1.9.0 to 1.12.0 in /src/core/copilot_v2/dev_scripts/dricopilot-mcp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef3ef7f</div>
+                                        <div class="message">Merged PR 1804723: Add PostgreSQL skills to Product-Specific Skill List
+
+## Content
+
+&lt;TODO: describe your PR here&gt;
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+add pg skills
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This pull request is a documentation update that adds new PostgreSQL skills to the Product-Specific Skill List.
+
+#### PR Summary
+The changes update the onboarding documentation by introducing a new PostgreSQL section with detailed skill descriptions:
+- `wiki/Onboarding/Plugins/ListV2.md`: Added three PostgreSQL skills – CPU anomaly detector, general anomaly detector, and query bank.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #4695075</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ddad9a4</div>
+                                        <div class="message">Merged PR 1804961: Rename Sql DB Perf Troubleshooting Agent(Preview)
+
+## Content
+
+&lt;TODO: describe your PR here&gt;
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+rename Sql DB Perf Troubleshooting Agent(Preview)
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This pull request implements a renaming update in the configuration to align the agent's display name with the new naming convention.
+
+#### PR Summary
+The PR updates the ChatName in the configuration file to reflect the new name.
+- `src/core/bot/Configs/appsettings.sql.json`: Changed the ChatName from "SQL DRI Copilot Perf Troubleshooting Agent(Preview)" to "Sql DB Perf Troubleshooting Agent(Preview)".
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #4692692</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b10bbb8</div>
+                                        <div class="message">Merged PR 1804993: [Hackathon] Edit config
+
+## Content
+
+&lt;TODO: describe your PR here&gt;
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This PR makes configuration updates to support the hackathon environment.
+
+#### PR Summary
+The PR updates configuration files to point to new service endpoints and credentials for hackathon testing, ensuring that resources and API endpoints align with the intended environment.
+- `src/common/config/test/config_hackathon25.json`: Modified keyvault URI, MSI settings, evaluation endpoint name, and AML configuration (subscription_id, resource_group, workspace_region, and workspace_name).
+- `src/core/copilot_v2/config/test/config_hackathon25.json`: Updated the agentic_copilot promptflow endpoint name to the hackathon-specific value.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2b29c8</div>
+                                        <div class="message">Merged PR 1790856: update forwarder replica
+
+## Content
+
+&lt;TODO: describe your PR here&gt;
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+update forwarder replica
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This PR introduces a new feature by adding support for the "forwarder" replica type in SQL performance troubleshooting.
+
+#### PR Summary
+The changes extend the SQL performance copilot functionality to handle "forwarder" replicas by adding new troubleshooting examples and updating parameter validation.
+- `src/core/copilot_v2/skills/services/sql/perf_copilot/perf_copilot.py`: Added multiple troubleshooting message templates for the "forwarder" replica, updated the input description to include "forwarder" as a valid option, and modified the base URL configuration.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #4663150</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4012425</div>
+                                        <div class="message">Merged PR 1801510: deployment scripts for hldritest
+
+## Content
+
+Create deployment for hldritest
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 13)
+#### PR Classification
+This pull request adds new deployment scripts and related configuration changes for the hldritest environment.
+
+#### PR Summary
+The PR sets up EV2-managed deployment for DRICopilot in the hldritest environment by introducing new configuration and pipeline files to support the rollout process.
+- **`EV2Files/Deployments/Test/hldritest/ScopeBindings.json` &amp; `ServiceModel.json`**: New files defining token replacements and service resource models.
+- **`/.pipelines/deployments/hldritest-copilot-release.yml`**: New pipeline YAML to manage the build and deployment process.
+- **`EV2Files/Deployments/Test/hldritest/RolloutSpec.json`**: Added rollout specification outlining deployment steps.
+- **`src/core/indexers/icms/config/test/config_hldritest.json` &amp; `src/core/indexers/tsgs/config/test/config_hldritest.json`**: Updated configuration references to use the correct file paths.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #4534587</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1011d3d</div>
+                                        <div class="message">Merged PR 1768886: TSS Sign DRi copilot integration | New PR
+
+## Content
+
+This PR is an attempt to integrate DRI Copilot for our sign team space.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This pull request delivers a new feature by adding integration support for TSS Sign into the DRICopilot platform.
+
+#### PR Summary
+The PR introduces a full suite of new configuration and deployment assets that enable TSS Sign DRICopilot integration, including runtime settings, deployment orchestration, and updated documentation.
+- New deployment configuration files (`ScopeBindings.json`, `ServiceModel.json`, `RolloutSpec.json`) have been added under `EV2Files/Deployments/Tsssign`.
+- A new release pipeline file (`.pipelines/deployments/tsssign-release.yml`) has been introduced to automate deployment.
+- New integration settings are provided in configuration files (`src/core/copilot_v2/config/config_tsssign.json` and `src/common/config/config_tsssign.json`) to support Azure OpenAI, AML, ACS, PromptFlow, and related services.
+- A documentation file (`src/common/descriptions/tsssigndescription.md`) outlines ESRP registration changes and onboarding details.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fcdbdc0</div>
+                                        <div class="message">Merged PR 1786338: adding dri copilot beginner tips and tricks video to the wiki.
+
+## Content
+
+adding a video to the wiki page describing beginner tips and tricks for DRI Copilot.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+adding dri copilot beginner tips and tricks video to the wiki.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This pull request is a documentation update that adds a new video feature to the wiki.
+
+#### PR Summary
+The changes enhance the wiki by embedding two videos—one for the DRI Copilot Highlight Reel and a new DRI Copilot Beginner Tips and Tricks video—thus aligning with the work item "Create 'Welcome to DRI Copilot' video".
+- `wiki/Index.md`: Added a flex container with headers for "DRI Copilot Highlight Reel" and "DRI Copilot Beginner Tips and Tricks".
+- `wiki/Index.md`: Replaced a single large video iframe with two side-by-side iframes to display both videos.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #4639340</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8247b75</div>
+                                        <div class="message">Merged PR 1801890: [Hackathon] Add config for hackathon
+
+## Content
+
+Adding configuration for Hackathon members.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+add config for hackathon
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This pull request introduces new configuration files for hackathon testing.
+
+#### PR Summary
+The changes add two new hackathon configuration files that define endpoints, agent settings, and service credentials required for testing.
+- `src/core/copilot_v2/config/test/config_hackathon25.json`: Adds detailed agentic copilot configuration with settings for promptflow, kusto authentication, agent definitions, and dynamic agent skill selection.
+- `src/common/config/test/config_hackathon25.json`: Introduces global hackathon settings for openai, AML, ACS, keyvault, MSI, and evaluation endpoints.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b91103</div>
+                                        <div class="message">Merged PR 1773211: Initial draft for preprocessing IcMs into taxonomies
+
+## Content
+
+Ongoing work to get our preprocessing of IcMs embedded into DRICopilot
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This pull request introduces a new feature that implements an initial draft for preprocessing Incident Communications (IcMs) into hierarchical taxonomies.
+
+#### PR Summary
+The changes add extensive functionality to extract, clean, visualize, and index taxonomies derived from IcMs, while integrating these modules into the existing indexing and configuration pipelines.
+- `src/core/common/utils/taxonomy_extractor_util.py`: New module implementing taxonomy extraction, cleaning routines, visualization, and alignment.
+- `src/core/indexers/acs/config/taxonomy_index_schema.json` and `src/core/indexers/acs/taxonomy_acs_index.py`: New ACS index schema and index manager for taxonomy data.
+- `src/core/common/config/types/indexers/taxonomy_types.py` and related V2 types: New configuration classes and data structures for taxonomy processing.
+- Additional new files and configuration updates (e.g., AML dispatcher, KQL templates, service config updates, and .env samples) to integrate the taxonomy preprocessing pipeline into the broader system.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+Related work items: #3924697</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fc4997b</div>
+                                        <div class="message">Merged PR 1801812: Improving test_app.py to provide a chat-bot-like UI experience
+
+## Content
+
+![new_test_app.gif](https://msdata.visualstudio.com/5603b9e3-ece0-4518-b9c8-1a36054d9970/_apis/git/repositories/7a11c04c-aa71-4764-a523-832d087cce37/pullRequests/1801812/attachments/new_test_app.gif)
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [x] You have deployed your latest code changes and validated that everything works fine.
+- [x] You have added appropriate documentation and headers to your files.
+- [x] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [x] The CI pipeline is passing.
+- [x] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [x] If needed, you have updated the `README.md` file(s) associated with your change.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#628659c</div>
+                                        <div class="message">Merged PR 1801277: [Intel. Plat.] Fixing References for Cosmos
+
+## Content
+
+Turns out, the Cosmos documentation is not one Engineering Hub site, but 4.
+
+This also makes dynamic skills the default for Intel. Plat. everywhere.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+Updated config_cosmos.json
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+This PR updates configuration references for Cosmos documentation to improve the categorization and accuracy of document sources.
+
+#### PR Summary
+The pull request revises the Cosmos configuration file to correct folder paths and enrich the documentation references across different Cosmos document types.
+- Modified `src/core/indexers/tsgs/config/intelligence_platform/config_cosmos.json` to change the onboarding guide folder from "Docfx" to "Docfx/onboard" and update its URL and description.
+- Added new entries in the same file for public documentation (`Docfx/PublicDocs`), internal team docs (`Docfx/teams`), and troubleshooting guides (`Docfx/TSG`) with appropriate descriptions and secret credentials.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;
+
+----
+#### AI description  (iteration 4)
+#### PR Classification
+This pull request is a configuration update that fixes and refines references for Cosmos.
+
+#### PR Summary
+The changes update Cosmos configuration settings to improve displayed names, descriptions, documentation links, and behavior, while also enabling dynamic agent skill selection in multiple copilot configuration files.
+- `src/core/bot/Configs/appsettings.IntelligencePlatform.json`: Revised the Cosmos chat block by updating display names, descriptions, and control suggestions, and removed an outdated configuration entry.
+- `src/core/indexers/tsgs/config/intelligence_platform/config_cosmos.json`: Modified folder paths and documentation links, and added separate entries for public docs, onboarding, team documentation, and troubleshooting guides.
+- `src/core/copilot_v2/config/intelligence_platform/`: Enabled dynamic agent skill selection consistently across various configuration files.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f43b1f</div>
+                                        <div class="message">Merged PR 1800183: [SuperDRI] Fix the flow to let kusto agent to jump out
+
+## Content
+
+Fix the flow to make sure it does not stuck with Kusto agent and execute it again and again.
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [X] You have added appropriate documentation and headers to your files.
+- [X] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [X] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [X] If needed, you have updated the `README.md` file(s) associated with your change.
+
+fix the flow to let kusto agent to jump out
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+Bug fix that corrects the agent flow logic for properly terminating the Kusto agent and handling transitions between agents.
+
+#### PR Summary
+This PR revises the termination and flow handling logic across multiple agents to ensure that once a Kusto query is executed, the proper transition occurs without additional unnecessary steps. The changes update prompt conditions and messaging for a more deterministic agent flow.
+
+- `src/core/copilot_v2/utils/manager_prompts.py`: Added conditions to return `terminate` when specific termination cues or iterative troubleshooting commands are detected.
+- `src/core/copilot_v2/agents/TSPlan.yaml`: Revised the directive to always follow an execution agent (e.g., Kusto Agent) with the TSPlan agent for planning subsequent steps.
+- `src/core/copilot_v2/skills/kql/general/executor.py`: Modified the non-streaming output message to notify that the Kusto agent will terminate after query execution.
+- `src/core/copilot_v2/skills/superdri/get_actions_raw.py`: Inserted an instruction to invoke the TSPlan agent immediately after a successful query step.
+- `src/core/copilot_v2/llm/sk/sk_prompt_stepwise_planner.py`: Introduced a termination condition when previous skill outputs suggest switching to a different agent workflow.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f90f057</div>
+                                        <div class="message">Merged PR 1792480: [v1.1] Fast Monitor
+
+## Content
+
+Adds support for creating TSGs
+- [X] Modifies the AutoPR BE skill to parse both TSGs and Auto-TSGs
+- [X] Adds `FileType` attribute to `auto_pr` skill output (used for differentiating Auto-TSGs (`yml`) and TSGs (`md`))
+- [X] Introduces a new framework for defining ADO repos via appsettings
+- [X] Update: If the agent detects an Auto-TSG/TSG PostQA will suggest creating a pull request dynamically if AutoPR is enabled
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.
+
+----
+#### AI description  (iteration 1)
+#### PR Classification
+New feature implementation for automated pull request creation via the bot framework.
+
+#### PR Summary
+This pull request introduces an AutoPR functionality that integrates Azure DevOps operations into the bot, enabling fast and automated pull request creation for Auto-TSGs based on user interactions. The changes include new backend classes for Azure DevOps interaction, a skill for extracting PR metadata from conversation history, and corresponding updates to configuration, UI, and documentation.
+
+- **`src/core/bot/Plugins/Control/AutoPR/`**: Added AutoPR plugin classes (handler, settings, card response, and data model) to process adaptive card responses and initiate pull requests.
+- **`src/core/bot/Helpers/AzureDevopsClient.cs`**: Introduced a client to interact with Azure DevOps, including branch creation and pull request submission.
+- **`src/core/copilot_v2/skills/control/auto_pr.py`**: Implemented a new skill to extract Auto-TSG code blocks from chat history and generate PR metadata.
+- **Configuration and Documentation**: Updated various config files, YAML agent definitions, and onboarding docs to integrate and enable the AutoPR agent.
+- **UI Enhancements**: Modified JavaScript and CSS for modal handling and code block editing to support the AutoPR workflow on the frontend.
+&lt;!-- GitOpsUserAgent=GitOps.Apps.Server.pullrequestcopilot --&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#077982b</div>
+                                        <div class="message">Merged PR 1792842: [Bot] Proposal for Topic Auto-Selection
+
+## Content
+
+I got inspired, looking at the code. And I decided to take a stab at something that has been bothering us for a while: **that a user _always_ has to select a topic first.**
+
+With this PR, this is not the case anymore. This is a proposal that essentially works as follows:
+1. If the user asks a question without selecting a topic first, we do a fanout across all the topics.
+2. The prompt is enhanced to return empty results in case of ambiguity or lack of information.
+2. If we find a single matching bot, we auto-select it.
+3. If we find more than one, we let the user click on the right topic.
+4. If we find none, we ask for topic selection again.
+
+Of course, topic selection is based on RBAC.
+
+## Drawback
+This comes with a fanout cost to be swallowed, of course, as we run multiple models in parallel.
+
+However, there is hardly a workaround (beyond jamming everything up together into one index, which would remove precision). Typically, we would not know to what "topic" or "product" a question belongs without doing a search in the first place.
+
+## Example
+
+There are three examples below. Since this is using the emulator, intermediate steps are showing like normal messages, and the display is pretty slow.
+
+Global questions are:
+1. _What is GRG?_. This can be answered only in the context of Fabric DW, which is auto-selected.
+2. _What is DMS?_. This is ambiguous, as it means different thing based on the product. We thus let the user pick.
+3. _Per Event Grid, what is a typical deployment process?_ This forces an auto-select of Event Grid.
+
+![AutoSelection.gif](https://msdata.visualstudio.com/5603b9e3-ece0-4518-b9c8-1a36054d9970/_apis/git/repositories/7a11c04c-aa71-4764-a523-832d087cce37/pullRequests/1792842/attachments/AutoSelection.gif)
+
+## Open items
+
+- [ ] Document
+- [X] Check ICM Usage
+- [X] Do we want to automatically filter our secondary chat to reduce volume?
+- [X] ~~Or do we want to select from primary first, end there if we get some answers, _then_ try secondary? ~~ **TOO COSTLY**
+- [X] ~~Or do we want to explicit the flag everywhere?~~ **TOO MUCH BOILERPLATE ON EXISTING CHATS**
+- [X] Do we want a max concurrency control on the frontend, or do we bet on AML doing it's job?
+- [X] Decide what to include for Intelligence platform
+
+## Checklist
+
+Thanks for contributing to the DRI Copilot. Before merging this PR, please make sure:
+
+- [ ] You have deployed your latest code changes and validated that everything works fine.
+- [ ] You have added appropriate documentation and headers to your files.
+- [ ] If introducing a breaking change between components, it has been discussed with the DRI Copilot Team.
+- [ ] The CI pipeline is passing.
+- [ ] If you are updating documentation (under `wiki`), consider running `DocFX` locally to validate.
+- [ ] If needed, you have updated the `README.md` file(s) associated with your change.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                         <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
@@ -2438,46 +3774,6 @@
                                 <div class="details">
                                     <div> in <span class="repo">aibox22/readmeX</span></div>
                                     <div>1 file changed <span class="code">++4 --0</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ShawnXxy/readmeX</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dd0a0f3</div>
-                                        <div class="message">feat: convert Windows backslashes to forward slashes for logo path compatibility</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">ShawnXxy/KBMiner</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0fe1fd2</div>
-                                        <div class="message">Merge branch 'main' of https://github.com/ShawnXxy/KBMiner</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2586,7 +3882,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Sept 2025, 21:29:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2025, 22:21:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
