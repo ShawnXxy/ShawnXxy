@@ -50,7 +50,7 @@ header and footer
   Trophy
     https://github.com/ryo-ma/github-profile-trophy
   -->
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ShawnXxy)](https://github.com/ShawnXxy/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.deno.dev/?username=ShawnXxy)](https://github.com/ShawnXxy/github-profile-trophy)
   
 </div>
 
