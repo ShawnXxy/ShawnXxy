@@ -19,7 +19,7 @@ header and footer
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+page!" alt="Typing SVG" /></a>
   
-  You are my ![Visitor Count](https://profile-counter.glitch.me/ShawnXxy/count.svg) visitor. Thank you!
+  You are my ![Visitor Count](https://komarev.com/ghpvc/?username=ShawnXxy&label=%20&color=blueviolet&style=flat) visitor. Thank you!
 
   <!-- References:
     https://github.com/anuraghazra/github-readme-stats
