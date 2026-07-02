@@ -43,7 +43,7 @@ header and footer
     [https://metrics.lecoq.io/embed?user=ShawnXxy](https://github.com/tandpfun/skill-icons)
   -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,azure,postgres,html,css,jquery,bootstrap,git,bash,pweroshell" />
+    <img src="https://skillicons.dev/icons?i=mysql,azure,postgres,html,css,jquery,bootstrap,git,bash,powershell" />
   </a>
 
   <!-- Reference:
