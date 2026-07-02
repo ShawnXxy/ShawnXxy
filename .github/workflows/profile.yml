@@ -14,18 +14,25 @@ jobs:
     permissions:
       contents: write
     steps:
+      # Mint a short-lived GitHub App installation token at runtime.
+      # This replaces the classic PAT, which the "Microsoft Open Source"
+      # enterprise now forbids (classic PATs living longer than 8 days).
+      # App tokens are auto-expiring (~1h), so they are always policy-compliant.
+      - name: Generate GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@v3
+        with:
+          app-id: ${{ secrets.METRICS_APP_ID }}
+          private-key: ${{ secrets.METRICS_APP_PRIVATE_KEY }}
+          owner: ${{ github.repository_owner }}
+
       - uses: ShawnXxy/metrics@deploy/latest-fixes
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          #  - repo
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
+          # GitHub App installation token minted above (policy-compliant,
+          # short-lived). Grant the App read access to: Metadata, Contents,
+          # Issues, Pull requests, Discussions, Administration (traffic),
+          # Projects (achievements), plus account Followers/Starring.
+          token: ${{ steps.app-token.outputs.token }}
 
           # Option
           user: ShawnXxy
