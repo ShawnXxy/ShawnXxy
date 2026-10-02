@@ -34,7 +34,13 @@ header and footer
   
 </div>
 
-<!-- Awaiting the first Markdown render; the existing SVG snapshot is retained below. -->
+**[📰 Recent activity](https://github.com/ShawnXxy)**
+* 🌟 Starred [Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy)
+* ⏺️ Created new branch xixia-microsoft-clickable-profile-links in [ShawnXxy/ShawnXxy](https://github.com/ShawnXxy/ShawnXxy)
+* 💬 Commented on [#4 feat: automate GitHub showcase content](https://github.com/ShawnXxy/shawnxxy.github.io/issues/4) from [ShawnXxy/shawnxxy.github.io](https://github.com/ShawnXxy/shawnxxy.github.io)
+* 🌟 Starred [ZJU-REAL/Easel](https://github.com/ZJU-REAL/Easel)
+* ⏺️ Created new branch shawnxxy-markdown-document-inventory in [ShawnXxy/shawnxxy.github.io](https://github.com/ShawnXxy/shawnxxy.github.io)
+
 
 <div align="center">
 
@@ -43,7 +49,10 @@ header and footer
     https://metrics.lecoq.io/embed
   -->
 
-![Metrics](github-metrics.svg)
+
+<!-- <img src="https://github.com/ShawnXxy/ShawnXxy/blob/main/.cache/github-metrics.svg"> -->
+
+![Metrics](.cache/github-metrics.svg)
 
   
 
