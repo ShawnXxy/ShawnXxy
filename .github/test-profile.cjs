@@ -1,4 +1,4 @@
-// Run: node .github\test-profile.cjs <metrics-checkout-with-dependencies>
+// Run: node .github/test-profile.cjs <metrics-checkout-with-dependencies>
 const assert = require("node:assert/strict");
 const {readFileSync} = require("node:fs");
 const {createRequire} = require("node:module");

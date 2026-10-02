@@ -19,7 +19,7 @@ header and footer
     [https://github.com/kyechan99/capsule-render?tab=readme-ov-file#soft](https://github.com/DenverCoder1/readme-typing-svg)
   -->
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+page!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile+page!" alt="Typing SVG" /></a>
   
   You are my ![Visitor Count](https://komarev.com/ghpvc/?username=ShawnXxy&label=%20&color=blueviolet&style=flat) visitor. Thank you!
 
