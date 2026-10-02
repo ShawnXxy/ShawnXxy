@@ -34,7 +34,7 @@ header and footer
   
 </div>
 
-<!-- Awaiting the first Markdown render; the existing SVG snapshot is retained below. -->
+<%- await include(`partials/activity.ejs`) %>
 
 <div align="center">
 
@@ -43,7 +43,13 @@ header and footer
     https://metrics.lecoq.io/embed
   -->
 
-![Metrics](github-metrics.svg)
+<%
+// Activity has already rendered; inherited activity options would add warnings to the SVG.
+for (const key of Object.keys(q))
+  if (key.startsWith("activity."))
+    delete q[key];
+%>
+<%- await embed("github-metrics", {...q, template: "classic", base: true, activity: false, config_output: "svg"}) %>
 
   
 
