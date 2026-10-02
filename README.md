@@ -35,11 +35,11 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
+* ⏺️ Created new branch shawnxxy-showcase-automation-options in [ShawnXxy/shawnxxy.github.io](https://github.com/ShawnXxy/shawnxxy.github.io)
+* ⏺️ Created new branch shawnxxy-education-section-name in [ShawnXxy/shawnxxy.github.io](https://github.com/ShawnXxy/shawnxxy.github.io)
 * 🌟 Starred [microsoft/flint-chart](https://github.com/microsoft/flint-chart)
 * 🌟 Starred [Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy)
 * ⏺️ Created new branch xixia-microsoft-clickable-profile-links in [ShawnXxy/ShawnXxy](https://github.com/ShawnXxy/ShawnXxy)
-* 💬 Commented on [#4 feat: automate GitHub showcase content](https://github.com/ShawnXxy/shawnxxy.github.io/issues/4) from [ShawnXxy/shawnxxy.github.io](https://github.com/ShawnXxy/shawnxxy.github.io)
-* 🌟 Starred [ZJU-REAL/Easel](https://github.com/ZJU-REAL/Easel)
 
 
 <div align="center">
