@@ -34,7 +34,23 @@ header and footer
   
 </div>
 
-<!-- Awaiting the first Markdown render; the existing SVG snapshot is retained below. -->
+<%
+const activity = plugins.activity;
+// The fork omits ref/delete; retain its renderer for every other event.
+if (!activity?.error && activity?.events?.some(event => event.type === "ref/delete")) {
+  for (const [index, event] of activity.events.entries()) {
+    const entry = await include("partials/activity.ejs", {plugins: {...plugins, activity: {...activity, events: [event]}}});
+    const headingEnd = entry.indexOf("\n") + 1;
+    if (index === 0) {
+%><%- entry.slice(0, headingEnd) %><%
+    }
+    if (event.type === "ref/delete") {
+%>* &#128686; Deleted <%= event.ref.type %> <code><%= event.ref.name %></code> from [<%= event.repo %>](https://github.com/<%= event.repo %>)
+<% if (activity.timestamps) { %>  * *On <%= f.date(event.timestamp, {time: true, date: true, timeZone: config.timezone?.name}) %>*
+<% } %>
+<% } else { %><%- entry.slice(headingEnd) %><% }
+  }
+} else { %><%- await include("partials/activity.ejs") %><% } %>
 
 <div align="center">
 
@@ -43,7 +59,16 @@ header and footer
     https://metrics.lecoq.io/embed
   -->
 
-![Metrics](github-metrics.svg)
+<%
+// Activity has already rendered; inherited activity options would add warnings to the SVG.
+for (const key of Object.keys(q))
+  if (key.startsWith("activity."))
+    delete q[key];
+// Cache processing replaces the whole img tag; label the visible image separately.
+%>
+<!-- <%- await embed("github-metrics", {...q, template: "classic", base: true, activity: false, config_output: "svg"}) %> -->
+
+![Metrics](.cache/github-metrics.svg)
 
   
 
