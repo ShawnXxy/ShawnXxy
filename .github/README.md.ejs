@@ -62,15 +62,20 @@ const numericEntries = values => Object.entries(values ?? {})
 const snippetText = patch => `${patch ?? ""}`
   .replace(/<br\s*\/?>/gi, "\n")
   .replace(/<\/?span\b[^>]*>/gi, "")
-  .replace(/&amp;/g, "&")
   .replace(/&lt;/g, "<")
   .replace(/&gt;/g, ">")
   .replace(/&quot;/g, '"')
   .replace(/&#(?:39|x27);/gi, "'")
+  .replace(/&amp;/g, "&")
   .replace(/\r\n?/g, "\n");
 const fenceFor = text => {
   const runs = `${text}`.match(/`+/g) ?? [];
   return "`".repeat(Math.max(3, ...runs.map(run => run.length + 1)));
+};
+const codeSpan = value => {
+  const text = plainText(value);
+  const delimiter = fenceFor(text);
+  return `${delimiter} ${text} ${delimiter}`;
 };
 const reactionIcons = {
   HEART: "❤️",
@@ -329,7 +334,7 @@ No achievements matched the configured threshold.
 <% } else if (plugins.code.snippet) { const snippet = plugins.code.snippet; const codeText = snippetText(snippet.patch); const codeFence = fenceFor(codeText); %>
 - Repository: [<%= snippet.repo %>](https://github.com/<%= snippet.repo %>)
 - Commit: [`<%= snippet.sha.substring(0, 8) %>`](https://github.com/<%= snippet.repo %>/commit/<%= snippet.sha %>)
-- File: [`<%= plainText(snippet.filename) %>`](https://github.com/<%= snippet.repo %>/blob/<%= snippet.sha %>/<%= snippet.filename.split("/").map(encodeURIComponent).join("/") %>)
+- File: [<%- codeSpan(snippet.filename) %>](https://github.com/<%= snippet.repo %>/blob/<%= snippet.sha %>/<%= snippet.filename.split("/").map(encodeURIComponent).join("/") %>)
 - Message: <%= plainText(snippet.message) %>
 - Updated: <%= f.date(snippet.created, {time: true, date: true, timeZone: config.timezone?.name}) %>
 

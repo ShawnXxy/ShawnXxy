@@ -101,10 +101,10 @@ const basePlugins = {
     snippet: {
       repo: "ShawnXxy/example",
       sha: "0123456789abcdef",
-      filename: "src/example.js",
+      filename: "src/`file`.js",
       message: "Handle | Markdown safely",
       created: new Date("2026-01-01T00:00:00Z"),
-      patch: '<span class="token prefix inserted">+</span>const fence = "```";<br/><span class="token prefix deleted">-</span>old();',
+      patch: '<span class="token prefix inserted">+</span>const fence = "```";<br/><span class="token prefix inserted">+</span>const literal = "&amp;lt;div&amp;gt;";<br/><span class="token prefix inserted">+</span>const actual = &lt;div&gt;;<br/><span class="token prefix deleted">-</span>old();',
     },
   },
 };
@@ -196,8 +196,12 @@ const render = (activity, pluginOverrides = {}) => ejs.render(template, {
     assert.equal((html.match(/<table>/g) || []).length, 12, "Render Metrics data as native Markdown tables.");
     assert.equal((html.match(/<details>/g) || []).length, 2, "Keep detailed text sections collapsible.");
     assert(html.includes('<code class="language-diff">'), "Render the code snippet as a fenced diff.");
+    assert(rendered.includes('const literal = "&lt;div&gt;";'), "Preserve literal source entities.");
+    assert(!rendered.includes('const literal = "<div>";'), "Do not decode source entities twice.");
+    assert(rendered.includes("const actual = <div>;"), "Decode highlighted angle brackets once.");
     assert(html.includes("https://github.com/ShawnXxy/example/commit/0123456789abcdef"));
-    assert(html.includes("https://github.com/ShawnXxy/example/blob/0123456789abcdef/src/example.js"));
+    assert(html.includes('<a href="https://github.com/ShawnXxy/example/blob/0123456789abcdef/src/%60file%60.js"><code>src/`file`.js</code></a>'),
+      "Keep backtick filenames inside a linked code span.");
 
     for (const label of ["Visitor Count", "trophy"])
       assert(html.includes(`alt="${label}"`), `${label} must remain an image.`);
