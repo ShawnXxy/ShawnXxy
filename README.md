@@ -35,11 +35,11 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
-* ⏺️ Created new branch xixia-microsoft-workbench-documentation in [ShawnXxy/orcasql-workbench-site](https://github.com/ShawnXxy/orcasql-workbench-site)
+* ⏺️ Created new branch shawnxxy-github-pages in [OrcaSQL-Workbench/orcasql-workbench.github.io](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io)
+* ⏺️ Created new branch xixia-microsoft-workbench-documentation in [OrcaSQL-Workbench/orcasql-workbench.github.io](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io)
 * 🌟 Starred [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
 * 🌟 Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)
 * 🌟 Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
-* ⏺️ Created new branch shawnxxy-showcase-automation-options in [ShawnXxy/shawnxxy.github.io](https://github.com/ShawnXxy/shawnxxy.github.io)
 
 
 <div align="center">
