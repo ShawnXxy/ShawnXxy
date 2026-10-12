@@ -1,5 +1,5 @@
 
-<!-- Profile source: .github/README.md.ejs. The Metrics workflow regenerates README.md and .cache/github-metrics.svg. -->
+<!-- Profile source: .github/README.md.ejs. The Metrics workflow regenerates README.md. -->
 
 <!-- Reference:
 header and footer
@@ -52,25 +52,303 @@ if (!activity?.error && activity?.events?.some(event => event.type === "ref/dele
   }
 } else { %><%- await include("partials/activity.ejs") %><% } %>
 
-<div align="center">
-
-  <!-- Reference:
-  Metrics
-    https://metrics.lecoq.io/embed
-  -->
-
 <%
-// Activity has already rendered; inherited activity options would add warnings to the SVG.
-for (const key of Object.keys(q))
-  if (key.startsWith("activity."))
-    delete q[key];
-// Cache processing replaces the whole img tag; label the visible image separately.
+const plainText = value => `${value ?? ""}`.replace(/\r?\n/g, " ");
+const mdCell = value => plainText(value).replace(/\|/g, "\\|");
+const pluginError = plugin => plugin?.error?.message ? plainText(plugin.error.message) : null;
+const numericEntries = values => Object.entries(values ?? {})
+  .filter(([key]) => /^\d+$/.test(key))
+  .sort(([a], [b]) => Number(a) - Number(b));
+const snippetText = patch => `${patch ?? ""}`
+  .replace(/<br\s*\/?>/gi, "\n")
+  .replace(/<\/?span\b[^>]*>/gi, "")
+  .replace(/&lt;/g, "<")
+  .replace(/&gt;/g, ">")
+  .replace(/&quot;/g, '"')
+  .replace(/&#(?:39|x27);/gi, "'")
+  .replace(/&amp;/g, "&")
+  .replace(/\r\n?/g, "\n");
+const fenceFor = text => {
+  const runs = `${text}`.match(/`+/g) ?? [];
+  return "`".repeat(Math.max(3, ...runs.map(run => run.length + 1)));
+};
+const codeSpan = value => {
+  const text = plainText(value);
+  const delimiter = fenceFor(text);
+  return `${delimiter} ${text} ${delimiter}`;
+};
+const reactionIcons = {
+  HEART: "❤️",
+  THUMBS_UP: "👍",
+  THUMBS_DOWN: "👎",
+  LAUGH: "😄",
+  CONFUSED: "😕",
+  EYES: "👀",
+  ROCKET: "🚀",
+  HOORAY: "🎉",
+};
+const dayNames = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+const licensePreference = computed.licenses?.favorite?.length
+  ? f.license(computed.licenses.about[computed.licenses.favorite])
+  : "No preference";
+const repositorySummary = computed.repositories?.forked
+  ? `${f(REPOSITORIES)} (${f(computed.repositories.forked)} forks)`
+  : f(REPOSITORIES);
+const linesSummary = plugins.lines
+  ? pluginError(plugins.lines) ?? `${f(plugins.lines.added + plugins.lines.changed)} added / ${f(plugins.lines.deleted + plugins.lines.changed)} removed`
+  : "Not enabled";
+const trafficSummary = plugins.traffic
+  ? pluginError(plugins.traffic) ?? `${f(plugins.traffic.views.count)} views / ${f(plugins.traffic.views.uniques)} unique visitors in the last two weeks`
+  : "Not enabled";
 %>
-<!-- <%- await embed("github-metrics", {...q, template: "classic", base: true, activity: false, config_output: "svg"}) %> -->
 
-![Metrics](.cache/github-metrics.svg)
+## GitHub overview
 
-  
+<% if (plugins.introduction) { %>
+### About me
+
+<% if (pluginError(plugins.introduction)) { %>
+> **Introduction data unavailable:** <%= pluginError(plugins.introduction) %>
+<% } else if (plugins.introduction.text) { %>
+<%= plugins.introduction.text %>
+<% } else { %>
+No profile introduction is configured.
+<% } %>
+<% } %>
+
+| Account | Value |
+| :-- | --: |
+| Profile | [@<%= LOGIN %>](https://github.com/<%= LOGIN %>) |
+| Joined GitHub | <%= f.date(REGISTRATION_DATE, {date: true, timeZone: config.timezone?.name}) %> (<%= computed.registration %>) |
+| Followers | <%= f(FOLLOWERS) %> |
+| Following | <%= f(FOLLOWING) %> |
+| Organizations | <%= f(ORGANIZATIONS) %> |
+| Repositories contributed to | <%= f(REPOSITORIES_CONTRIBUTED_TO) %> |
+| Repositories starred | <%= f(STARRED) %> |
+| Repositories watched | <%= f(WATCHING) %> |
+| Repositories sponsored | <%= f(SPONSORING) %> |
+
+### Development activity
+
+| Activity | Count |
+| :-- | --: |
+| Commits | <%= f(COMMITS) %> |
+| Pull requests opened | <%= f(PULL_REQUESTS) %> |
+| Pull requests reviewed | <%= f(PULL_REQUESTS_REVIEWS) %> |
+| Issues opened | <%= f(ISSUES) %> |
+| Issue comments | <%= f(ISSUE_COMMENTS) %> |
+
+### Repository statistics
+
+| Repository metric | Value |
+| :-- | --: |
+| [Repositories](https://github.com/<%= LOGIN %>?tab=repositories) | <%= repositorySummary %> |
+| License preference | <%= mdCell(licensePreference) %> |
+| Releases | <%= f(RELEASES) %> |
+| Packages | <%= f(PACKAGES) %> |
+| Repository storage | <%= computed.diskUsage %> |
+| Lines changed | <%= mdCell(linesSummary) %> |
+| Sponsors | <%= f(SPONSORS) %> |
+| Stargazers | <%= f(STARGAZERS) %> |
+| Forkers | <%= f(FORKS) %> |
+| Watchers | <%= f(WATCHERS) %> |
+| Repository traffic | <%= mdCell(trafficSummary) %> |
+
+<% if (plugins.languages) { %>
+## Languages
+
+<% if (pluginError(plugins.languages)) { %>
+> **Language data unavailable:** <%= pluginError(plugins.languages) %>
+<% } else if (LANGUAGES.length) { %>
+<%= f(plugins.languages.unique) %> languages detected across analyzed repositories.
+
+| Language | Share | Size |
+| :-- | --: | --: |
+<% for (const {name, value, size} of LANGUAGES) { -%>
+| <%= mdCell(name) %> | <%= f.percentage(value) %> | <%= f.bytes(size) %> |
+<% } -%>
+<% if (plugins.languages.partial?.global || plugins.languages.partial?.repositories) { %>
+> **Partial results:** language analysis reached its execution limit.
+<% } %>
+<% } else { %>
+No language data was returned.
+<% } %>
+<% } %>
+
+<% if (plugins.habits) { %>
+## Recent coding habits
+
+<% if (pluginError(plugins.habits)) { %>
+> **Coding habit data unavailable:** <%= pluginError(plugins.habits) %>
+<% } else if (plugins.habits.commits?.fetched) { %>
+Computed from the last <%= f(plugins.habits.commits.fetched) %> recent push events.
+
+<% if (plugins.habits.indents.style) { %>
+- Uses **<%= plugins.habits.indents.style %>** for indentation.
+<% } %>
+<% if (plugins.habits.lines.average.chars) { %>
+- Writes approximately **<%= f(plugins.habits.lines.average.chars, {fixed: 1}) %> characters** per line.
+<% } %>
+<% if (!Number.isNaN(plugins.habits.commits.hour)) { %>
+- Most often pushes code around **<%= plugins.habits.commits.hour %>:00**.
+<% } %>
+<% if (plugins.habits.commits.day) { %>
+- Is most active on **<%= plugins.habits.commits.day %>**.
+<% } %>
+
+<details>
+<summary>Activity breakdown</summary>
+
+### Push events by weekday
+
+| Day | Push events |
+| :-- | --: |
+<% for (let day = 0; day < dayNames.length; day++) { -%>
+| <%= dayNames[day] %> | <%= f(plugins.habits.commits.days[day] ?? 0) %> |
+<% } -%>
+
+<% if (numericEntries(plugins.habits.commits.hours).length) { %>
+### Active hours
+
+| Hour | Push events |
+| :-- | --: |
+<% for (const [hour, count] of numericEntries(plugins.habits.commits.hours).filter(([, count]) => count)) { -%>
+| <%= `${hour}`.padStart(2, "0") %>:00 | <%= f(count) %> |
+<% } -%>
+<% } %>
+
+<% if (plugins.habits.linguist?.available && plugins.habits.linguist.ordered?.length) { %>
+### Recently used languages
+
+| Language | Share |
+| :-- | --: |
+<% for (const [language, share] of plugins.habits.linguist.ordered) { -%>
+| <%= mdCell(language) %> | <%= f.percentage(share) %> |
+<% } -%>
+<% } %>
+
+</details>
+<% } else { %>
+No recent push activity was found.
+<% } %>
+<% } %>
+
+<% if (plugins.isocalendar) { %>
+## Contribution summary
+
+<% if (pluginError(plugins.isocalendar)) { %>
+> **Contribution data unavailable:** <%= pluginError(plugins.isocalendar) %>
+<% } else { %>
+| Contribution metric | Value |
+| :-- | --: |
+| Current streak | <%= f(plugins.isocalendar.streak.current) %> days |
+| Best streak | <%= f(plugins.isocalendar.streak.max) %> days |
+| Highest contributions in one day | <%= f(plugins.isocalendar.max) %> |
+| Average contributions per day | <%= plugins.isocalendar.average %> |
+<% } %>
+<% } %>
+
+<% if (plugins.discussions || plugins.reactions) { %>
+## Discussions and reactions
+
+<% if (plugins.discussions) { %>
+### Discussions
+
+<% if (pluginError(plugins.discussions)) { %>
+> **Discussion data unavailable:** <%= pluginError(plugins.discussions) %>
+<% } else { %>
+| Discussion metric | Count |
+| :-- | --: |
+| Discussions started | <%= f(plugins.discussions.started) %> |
+| Comments | <%= f(plugins.discussions.comments) %> |
+| Answers | <%= f(plugins.discussions.answers) %> |
+| Discussion upvotes | <%= f(plugins.discussions.upvotes.discussions) %> |
+| Comment upvotes | <%= f(plugins.discussions.upvotes.comments) %> |
+
+<% if (Object.keys(plugins.discussions.categories?.stats ?? {}).length) { %>
+<details>
+<summary>Discussion categories</summary>
+
+| Category | Discussions |
+| :-- | --: |
+<% for (const [category, count] of Object.entries(plugins.discussions.categories.stats).slice(0, plugins.discussions.display.categories?.limit ?? Infinity)) { -%>
+| <%= mdCell(category) %> | <%= f(count) %> |
+<% } -%>
+
+</details>
+<% } %>
+<% } %>
+<% } %>
+
+<% if (plugins.reactions) { %>
+### Reactions
+
+<% if (pluginError(plugins.reactions)) { %>
+> **Reaction data unavailable:** <%= pluginError(plugins.reactions) %>
+<% } else { %>
+Based on <%= f(plugins.reactions.comments) %> comments with <%= f(plugins.reactions.total) %> reactions.
+
+| Reaction | Count | Share |
+| :--: | --: | --: |
+<% for (const [reaction, icon] of Object.entries(reactionIcons)) { const data = plugins.reactions.list[reaction] ?? {}; -%>
+| <%= icon %> | <%= f(data.value ?? 0) %> | <%= f.percentage(data.percentage ?? 0) %> |
+<% } -%>
+<% } %>
+<% } %>
+<% } %>
+
+<% if (plugins.achievements) { %>
+## Achievements
+
+<% if (pluginError(plugins.achievements)) { %>
+> **Achievement data unavailable:** <%= pluginError(plugins.achievements) %>
+<% } else if (plugins.achievements.list?.length) { %>
+| Achievement | Rank | Description | Details |
+| :-- | :--: | :-- | :-- |
+<% for (const achievement of plugins.achievements.list) {
+  const details = [];
+  if (typeof achievement.value === "number")
+    details.push(`Value: ${f(Math.floor(achievement.value))}`);
+  else if (achievement.value)
+    details.push(`Value: ${achievement.value}`);
+  if (achievement.leaderboard)
+    details.push(`Ranked ${f(achievement.leaderboard.user)} of ${f(achievement.leaderboard.total)} ${achievement.leaderboard.type}`);
+  if (achievement.unlock)
+    details.push(`Unlocked ${achievement.unlock}`);
+  if (achievement.progress)
+    details.push(`Progress: ${f.percentage(achievement.progress)}`);
+  const achievementName = achievement.prefix ? `${achievement.prefix} ${achievement.title}` : achievement.title;
+-%>
+| **<%= mdCell(achievementName) %>** | <%= achievement.rank === "$" ? "Secret" : achievement.rank %> | <%= mdCell(achievement.text) %> | <%= mdCell(details.join("; ") || "—") %> |
+<% } -%>
+<% } else { %>
+No achievements matched the configured threshold.
+<% } %>
+<% } %>
+
+<% if (plugins.code) { %>
+## Code snippet of the day
+
+<% if (pluginError(plugins.code)) { %>
+> **Code snippet unavailable:** <%= pluginError(plugins.code) %>
+<% } else if (plugins.code.snippet) { const snippet = plugins.code.snippet; const codeText = snippetText(snippet.patch); const codeFence = fenceFor(codeText); %>
+- Repository: [<%= snippet.repo %>](https://github.com/<%= snippet.repo %>)
+- Commit: [`<%= snippet.sha.substring(0, 8) %>`](https://github.com/<%= snippet.repo %>/commit/<%= snippet.sha %>)
+- File: [<%- codeSpan(snippet.filename) %>](https://github.com/<%= snippet.repo %>/blob/<%= snippet.sha %>/<%= snippet.filename.split("/").map(encodeURIComponent).join("/") %>)
+- Message: <%= plainText(snippet.message) %>
+- Updated: <%= f.date(snippet.created, {time: true, date: true, timeZone: config.timezone?.name}) %>
+
+<%= codeFence %>diff
+<%- codeText %>
+<%= codeFence %>
+<% } else { %>
+No recent code snippet was found.
+<% } %>
+<% } %>
+
+*These metrics do not include all private contributions. Last updated <%= f.date(new Date(), {time: true, date: true, timeZone: config.timezone?.name}) %> with lowlighter/metrics@<%= VERSION %>.*
+
+<div align="center">
 
   <!-- Reference:
   Badge
