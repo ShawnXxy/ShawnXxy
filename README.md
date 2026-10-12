@@ -1,5 +1,5 @@
 
-<!-- Profile source: .github/README.md.ejs. The Metrics workflow regenerates README.md. -->
+<!-- Profile source: .github/README.md.ejs. The Metrics workflow regenerates README.md and .cache/github-metrics.svg. -->
 
 <!-- Reference:
 header and footer
@@ -35,196 +35,26 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
-* ⏺️ Created new branch xixia-microsoft-workbench-documentation in [ShawnXxy/orcasql-workbench-site](https://github.com/ShawnXxy/orcasql-workbench-site)
 * 🌟 Starred [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
 * 🌟 Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)
 * 🌟 Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
 * ⏺️ Created new branch shawnxxy-showcase-automation-options in [ShawnXxy/shawnxxy.github.io](https://github.com/ShawnXxy/shawnxxy.github.io)
+* ⏺️ Created new branch shawnxxy-education-section-name in [ShawnXxy/shawnxxy.github.io](https://github.com/ShawnXxy/shawnxxy.github.io)
 
-
-
-
-## GitHub overview
-
-
-### About me
-
-
-巨硬螺丝钉
-
-
-
-| Account | Value |
-| :-- | --: |
-| Profile | [@ShawnXxy](https://github.com/ShawnXxy) |
-| Joined GitHub | 10 Feb 2016 (10 years ago) |
-| Followers | 22 |
-| Following | 58 |
-| Organizations | 0 |
-| Repositories contributed to | 26 |
-| Repositories starred | 183 |
-| Repositories watched | 21 |
-| Repositories sponsored | 0 |
-
-### Development activity
-
-| Activity | Count |
-| :-- | --: |
-| Commits | 1.71k |
-| Pull requests opened | 96 |
-| Pull requests reviewed | 1 |
-| Issues opened | 2 |
-| Issue comments | 84 |
-
-### Repository statistics
-
-| Repository metric | Value |
-| :-- | --: |
-| [Repositories](https://github.com/ShawnXxy?tab=repositories) | 39 |
-| License preference | No preference |
-| Releases | 0 |
-| Packages | 0 |
-| Repository storage | 9.81 GB |
-| Lines changed | 0 added / 0 removed |
-| Sponsors | 0 |
-| Stargazers | 0 |
-| Forkers | 0 |
-| Watchers | 0 |
-| Repository traffic | Insufficient token scopes |
-
-
-## Languages
-
-
-No language data was returned.
-
-
-
-
-## Recent coding habits
-
-
-Computed from the last 26 recent push events.
-
-
-
-
-- Most often pushes code around **09:00**.
-
-
-- Is most active on **Thursday**.
-
-
-<details>
-<summary>Activity breakdown</summary>
-
-### Push events by weekday
-
-| Day | Push events |
-| :-- | --: |
-| Sunday | 0 |
-| Monday | 5 |
-| Tuesday | 0 |
-| Wednesday | 0 |
-| Thursday | 17 |
-| Friday | 4 |
-| Saturday | 0 |
-
-
-### Active hours
-
-| Hour | Push events |
-| :-- | --: |
-| 00:00 | 1 |
-| 09:00 | 7 |
-| 10:00 | 1 |
-| 13:00 | 4 |
-| 14:00 | 2 |
-| 17:00 | 1 |
-| 18:00 | 2 |
-| 20:00 | 1 |
-| 21:00 | 1 |
-| 22:00 | 1 |
-| 23:00 | 5 |
-
-
-
-
-</details>
-
-
-
-
-## Contribution summary
-
-
-| Contribution metric | Value |
-| :-- | --: |
-| Current streak | 2 days |
-| Best streak | 8 days |
-| Highest contributions in one day | 86 |
-| Average contributions per day | 2.15 |
-
-
-
-
-## Discussions and reactions
-
-
-### Discussions
-
-
-| Discussion metric | Count |
-| :-- | --: |
-| Discussions started | 0 |
-| Comments | 0 |
-| Answers | 0 |
-| Discussion upvotes | 0 |
-| Comment upvotes | 0 |
-
-
-
-
-
-
-### Reactions
-
-
-Based on 95 comments with 3 reactions.
-
-| Reaction | Count | Share |
-| :--: | --: | --: |
-| ❤️ | 0 | 0% |
-| 👍 | 2 | 66.67% |
-| 👎 | 0 | 0% |
-| 😄 | 1 | 33.33% |
-| 😕 | 0 | 0% |
-| 👀 | 0 | 0% |
-| 🚀 | 0 | 0% |
-| 🎉 | 0 | 0% |
-
-
-
-
-
-## Achievements
-
-
-> **Achievement data unavailable:** Unexpected error
-
-
-
-
-## Code snippet of the day
-
-
-No recent code snippet was found.
-
-
-
-*These metrics do not include all private contributions. Last updated 12 Oct 2026, 10:15:04 with lowlighter/metrics@3.34.0.*
 
 <div align="center">
+
+  <!-- Reference:
+  Metrics
+    https://metrics.lecoq.io/embed
+  -->
+
+
+<!-- <img src="https://github.com/ShawnXxy/ShawnXxy/blob/main/.cache/github-metrics.svg"> -->
+
+![Metrics](.cache/github-metrics.svg)
+
+  
 
   <!-- Reference:
   Badge

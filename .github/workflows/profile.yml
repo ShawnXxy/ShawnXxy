@@ -41,6 +41,7 @@ jobs:
           filename: README.md
           # Templates are fetched over HTTPS, not from the runner's checkout.
           markdown: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.sha }}/.github/README.md.ejs
+          markdown_cache: .cache
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           
