@@ -35,11 +35,11 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
+* 🌟 Starred [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck)
 * 🌟 Starred [EnterpriseDB/mysql_fdw](https://github.com/EnterpriseDB/mysql_fdw)
 * ⏺️ Created new branch feature/azure-mysql-skill in [ShawnXxy/azure-skills](https://github.com/ShawnXxy/azure-skills)
 * 🌟 Starred [philshiu/Drosophila_brain_model](https://github.com/philshiu/Drosophila_brain_model)
 * 🌟 Starred [morluto/rea](https://github.com/morluto/rea)
-* ⏺️ Created new branch main in [OrcaSQL-Workbench/orcasql-workbench.github.io](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io)
 
 
 <div align="center">
