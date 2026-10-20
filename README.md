@@ -35,11 +35,11 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
+* #️⃣ Opened [#3418 [New Skill]: azure-mysql](https://github.com/microsoft/GitHub-Copilot-for-Azure/issues/3418) in [microsoft/GitHub-Copilot-for-Azure](https://github.com/microsoft/GitHub-Copilot-for-Azure)
+* 🍽️ Forked [microsoft/GitHub-Copilot-for-Azure](https://github.com/microsoft/GitHub-Copilot-for-Azure) to [ShawnXxy/GitHub-Copilot-for-Azure](https://github.com/ShawnXxy/GitHub-Copilot-for-Azure)
 * ⏺️ Created new branch automate-privacy-policy-exports in [OrcaSQL-Workbench/orcasql-workbench.github.io](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io)
 * 🌟 Starred [google-research/harness2](https://github.com/google-research/harness2)
 * ⏺️ Created new branch feat/azure-mysql-skill in [ShawnXxy/azure-skills](https://github.com/ShawnXxy/azure-skills)
-* ⏺️ Created new branch shawnxxy-privacy-notice-scope in [OrcaSQL-Workbench/orcasql-workbench.github.io](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io)
-* ⏺️ Created new branch shawnxxy-documentation-manuals in [OrcaSQL-Workbench/orcasql-workbench.github.io](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io)
 
 
 <div align="center">
