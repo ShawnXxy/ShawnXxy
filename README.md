@@ -35,11 +35,11 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
+* ⏺️ Created new branch main in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * 🌟 Starred [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
 * 🌟 Starred [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
 * 🌟 Starred [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
 * #️⃣ Opened [#3418 [New Skill]: azure-mysql](https://github.com/microsoft/GitHub-Copilot-for-Azure/issues/3418) in [microsoft/GitHub-Copilot-for-Azure](https://github.com/microsoft/GitHub-Copilot-for-Azure)
-* 🍽️ Forked [microsoft/GitHub-Copilot-for-Azure](https://github.com/microsoft/GitHub-Copilot-for-Azure) to [ShawnXxy/GitHub-Copilot-for-Azure](https://github.com/ShawnXxy/GitHub-Copilot-for-Azure)
 
 
 <div align="center">
