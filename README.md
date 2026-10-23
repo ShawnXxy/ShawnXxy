@@ -35,12 +35,12 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
+* 🌟 Starred [AgnesAI-Labs/agnes-harness](https://github.com/AgnesAI-Labs/agnes-harness)
 * ⏺️ Created new branch shawnxxy-automation-workflows in [OrcaSQL-Workbench/orcasql-workbench.github.io](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io)
 * 📝 Updated 1 wiki page in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB/wiki)
   * Home
 * 📦 Pre-released **@arkdb/mysql@1.0.1 (engineering preview)** of [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * ⏺️ Created new branch main in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* 🌟 Starred [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
 
 
 <div align="center">
