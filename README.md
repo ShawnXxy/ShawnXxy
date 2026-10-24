@@ -35,11 +35,11 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
+* ⏺️ Created new branch shawnxxy-arkdb-manual-layout in [OrcaSQL-Workbench/orcasql-workbench.github.io](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io)
+* ⏺️ Created new branch shawnxxy-mysql-sql-helpers in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * ⏺️ Created new branch shawnxxy-mysql-operation-gate-t01 in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * ⏺️ Created new branch shawnxxy-arkdb-documentation-cleanup in [OrcaSQL-Workbench/orcasql-workbench.github.io](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io)
 * ⏺️ Created new branch shawnxxy-arkdb-developer-manual-4cf in [OrcaSQL-Workbench/orcasql-workbench.github.io](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io)
-* 📦 Pre-released **@arkdb/mysql@1.0.2 (engineering preview)** of [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* ⏺️ Created new branch shawnxxy-arkdb-developer-manual in [OrcaSQL-Workbench/orcasql-workbench.github.io](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io)
 
 
 <div align="center">
