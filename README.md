@@ -35,11 +35,11 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
+* 💬 Commented on [#20 Add ArkDB architecture overview and source guide](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io/issues/20) from [OrcaSQL-Workbench/orcasql-workbench.github.io](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io)
+* ⏺️ Created new branch shawnxxy-arkdb-architecture in [OrcaSQL-Workbench/orcasql-workbench.github.io](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io)
+* ⏺️ Created new branch shawnxxy-automation-naming-rules in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* ⏺️ Created new branch shawnxxy-navigation-hierarchy in [OrcaSQL-Workbench/orcasql-workbench.github.io](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io)
 * ⏺️ Created new branch arkdb-manual-update-ac38ef70 in [OrcaSQL-Workbench/orcasql-workbench.github.io](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io)
-* ⏺️ Created new branch shawnxxy-05-t04-prepare-close-lifecycle in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* ⏺️ Created new branch refactor/shared-driver-contracts in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* ⏺️ Created new branch shawnxxy-theme-icon-toggle in [OrcaSQL-Workbench/orcasql-workbench.github.io](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io)
-* ⏺️ Created new branch shawnxxy-code-highlighting-feasibility in [OrcaSQL-Workbench/orcasql-workbench.github.io](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io)
 
 
 <div align="center">
