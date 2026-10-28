@@ -35,11 +35,11 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
+* ⏺️ Created new branch shawnxxy-08-t14-session-initialization in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * 🌟 Starred [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
 * ⏺️ Created new branch shawnxxy-07-t06-prepared-public-features in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * 💬 Commented on [#21 Add interactive ArkDB architecture viewer](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io/issues/21) from [OrcaSQL-Workbench/orcasql-workbench.github.io](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io)
 * ⏺️ Created new branch shawnxxy-page-dark-mode in [OrcaSQL-Workbench/orcasql-workbench.github.io](https://github.com/OrcaSQL-Workbench/orcasql-workbench.github.io)
-* ⏺️ Created new branch shawnxxy-mysql-binary-parameters-t02 in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 
 
 <div align="center">
