@@ -35,11 +35,11 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
+* 💬 Commented on [#15 [12][T11] Add convergent operation deadlines](https://github.com/OrcaSQL-Workbench/ArkDB/issues/15) from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* 💬 Commented on [#15 [12][T11] Add convergent operation deadlines](https://github.com/OrcaSQL-Workbench/ArkDB/issues/15) from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * 💬 Commented on [#13 [11][T10] Add transaction callback runner and savepoints](https://github.com/OrcaSQL-Workbench/ArkDB/issues/13) from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * ⏺️ Created new branch shawnxxy-09-t08-prepared-statement-cache in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * ⏺️ Created new branch shawnxxy-08-t14-session-initialization in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* 🌟 Starred [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
-* ⏺️ Created new branch shawnxxy-07-t06-prepared-public-features in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 
 
 <div align="center">
