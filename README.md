@@ -35,11 +35,11 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
+* ⏺️ Created new branch shawnxxy-r03-failure-composition in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* ⏺️ Created new branch shawnxxy-r02-query-validation in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* ⏺️ Created new branch shawnxxy-r06-prepared-module in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * 💬 Commented on [#32 [R04] Isolate MySQL public contracts](https://github.com/OrcaSQL-Workbench/ArkDB/issues/32) from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * 💬 Commented on [#30 [R10] Isolate device acceptance harness](https://github.com/OrcaSQL-Workbench/ArkDB/issues/30) from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* ⏺️ Created new branch shawnxxy-mysql-lease-pool in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* ⏺️ Created new branch shawnxxy-t18-long-parameters in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* 🌟 Starred [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
 
 
 <div align="center">
