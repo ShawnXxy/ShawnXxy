@@ -35,11 +35,11 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
+* #️⃣ Opened [#1 [feat Request] 头像图标缩放](https://github.com/Nicconicc/MangUI/issues/1) in [Nicconicc/MangUI](https://github.com/Nicconicc/MangUI)
+* 🌟 Starred [Nicconicc/CardMaster](https://github.com/Nicconicc/CardMaster)
+* ⏺️ Created new branch shawnxxy-r12-test-ownership in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* 🌟 Starred [Nicconicc/MangUI](https://github.com/Nicconicc/MangUI)
 * ⏺️ Created new branch shawnxxy-r09-simplify-surface in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* ⏺️ Created new branch shawnxxy-r13-final-enforcement in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* ⏺️ Created new branch r2-tnt-compatibility-plan in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-* 🍽️ Forked [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) to [ShawnXxy/floorplan](https://github.com/ShawnXxy/floorplan)
-* 🌟 Starred [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan)
 
 
 <div align="center">
