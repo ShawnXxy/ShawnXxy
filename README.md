@@ -35,11 +35,11 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
+* ⏺️ Created new branch shawnxxy-r09-simplify-surface in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * ⏺️ Created new branch shawnxxy-r13-final-enforcement in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * ⏺️ Created new branch r2-tnt-compatibility-plan in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
 * 🍽️ Forked [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) to [ShawnXxy/floorplan](https://github.com/ShawnXxy/floorplan)
 * 🌟 Starred [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan)
-* ⏺️ Created new branch shawnxxy-r08-remaining-features in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 
 
 <div align="center">
