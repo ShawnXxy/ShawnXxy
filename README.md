@@ -35,11 +35,11 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
+* ⏺️ Created new branch shawnxxy-environment-package-store in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
 * 📦 Pre-released **@arkdb/mysql@1.1.0 (engineering preview)** of [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * #️⃣ Opened [#1 [feat Request] 头像图标缩放](https://github.com/Nicconicc/MangUI/issues/1) in [Nicconicc/MangUI](https://github.com/Nicconicc/MangUI)
 * 🌟 Starred [Nicconicc/CardMaster](https://github.com/Nicconicc/CardMaster)
 * ⏺️ Created new branch shawnxxy-r12-test-ownership in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* 🌟 Starred [Nicconicc/MangUI](https://github.com/Nicconicc/MangUI)
 
 
 <div align="center">
