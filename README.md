@@ -35,12 +35,11 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
-* &#128686; Deleted branch <code>shawnxxy-ref-v1-p05-placement-selector</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-
-* 🌟 Starred [OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage)
-* ⏺️ Created new branch driver/pgsql in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* ⏺️ Created new branch shawnxxy-environment-package-store in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-* 📦 Pre-released **@arkdb/mysql@1.1.0 (engineering preview)** of [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* ⏺️ Created new branch shawnxxy-ref-v1-p04-host-audio in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* ⏺️ Created new branch shawnxxy-ref-v1-p03-probe-timeouts in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* 💬 Commented on [#19 ref/v1 P09: route Android display host through placement strategy](https://github.com/ShawnXxy/DroidDesk/issues/19) from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* ⏺️ Created new branch shawnxxy-pgsql-p02-package-skeleton in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* ⏺️ Created new branch shawnxxy-ref-v1-p01-presentation-evidence in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
 
 
 <div align="center">
