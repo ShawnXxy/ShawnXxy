@@ -35,11 +35,14 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
-* ⏺️ Created new branch shawnxxy-ref-v1-p04-host-audio in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-* ⏺️ Created new branch shawnxxy-ref-v1-p03-probe-timeouts in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-* 💬 Commented on [#19 ref/v1 P09: route Android display host through placement strategy](https://github.com/ShawnXxy/DroidDesk/issues/19) from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-* ⏺️ Created new branch shawnxxy-pgsql-p02-package-skeleton in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* ⏺️ Created new branch shawnxxy-ref-v1-p01-presentation-evidence in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* &#128686; Deleted branch <code>shawnxxy-ref-v1-p04-host-audio</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+
+* &#128686; Deleted branch <code>shawnxxy-pgsql-p04-protocol-primitives</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+
+* &#128686; Deleted branch <code>shawnxxy-ref-v1-p09a-connection-identity</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+
+* 💬 Commented on [#45 Add PostgreSQL plaintext TCP transport](https://github.com/OrcaSQL-Workbench/ArkDB/issues/45) from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* ⏺️ Created new branch shawnxxy-ref-v1-p09b1-handoff-registry in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
 
 
 <div align="center">
