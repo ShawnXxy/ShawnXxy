@@ -35,14 +35,12 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
-* &#128686; Deleted branch <code>shawnxxy-pgsql-p08-crypto-saslprep</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* &#128686; Deleted branch <code>shawnxxy-pgsql-p10-scram</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 
-* &#128686; Deleted branch <code>shawnxxy-ref-v1-p07-split-environment-input-polic</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-
-* ⏺️ Created new branch shawnxxy-ref-v1-p09b2-android-host-wiring in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-* ⏺️ Created new branch shawnxxy-pgsql-p08-crypto-saslprep in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* &#128686; Deleted branch <code>shawnxxy-pgsql-p05-frontend-serializers</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-
+* ⏺️ Created new branch shawnxxy-ref-v1-p09b2b-pre-r-product-info in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* ⏺️ Created new branch shawnxxy-pgsql-p06-backend-control in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* 💬 Commented on [#51 feat(pgsql): add TLS upgrade lifecycle](https://github.com/OrcaSQL-Workbench/ArkDB/issues/51) from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* ⏺️ Created new branch ref/v1 in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
 
 
 <div align="center">
