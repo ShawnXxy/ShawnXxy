@@ -35,12 +35,14 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
-* &#128686; Deleted branch <code>shawnxxy-pgsql-p10-scram</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* &#128686; Deleted branch <code>shawnxxy-ref-v1-p09b1-handoff-registry</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
 
-* ⏺️ Created new branch shawnxxy-ref-v1-p09b2b-pre-r-product-info in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-* ⏺️ Created new branch shawnxxy-pgsql-p06-backend-control in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* 💬 Commented on [#51 feat(pgsql): add TLS upgrade lifecycle](https://github.com/OrcaSQL-Workbench/ArkDB/issues/51) from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* ⏺️ Created new branch ref/v1 in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* ⏺️ Created new branch shawnxxy-pgsql-p09a-tls-lifecycle in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* ⏺️ Created new branch shawnxxy-ref-v1-p10c1-attempt-foundation in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* &#128686; Deleted branch <code>shawnxxy-pgsql-p11-legacy-auth</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+
+* &#128686; Deleted branch <code>shawnxxy-ref-v1-p10a-coordinator-placement-seam</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+
 
 
 <div align="center">
