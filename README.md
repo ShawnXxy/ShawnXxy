@@ -35,15 +35,13 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
+* &#128686; Deleted branch <code>shawnxxy-ref-v1-p10c0b-renderer-input-cleanup</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+
+* 💬 Commented on [#39 ref/v1 P11b: route MainActivity and service through requestOpen](https://github.com/ShawnXxy/DroidDesk/issues/39) from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* ⏺️ Created new branch shawnxxy-pgsql-p09b1a1a-der-foundation in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* 💬 Commented on [#56 feat(pgsql): parse GeneralNames certificate entries](https://github.com/OrcaSQL-Workbench/ArkDB/issues/56) from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * &#128686; Deleted branch <code>shawnxxy-ref-v1-p10c0-renderer-claim-admission</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
 
-* &#128686; Deleted branch <code>shawnxxy-ref-v1-p09b2b-pre-r-product-info</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-
-* &#128686; Deleted branch <code>shawnxxy-pgsql-p06-backend-control</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-
-* &#128686; Deleted branch <code>shawnxxy-ref-v1-p09b2a-bind-admission</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-
-* ⏺️ Created new branch shawnxxy-pgsql-p03-registration in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 
 
 <div align="center">
