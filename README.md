@@ -35,12 +35,14 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
-* ⏺️ Created new branch shawnxxy-pgsql-p10-scram in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* ⏺️ Created new branch shawnxxy-ref-v1-p10c0-renderer-claim-admission in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-* ⏺️ Created new branch shawnxxy-ref-v1-p10c1b1-attempt-lifecycle in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-* &#128686; Deleted branch <code>shawnxxy-ref-v1-p10c0b-renderer-input-cleanup</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* &#128686; Deleted branch <code>shawnxxy-ref-v1-p10c1b2a-renderer-claim-identity</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
 
-* 💬 Commented on [#39 ref/v1 P11b: route MainActivity and service through requestOpen](https://github.com/ShawnXxy/DroidDesk/issues/39) from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* &#128686; Deleted branch <code>shawnxxy-pgsql-p09b1a1a-der-foundation</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+
+* ⏺️ Created new branch shawnxxy-ref-v1-p10c0b-renderer-input-cleanup in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* &#128686; Deleted branch <code>shawnxxy-ref-v1-p10c1a-startup-attempt-machine</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+
+* ⏺️ Created new branch shawnxxy-ref-v1-p10c1a-startup-attempt-machine in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
 
 
 <div align="center">
