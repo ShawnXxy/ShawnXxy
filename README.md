@@ -35,14 +35,12 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
-* &#128686; Deleted branch <code>shawnxxy-ref-v1-p10c1b2a-renderer-claim-identity</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* ⏺️ Created new branch shawnxxy-ref-v1-p10c1b2b1-retirement-transaction in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* &#128686; Deleted branch <code>shawnxxy-ref-v1-p10c1b2b2-failmove-transaction</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
 
-* &#128686; Deleted branch <code>shawnxxy-pgsql-p09b1a1a-der-foundation</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-
-* ⏺️ Created new branch shawnxxy-ref-v1-p10c0b-renderer-input-cleanup in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-* &#128686; Deleted branch <code>shawnxxy-ref-v1-p10c1a-startup-attempt-machine</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-
-* ⏺️ Created new branch shawnxxy-ref-v1-p10c1a-startup-attempt-machine in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* 💬 Commented on [#28 ref/v1 P10c: own coordinator open orchestration](https://github.com/ShawnXxy/DroidDesk/issues/28) from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* ⏺️ Created new branch shawnxxy-ref-v1-p10c1b2a-renderer-claim-identity in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* ⏺️ Created new branch shawnxxy-pgsql-p09b1a2-san-presence in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 
 
 <div align="center">
