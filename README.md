@@ -35,12 +35,15 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
-* ⏺️ Created new branch shawnxxy-pgsql-x400-empty-sets in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* &#128686; Deleted branch <code>shawnxxy-ref-v1-p11a-placement-bootstrap-diagnost</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* &#128686; Deleted branch <code>shawnxxy-ref-v1-p11b1-synchronous-request-open</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
 
-* ⏺️ Created new branch shawnxxy-ref-v1-p11a-placement-bootstrap-diagnost in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-* ⏺️ Created new branch shawnxxy-ref-v1-p11b1-synchronous-request-open in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-* ⏺️ Created new branch shawnxxy-ref-v1-p10c2-open-orchestration in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* &#128686; Deleted branch <code>shawnxxy-pgsql-p09b1b2-x400-addresses</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+
+* &#128686; Deleted branch <code>shawnxxy-pgsql-p09b1b1-generalnames-core</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+
+* &#128686; Deleted branch <code>shawnxxy-ref-v1-p10c2-open-orchestration</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+
+* ⏺️ Created new branch shawnxxy-pgsql-x400-empty-sets in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 
 
 <div align="center">
