@@ -35,15 +35,12 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
-* &#128686; Deleted branch <code>shawnxxy-ref-v1-p11b1-synchronous-request-open</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* ⏺️ Created new branch shawnxxy-ref-v1-p15-presentation-policy-geometry in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* ⏺️ Created new branch shawnxxy-pgsql-p09b1b2-x400-addresses in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* ⏺️ Created new branch shawnxxy-ref-v1-p12-display-refresh-policy in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* &#128686; Deleted branch <code>shawnxxy-ref-v1-p12-display-refresh-policy</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
 
-* &#128686; Deleted branch <code>shawnxxy-pgsql-p09b1b2-x400-addresses</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-
-* &#128686; Deleted branch <code>shawnxxy-pgsql-p09b1b1-generalnames-core</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-
-* &#128686; Deleted branch <code>shawnxxy-ref-v1-p10c2-open-orchestration</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-
-* ⏺️ Created new branch shawnxxy-pgsql-x400-empty-sets in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* ⏺️ Created new branch shawnxxy-pgsql-p09b2-identity-matcher in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 
 
 <div align="center">
