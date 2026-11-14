@@ -35,14 +35,13 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
+* ⏺️ Created new branch shawnxxy-ref-v1-p19-desktop-readiness-gate in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* &#128686; Deleted branch <code>shawnxxy-pgsql-p12b2-terminate-close</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+
+* ⏺️ Created new branch shawnxxy-pgsql-p15-simple-query in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * &#128686; Deleted branch <code>shawnxxy-ref-v1-p15-presentation-policy-geometry</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
 
 * &#128686; Deleted branch <code>shawnxxy-pgsql-p12-connection-lifecycle</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-
-* ⏺️ Created new branch shawnxxy-ref-v1-p14-apply-desktop-input-policy in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-* &#128686; Deleted branch <code>shawnxxy-ref-v1-p11b2b2-desktop-item-launch</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-
-* &#128686; Deleted branch <code>shawnxxy-pgsql-p13-startup-auth</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 
 
 
