@@ -35,14 +35,15 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
-* &#128686; Deleted branch <code>shawnxxy-ref-v1-p11b2b1-async-open-provisioning</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+* &#128686; Deleted branch <code>shawnxxy-ref-v1-p11b2b2-desktop-item-launch</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
 
-* ⏺️ Created new branch shawnxxy-ref-v1-p11b2b2-desktop-item-launch in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
-* &#128686; Deleted branch <code>shawnxxy-pgsql-p14-value-decoder</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* &#128686; Deleted branch <code>shawnxxy-pgsql-p13-startup-auth</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 
-* &#128686; Deleted branch <code>shawnxxy-pgsql-p14-ci-probe</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* &#128686; Deleted branch <code>shawnxxy-ref-v1-p11c-final-caller-migration</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
 
-* ⏺️ Created new branch shawnxxy-pgsql-p14-ci-probe in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* &#128686; Deleted branch <code>shawnxxy-ref-v1-p20-flutter-compat-diagnostics</code> from [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
+
+* ⏺️ Created new branch shawnxxy-ref-v1-p11b2b1-async-open-provisioning in [ShawnXxy/DroidDesk](https://github.com/ShawnXxy/DroidDesk)
 
 
 <div align="center">
