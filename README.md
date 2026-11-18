@@ -35,13 +35,13 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
+* 🌟 Starred [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler)
 * &#128686; Deleted branch <code>shawnxxy-pgsql-p20b-transaction-runner</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 
 * &#128686; Deleted branch <code>shawnxxy-pgsql-p22-cancel-request</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 
 * ⏺️ Created new branch shawnxxy-pgsql-p22-cancel-request in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * ⏺️ Created new branch shawnxxy-pgsql-p21-context-helpers in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* ⏺️ Created new branch shawnxxy-pgsql-p16-result-streaming in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 
 
 <div align="center">
