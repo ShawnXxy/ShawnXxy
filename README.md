@@ -35,14 +35,13 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
+* ⏺️ Created new branch shawnxxy-pgsql-p29b-case-cleanup in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
+* ⏺️ Created new branch shawnxxy-pgsql-p29b-cancel-settlement in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * &#128686; Deleted branch <code>shawnxxy-pgsql-p24-metadata-objects</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 
 * ⏺️ Created new branch shawnxxy-pgsql-p24-metadata-objects in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * &#128686; Deleted branch <code>shawnxxy-pgsql-p23-statement-deadlines</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 
-* &#128686; Deleted branch <code>shawnxxy-pgsql-p26a-postgres-consumer</code> from [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-
-* ⏺️ Created new branch shawnxxy-pgsql-p23-statement-deadlines in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 
 
 <div align="center">
