@@ -35,11 +35,11 @@ header and footer
 </div>
 
 **[📰 Recent activity](https://github.com/ShawnXxy)**
+* 🌟 Starred [social-diary/social_diary](https://github.com/social-diary/social_diary)
 * ⏺️ Created new branch shawnxxy-pgsql-p29c-integration in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * ⏺️ Created new branch shawnxxy-pgsql-p29b-runtime-providers in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * ⏺️ Created new branch shawnxxy-pgsql-p29b-case-fixtures in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 * ⏺️ Created new branch shawnxxy-pgsql-p29b-cleanup-quiescence in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
-* ⏺️ Created new branch shawnxxy-pgsql-p29b2b2b1-case-cleanup in [OrcaSQL-Workbench/ArkDB](https://github.com/OrcaSQL-Workbench/ArkDB)
 
 
 <div align="center">
